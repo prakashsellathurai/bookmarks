@@ -15,17 +15,19 @@ def update_README( toc, toc_start="[//]: # (TOCSTART)", toc_end="[//]: # (TOCEND
     with open("README.md", "w") as fout:
         fout.writelines(render)
 
-def recursive_traversal(prefix,bookmarks,result):
+def recursive_traversal(prefix,bookmarks,result,level=0):
     children = bookmarks['children']
     
     
     for item in children:
+        result.append(" \n ")
+        
         if item['type'] == "folder":
             result.append(prefix+"## "+item['title'])
             if item['children'] != None:
-                recursive_traversal(prefix+"\t",item,result)
+                recursive_traversal(prefix+(""*(level+1)),item,result,level=level+1)
         elif item['type'] == "url":
-            result.append(prefix+item['url'])
+            result.append(prefix+" * "+item['url'])
 
             
 
@@ -46,7 +48,9 @@ def main():
     bookmarks = bookmarks[1]
     assert(bookmarks['title'] == "Other Bookmarks")
     result = []
-    recursive_traversal(prefix="\t",bookmarks=bookmarks,result=result)
-    update_README("\n".join(result))
+    recursive_traversal(prefix="",bookmarks=bookmarks,result=result)
+    result = "".join(result)
+    print(result)
+    update_README(result)
 if __name__ == "__main__":
     main()
