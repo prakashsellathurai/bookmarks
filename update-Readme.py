@@ -20,14 +20,17 @@ def recursive_traversal(prefix,bookmarks,result,level=0):
     
     
     for item in children:
-        result.append(" \n ")
+  
         
         if item['type'] == "folder":
-            result.append(prefix+"## "+item['title'])
+            
+            result.append(prefix+"<h2>"+item['title']+"</h2>")
             if item['children'] != None:
-                recursive_traversal(prefix+(""*(level+1)),item,result,level=level+1)
+                result.append("<ul>")
+                recursive_traversal(prefix+str("&nbsp;"*(level+1)),item,result,level=level+1)
+                result.append("</ul>")
         elif item['type'] == "url":
-            result.append(prefix+" * "+item['url'])
+            result.append(prefix+" <li>"+item['url']+"</li>")
 
             
 
@@ -48,9 +51,8 @@ def main():
     bookmarks = bookmarks[1]
     assert(bookmarks['title'] == "Other Bookmarks")
     result = []
-    recursive_traversal(prefix="",bookmarks=bookmarks,result=result)
+    recursive_traversal(prefix=" ",bookmarks=bookmarks,result=result)
     result = "".join(result)
-    print(result)
     update_README(result)
 if __name__ == "__main__":
     main()
