@@ -1,1096 +1,1096 @@
-<h2>blogs</h2>
+<h2>Blogs</h2>
 <ul>
-<li> <a>https://www.benkuhn.net/</a></li> 
-<li> <a>https://huyenchip.com/blog/</a></li> 
-<li> <a>http://www.chrisfenton.com/</a></li> 
-<li> <a>https://eli.thegreenplace.net/archives/all</a></li> 
-<li> <a>https://mcfunley.com/</a></li> 
-<li> <a>https://ericsink.com/index.html</a></li> 
-<li> <a>https://fgiesen.wordpress.com/</a></li> 
-<li> <a>https://fabiensanglard.net/</a></li> 
-<li> <a>https://bellard.org/</a></li> 
-<li> <a>https://www.akalin.com/</a></li> 
-<li> <a>http://blogs.whitman.edu/countingfromzero/</a></li> 
-<li> <a>https://preshing.com/</a></li> 
-<li> <a>http://pvk.ca/</a></li> 
-<li> <a>https://subconscious.substack.com/</a></li> 
-<li> <a>https://3quarksdaily.com/</a></li> 
-<li> <a>https://ralphammer.com/</a></li> 
-<li> <a>https://www.gwern.net/index</a></li> 
-<li> <a>https://publicdomainreview.org/</a></li> 
-<li> <a>https://urbigenous.net/library/</a></li> 
-<li> <a>https://bartoszmilewski.com/</a></li> 
-<li> <a>https://phoboslab.org/</a></li> 
-<li> <a>https://www.yudkowsky.net/</a></li> 
-<li> <a>https://adactio.com/</a></li> 
-<li> <a>http://www.randomhacks.net/</a></li> 
-<li> <a>https://dreamsongs.com/index.html</a></li> 
-<li> <a>https://terrytao.wordpress.com/</a></li> 
-<li> <a>https://kk.org/</a></li> 
-<li> <a>https://www.ribbonfarm.com/</a></li> 
-<li> <a>https://meltingasphalt.com/</a></li> 
-<li> <a>https://statmodeling.stat.columbia.edu/blogs-i-read/</a></li> 
-<li> <a>https://cp4space.hatsya.com/</a></li> 
-<li> <a>https://www.lowtechmagazine.com/</a></li> 
-<li> <a>https://moralunderstanding.substack.com/</a></li> 
-<li> <a>https://scottaaronson.blog/</a></li> 
-<li> <a>https://johncarlosbaez.wordpress.com/</a></li> 
-<li> <a>https://mathwithbaddrawings.com/</a></li> 
-<li> <a>https://www.math.columbia.edu/~dejong/wordpress/</a></li> 
-<li> <a>https://pointersgonewild.com/</a></li> 
-<li> <a>https://www.themarginalian.org/</a></li> 
-<li> <a>https://fiftytwo.in/</a></li> 
-<li> <a>https://blog.regehr.org/</a></li> 
-<li> <a>https://www.hillelwayne.com/post/</a></li> 
-<li> <a>https://tinyprojects.dev/blog</a></li> 
-<li> <a>https://blog.codinghorror.com/</a></li> 
-<li> <a>https://notes.eatonphil.com/</a></li> 
-<li> <a>https://ruslanspivak.com/archives.html</a></li> 
-<li> <a>https://99percentinvisible.org/episode/wait-wait-tell-me/</a></li> 
-<li> <a>https://slatestarcodex.com/</a></li> 
-<li> <a>https://yoshuabengio.org/</a></li> 
+<li> <a href="https://www.benkuhn.net/">https://www.benkuhn.net/</a></li> 
+<li> <a href="https://huyenchip.com/blog/">https://huyenchip.com/blog/</a></li> 
+<li> <a href="http://www.chrisfenton.com/">http://www.chrisfenton.com/</a></li> 
+<li> <a href="https://eli.thegreenplace.net/archives/all">https://eli.thegreenplace.net/archives/all</a></li> 
+<li> <a href="https://mcfunley.com/">https://mcfunley.com/</a></li> 
+<li> <a href="https://ericsink.com/index.html">https://ericsink.com/index.html</a></li> 
+<li> <a href="https://fgiesen.wordpress.com/">https://fgiesen.wordpress.com/</a></li> 
+<li> <a href="https://fabiensanglard.net/">https://fabiensanglard.net/</a></li> 
+<li> <a href="https://bellard.org/">https://bellard.org/</a></li> 
+<li> <a href="https://www.akalin.com/">https://www.akalin.com/</a></li> 
+<li> <a href="http://blogs.whitman.edu/countingfromzero/">http://blogs.whitman.edu/countingfromzero/</a></li> 
+<li> <a href="https://preshing.com/">https://preshing.com/</a></li> 
+<li> <a href="http://pvk.ca/">http://pvk.ca/</a></li> 
+<li> <a href="https://subconscious.substack.com/">https://subconscious.substack.com/</a></li> 
+<li> <a href="https://3quarksdaily.com/">https://3quarksdaily.com/</a></li> 
+<li> <a href="https://ralphammer.com/">https://ralphammer.com/</a></li> 
+<li> <a href="https://www.gwern.net/index">https://www.gwern.net/index</a></li> 
+<li> <a href="https://publicdomainreview.org/">https://publicdomainreview.org/</a></li> 
+<li> <a href="https://urbigenous.net/library/">https://urbigenous.net/library/</a></li> 
+<li> <a href="https://bartoszmilewski.com/">https://bartoszmilewski.com/</a></li> 
+<li> <a href="https://phoboslab.org/">https://phoboslab.org/</a></li> 
+<li> <a href="https://www.yudkowsky.net/">https://www.yudkowsky.net/</a></li> 
+<li> <a href="https://adactio.com/">https://adactio.com/</a></li> 
+<li> <a href="http://www.randomhacks.net/">http://www.randomhacks.net/</a></li> 
+<li> <a href="https://dreamsongs.com/index.html">https://dreamsongs.com/index.html</a></li> 
+<li> <a href="https://terrytao.wordpress.com/">https://terrytao.wordpress.com/</a></li> 
+<li> <a href="https://kk.org/">https://kk.org/</a></li> 
+<li> <a href="https://www.ribbonfarm.com/">https://www.ribbonfarm.com/</a></li> 
+<li> <a href="https://meltingasphalt.com/">https://meltingasphalt.com/</a></li> 
+<li> <a href="https://statmodeling.stat.columbia.edu/blogs-i-read/">https://statmodeling.stat.columbia.edu/blogs-i-read/</a></li> 
+<li> <a href="https://cp4space.hatsya.com/">https://cp4space.hatsya.com/</a></li> 
+<li> <a href="https://www.lowtechmagazine.com/">https://www.lowtechmagazine.com/</a></li> 
+<li> <a href="https://moralunderstanding.substack.com/">https://moralunderstanding.substack.com/</a></li> 
+<li> <a href="https://scottaaronson.blog/">https://scottaaronson.blog/</a></li> 
+<li> <a href="https://johncarlosbaez.wordpress.com/">https://johncarlosbaez.wordpress.com/</a></li> 
+<li> <a href="https://mathwithbaddrawings.com/">https://mathwithbaddrawings.com/</a></li> 
+<li> <a href="https://www.math.columbia.edu/~dejong/wordpress/">https://www.math.columbia.edu/~dejong/wordpress/</a></li> 
+<li> <a href="https://pointersgonewild.com/">https://pointersgonewild.com/</a></li> 
+<li> <a href="https://www.themarginalian.org/">https://www.themarginalian.org/</a></li> 
+<li> <a href="https://fiftytwo.in/">https://fiftytwo.in/</a></li> 
+<li> <a href="https://blog.regehr.org/">https://blog.regehr.org/</a></li> 
+<li> <a href="https://www.hillelwayne.com/post/">https://www.hillelwayne.com/post/</a></li> 
+<li> <a href="https://tinyprojects.dev/blog">https://tinyprojects.dev/blog</a></li> 
+<li> <a href="https://blog.codinghorror.com/">https://blog.codinghorror.com/</a></li> 
+<li> <a href="https://notes.eatonphil.com/">https://notes.eatonphil.com/</a></li> 
+<li> <a href="https://ruslanspivak.com/archives.html">https://ruslanspivak.com/archives.html</a></li> 
+<li> <a href="https://99percentinvisible.org/episode/wait-wait-tell-me/">https://99percentinvisible.org/episode/wait-wait-tell-me/</a></li> 
+<li> <a href="https://slatestarcodex.com/">https://slatestarcodex.com/</a></li> 
+<li> <a href="https://yoshuabengio.org/">https://yoshuabengio.org/</a></li> 
 </ul>
-<h2>books</h2>
+<h2>Books</h2>
 <ul>
-<li> <a>https://www.anthropic-principle.com/q=book/table_of_contents/</a></li> 
-<li> <a>https://www.gutenberg.org/</a></li> 
-<li> <a>https://bayesoptbook.com//book/bayesoptbook.pdf</a></li> 
-<li> <a>https://joyofcryptography.com/pdf/book.pdf</a></li> 
-<li> <a>https://www.tug.org/texshowcase/cheat.pdf</a></li> 
-<li> <a>https://hudsonreview.com/</a></li> 
-<li> <a>https://www.globalgreyebooks.com/index.html</a></li> 
-<li> <a>https://mitpress.mit.edu/sites/default/files/sicp/index.html</a></li> 
+<li> <a href="https://www.anthropic-principle.com/q=book/table_of_contents/">https://www.anthropic-principle.com/q=book/table_of_contents/</a></li> 
+<li> <a href="https://www.gutenberg.org/">https://www.gutenberg.org/</a></li> 
+<li> <a href="https://bayesoptbook.com//book/bayesoptbook.pdf">https://bayesoptbook.com//book/bayesoptbook.pdf</a></li> 
+<li> <a href="https://joyofcryptography.com/pdf/book.pdf">https://joyofcryptography.com/pdf/book.pdf</a></li> 
+<li> <a href="https://www.tug.org/texshowcase/cheat.pdf">https://www.tug.org/texshowcase/cheat.pdf</a></li> 
+<li> <a href="https://hudsonreview.com/">https://hudsonreview.com/</a></li> 
+<li> <a href="https://www.globalgreyebooks.com/index.html">https://www.globalgreyebooks.com/index.html</a></li> 
+<li> <a href="https://mitpress.mit.edu/sites/default/files/sicp/index.html">https://mitpress.mit.edu/sites/default/files/sicp/index.html</a></li> 
 </ul>
-<h2>business</h2>
+<h2>Business</h2>
 <ul>
-<li> <a>https://hbr.org/2020/03/a-more-sustainable-supply-chain?utm_source=linkedin&utm_medium=social&utm_campaign=hbr</a></li> 
-<li> <a>https://thoughtlytics.substack.com/p/10-strategies-work-only-to-the-extent</a></li> 
-<li> <a>https://www.newyorker.com/culture/culture-desk/a-brief-history-of-the-hedge-fund</a></li> 
+<li> <a href="https://hbr.org/2020/03/a-more-sustainable-supply-chain?utm_source=linkedin&utm_medium=social&utm_campaign=hbr">https://hbr.org/2020/03/a-more-sustainable-supply-chain?utm_source=linkedin&utm_medium=social&utm_campaign=hbr</a></li> 
+<li> <a href="https://thoughtlytics.substack.com/p/10-strategies-work-only-to-the-extent">https://thoughtlytics.substack.com/p/10-strategies-work-only-to-the-extent</a></li> 
+<li> <a href="https://www.newyorker.com/culture/culture-desk/a-brief-history-of-the-hedge-fund">https://www.newyorker.com/culture/culture-desk/a-brief-history-of-the-hedge-fund</a></li> 
 </ul>
-<h2>coursera</h2>
+<h2>Coursera</h2>
 <ul>
-<li> <a>https://github.com/shenweichen/Coursera/tree/master/Specialization_Advanced_Machine_Learning_Higher_School_of_Economics/Course1_Introduction%20to%20Deep%20Learning/week4_Unsupervised%20representation%20learning</a></li> 
-<li> <a>https://github.com/hse-aml/intro-to-dl</a></li> 
-<li> <a>https://colab.research.google.com/github/hse-aml/intro-to-dl/blob/master/week3/week3_task2_fine_tuning_clean.ipynb#scrollTo=pNX56MGQGVee</a></li> 
-<li> <a>https://www.coursera.org/learn/intro-to-deep-learning/home/week/4?</a></li> 
-<li> <a>https://github.com/hse-aml/intro-to-dl/blob/master/README.md</a></li> 
-<li> <a>https://github.com/jiadaizhao/Advanced-Machine-Learning-Specialization/blob/master/Introduction%20to%20Deep%20Learning/Week6/week6_final_project_image_captioning_clean.ipynb</a></li> 
-<li> <a>https://onlinecourses.nptel.ac.in/explorer</a></li> 
-<li> <a>http://spoken-tutorial.org/create_cd_content/</a></li> 
+<li> <a href="https://github.com/shenweichen/Coursera/tree/master/Specialization_Advanced_Machine_Learning_Higher_School_of_Economics/Course1_Introduction%20to%20Deep%20Learning/week4_Unsupervised%20representation%20learning">https://github.com/shenweichen/Coursera/tree/master/Specialization_Advanced_Machine_Learning_Higher_School_of_Economics/Course1_Introduction%20to%20Deep%20Learning/week4_Unsupervised%20representation%20learning</a></li> 
+<li> <a href="https://github.com/hse-aml/intro-to-dl">https://github.com/hse-aml/intro-to-dl</a></li> 
+<li> <a href="https://colab.research.google.com/github/hse-aml/intro-to-dl/blob/master/week3/week3_task2_fine_tuning_clean.ipynb#scrollTo=pNX56MGQGVee">https://colab.research.google.com/github/hse-aml/intro-to-dl/blob/master/week3/week3_task2_fine_tuning_clean.ipynb#scrollTo=pNX56MGQGVee</a></li> 
+<li> <a href="https://www.coursera.org/learn/intro-to-deep-learning/home/week/4?">https://www.coursera.org/learn/intro-to-deep-learning/home/week/4?</a></li> 
+<li> <a href="https://github.com/hse-aml/intro-to-dl/blob/master/README.md">https://github.com/hse-aml/intro-to-dl/blob/master/README.md</a></li> 
+<li> <a href="https://github.com/jiadaizhao/Advanced-Machine-Learning-Specialization/blob/master/Introduction%20to%20Deep%20Learning/Week6/week6_final_project_image_captioning_clean.ipynb">https://github.com/jiadaizhao/Advanced-Machine-Learning-Specialization/blob/master/Introduction%20to%20Deep%20Learning/Week6/week6_final_project_image_captioning_clean.ipynb</a></li> 
+<li> <a href="https://onlinecourses.nptel.ac.in/explorer">https://onlinecourses.nptel.ac.in/explorer</a></li> 
+<li> <a href="http://spoken-tutorial.org/create_cd_content/">http://spoken-tutorial.org/create_cd_content/</a></li> 
 </ul>
-<h2>cryptography</h2>
+<h2>Cryptography</h2>
 <ul>
-<li> <a>https://zkp.science/</a></li> 
+<li> <a href="https://zkp.science/">https://zkp.science/</a></li> 
 </ul>
-<h2>dataScience</h2>
+<h2>Datascience</h2>
 <ul>
-<li> <a>https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists</a></li> 
-<li> <a>https://github.com/manjunath5496/Data-Technology-Books</a></li> 
-<li> <a>https://ourworldindata.org/problems-and-progress</a></li> 
-<li> <a>https://ourworldindata.org/</a></li> 
-<li> <a>https://sqlbolt.com/</a></li> 
+<li> <a href="https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists">https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists</a></li> 
+<li> <a href="https://github.com/manjunath5496/Data-Technology-Books">https://github.com/manjunath5496/Data-Technology-Books</a></li> 
+<li> <a href="https://ourworldindata.org/problems-and-progress">https://ourworldindata.org/problems-and-progress</a></li> 
+<li> <a href="https://ourworldindata.org/">https://ourworldindata.org/</a></li> 
+<li> <a href="https://sqlbolt.com/">https://sqlbolt.com/</a></li> 
 </ul>
-<h2>deeplearning</h2>
+<h2>Deeplearning</h2>
 <ul>
-<li> <a>https://ai.intel.com/ngraph-a-new-open-source-compiler-for-deep-learning-systems/</a></li> 
-<li> <a>https://www.eggradients.com/</a></li> 
-<li> <a>http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html</a></li> 
-<li> <a>http://www.wildml.com/deep-learning-glossary/</a></li> 
-<li> <a>http://www.r2d3.us/visual-intro-to-machine-learning-part-2/</a></li> 
-<li> <a>http://cs230.stanford.edu/proj-spring-2018.html</a></li> 
-<li> <a>https://towardsdatascience.com/how-bayesian-statistics-convinced-me-to-hit-the-gym-fa737b0a7ac</a></li> 
-<li> <a>http://explained.ai/matrix-calculus/index.html</a></li> 
-<li> <a>https://deepmind.com/blog/neural-scene-representation-and-rendering/</a></li> 
-<li> <a>https://nealcaren.github.io/python-tutorials/</a></li> 
-<li> <a>https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html</a></li> 
-<li> <a>https://spandan-madan.github.io/DeepLearningProject/docs/Deep_Learning_Project-Pytorch.html</a></li> 
-<li> <a>https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11</a></li> 
-<li> <a>https://github.com/Spandan-Madan/Me_Bot</a></li> 
-<li> <a>http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html</a></li> 
-<li> <a>https://en.wikipedia.org/wiki/Boltzmann_distribution</a></li> 
-<li> <a>https://scrimba.com/g/gneuralnetworks</a></li> 
-<li> <a>https://github.com/aimacode/aima-python</a></li> 
-<li> <a>https://github.com/akanazawa/hmr</a></li> 
-<li> <a>https://github.com/albert100121/360SD-Net</a></li> 
-<li> <a>https://www.nvidia.co.uk/deep-learning-ai/education/</a></li> 
-<li> <a>https://nvidia.qwiklab.com/focuses/5866</a></li> 
-<li> <a>https://rltheorybook.github.io/rltheorybook_AJKS.pdf</a></li> 
-<li> <a>https://nlp.seas.harvard.edu/code/</a></li> 
+<li> <a href="https://ai.intel.com/ngraph-a-new-open-source-compiler-for-deep-learning-systems/">https://ai.intel.com/ngraph-a-new-open-source-compiler-for-deep-learning-systems/</a></li> 
+<li> <a href="https://www.eggradients.com/">https://www.eggradients.com/</a></li> 
+<li> <a href="http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html">http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html</a></li> 
+<li> <a href="http://www.wildml.com/deep-learning-glossary/">http://www.wildml.com/deep-learning-glossary/</a></li> 
+<li> <a href="http://www.r2d3.us/visual-intro-to-machine-learning-part-2/">http://www.r2d3.us/visual-intro-to-machine-learning-part-2/</a></li> 
+<li> <a href="http://cs230.stanford.edu/proj-spring-2018.html">http://cs230.stanford.edu/proj-spring-2018.html</a></li> 
+<li> <a href="https://towardsdatascience.com/how-bayesian-statistics-convinced-me-to-hit-the-gym-fa737b0a7ac">https://towardsdatascience.com/how-bayesian-statistics-convinced-me-to-hit-the-gym-fa737b0a7ac</a></li> 
+<li> <a href="http://explained.ai/matrix-calculus/index.html">http://explained.ai/matrix-calculus/index.html</a></li> 
+<li> <a href="https://deepmind.com/blog/neural-scene-representation-and-rendering/">https://deepmind.com/blog/neural-scene-representation-and-rendering/</a></li> 
+<li> <a href="https://nealcaren.github.io/python-tutorials/">https://nealcaren.github.io/python-tutorials/</a></li> 
+<li> <a href="https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html">https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html</a></li> 
+<li> <a href="https://spandan-madan.github.io/DeepLearningProject/docs/Deep_Learning_Project-Pytorch.html">https://spandan-madan.github.io/DeepLearningProject/docs/Deep_Learning_Project-Pytorch.html</a></li> 
+<li> <a href="https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11">https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11</a></li> 
+<li> <a href="https://github.com/Spandan-Madan/Me_Bot">https://github.com/Spandan-Madan/Me_Bot</a></li> 
+<li> <a href="http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html">http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html</a></li> 
+<li> <a href="https://en.wikipedia.org/wiki/Boltzmann_distribution">https://en.wikipedia.org/wiki/Boltzmann_distribution</a></li> 
+<li> <a href="https://scrimba.com/g/gneuralnetworks">https://scrimba.com/g/gneuralnetworks</a></li> 
+<li> <a href="https://github.com/aimacode/aima-python">https://github.com/aimacode/aima-python</a></li> 
+<li> <a href="https://github.com/akanazawa/hmr">https://github.com/akanazawa/hmr</a></li> 
+<li> <a href="https://github.com/albert100121/360SD-Net">https://github.com/albert100121/360SD-Net</a></li> 
+<li> <a href="https://www.nvidia.co.uk/deep-learning-ai/education/">https://www.nvidia.co.uk/deep-learning-ai/education/</a></li> 
+<li> <a href="https://nvidia.qwiklab.com/focuses/5866">https://nvidia.qwiklab.com/focuses/5866</a></li> 
+<li> <a href="https://rltheorybook.github.io/rltheorybook_AJKS.pdf">https://rltheorybook.github.io/rltheorybook_AJKS.pdf</a></li> 
+<li> <a href="https://nlp.seas.harvard.edu/code/">https://nlp.seas.harvard.edu/code/</a></li> 
 </ul>
-<h2>design</h2>
+<h2>Design</h2>
 <ul>
-<li> <a>https://nodesign.dev/</a></li> 
-<li> <a>https://practicaltypography.com/</a></li> 
-<li> <a>https://every-layout.dev/</a></li> 
-<li> <a>https://stephaniewalter.design/blog/</a></li> 
-<li> <a>https://www.photopea.com/</a></li> 
-<li> <a>https://cleanup.pictures/?ref=producthunt</a></li> 
+<li> <a href="https://nodesign.dev/">https://nodesign.dev/</a></li> 
+<li> <a href="https://practicaltypography.com/">https://practicaltypography.com/</a></li> 
+<li> <a href="https://every-layout.dev/">https://every-layout.dev/</a></li> 
+<li> <a href="https://stephaniewalter.design/blog/">https://stephaniewalter.design/blog/</a></li> 
+<li> <a href="https://www.photopea.com/">https://www.photopea.com/</a></li> 
+<li> <a href="https://cleanup.pictures/?ref=producthunt">https://cleanup.pictures/?ref=producthunt</a></li> 
 </ul>
 <h2>Economics</h2>
 <ul>
-<li> <a>http://matt-clancy.com/economics-of-innovation-detailed-reading-list/</a></li> 
+<li> <a href="http://matt-clancy.com/economics-of-innovation-detailed-reading-list/">http://matt-clancy.com/economics-of-innovation-detailed-reading-list/</a></li> 
 </ul>
 <h2>Engineering</h2>
 <ul>
-<li> <a>https://endless-sphere.com/forums/</a></li> 
+<li> <a href="https://endless-sphere.com/forums/">https://endless-sphere.com/forums/</a></li> 
 </ul>
-<h2>Enginnering Blogs</h2>
+<h2>Enginnering blogs</h2>
 <ul>
-<li> <a>https://developers.500px.com/</a></li> 
-<li> <a>https://8thlight.com/blog/</a></li> 
-<li> <a>https://99designs.com/tech-blog/</a></li> 
-<li> <a>http://tech.adroll.com/blog/</a></li> 
-<li> <a>https://medium.com/build-addepar</a></li> 
-<li> <a>https://build.affinity.co/</a></li> 
-<li> <a>https://airbrake.io/blog/</a></li> 
-<li> <a>https://www.airpair.com/software-experts</a></li> 
-<li> <a>https://advancedweb.hu/</a></li> 
-<li> <a>https://medium.com/airbnb-engineering</a></li> 
-<li> <a>https://airtame.engineering/</a></li> 
-<li> <a>https://blog.algolia.com/</a></li> 
-<li> <a>https://allegro.tech/</a></li> 
-<li> <a>https://techblog.appnexus.com/</a></li> 
-<li> <a>http://blog.arkency.com/</a></li> 
-<li> <a>http://artsy.github.io/</a></li> 
-<li> <a>https://blog.asana.com/category/eng/</a></li> 
-<li> <a>https://developer.atlassian.com/blog/</a></li> 
-<li> <a>https://spin.atomicobject.com/</a></li> 
-<li> <a>https://auth0.com/blog/</a></li> 
-<li> <a>http://blog.avenuecode.com/</a></li> 
-<li> <a>https://aws.amazon.com/blogs/aws/</a></li> 
-<li> <a>https://www.azavea.com/blog/category/software-development/</a></li> 
-<li> <a>https://bytes.babbel.com/en/</a></li> 
-<li> <a>https://backtrace.io/blog/</a></li> 
-<li> <a>https://techblog.badoo.com/</a></li> 
-<li> <a>https://bandcamptech.wordpress.com/</a></li> 
-<li> <a>https://lab.getbase.com/category/engineering/</a></li> 
-<li> <a>https://blog.developer.bazaarvoice.com/</a></li> 
-<li> <a>https://medium.com/bbc-design-engineering/</a></li> 
-<li> <a>https://benchling.engineering/</a></li> 
-<li> <a>https://www.benefitfocus.com/blogs/design-engineering</a></li> 
-<li> <a>http://www.bigeng.io/</a></li> 
-<li> <a>https://binary-studio.com/blog/</a></li> 
-<li> <a>http://word.bitly.com/</a></li> 
-<li> <a>http://engineering.bittorrent.com/</a></li> 
-<li> <a>http://blablatech.com/blog/</a></li> 
-<li> <a>http://rockthecode.io/</a></li> 
-<li> <a>https://code.blender.org/</a></li> 
-<li> <a>http://engineering.blogfoster.com/</a></li> 
-<li> <a>http://www.boxever.com/blog/</a></li> 
-<li> <a>http://engineering.brandwatch.com/</a></li> 
-<li> <a>https://www.buzzfeed.com/techblog</a></li> 
-<li> <a>https://engineering.canva.com/</a></li> 
-<li> <a>https://capgemini.github.io/</a></li> 
-<li> <a>https://www.ctl.io/developers/blog</a></li> 
-<li> <a>http://engineering.cerner.com/</a></li> 
-<li> <a>https://blog.chaps.io/</a></li> 
-<li> <a>http://engineering.chartbeat.com/</a></li> 
-<li> <a>https://blog.chef.io/</a></li> 
-<li> <a>https://engineering.clever.com/</a></li> 
-<li> <a>https://clevertap.com/blog/tag/engineering/</a></li> 
-<li> <a>https://www.previous.cloudbees.com/blog</a></li> 
-<li> <a>https://blog.cloudera.com/</a></li> 
-<li> <a>https://blog.cloudflare.com/</a></li> 
-<li> <a>https://www.cockroachlabs.com/blog/</a></li> 
-<li> <a>http://codebetter.com/</a></li> 
-<li> <a>https://www.codelitt.com/blog/</a></li> 
-<li> <a>https://crypt.codemancers.com/</a></li> 
-<li> <a>https://www.codementor.io/tutorial</a></li> 
-<li> <a>http://www.codenameone.com/blog.html</a></li> 
-<li> <a>https://blog.codeship.com/</a></li> 
-<li> <a>https://engineering.coinbase.com/</a></li> 
-<li> <a>https://collectiveidea.com/blog</a></li> 
-<li> <a>https://techblog.commercetools.com/</a></li> 
-<li> <a>https://technology.condenast.com/</a></li> 
-<li> <a>https://www.confluent.io/blog</a></li> 
-<li> <a>https://convox.com/blog</a></li> 
-<li> <a>http://devblog.coolblue.nl/</a></li> 
-<li> <a>https://engineering.creditkarma.com/</a></li> 
-<li> <a>https://medium.com/criteo-labs</a></li> 
-<li> <a>https://crowdfire.engineering/</a></li> 
-<li> <a>https://cloud.blog.csc.fi/</a></li> 
-<li> <a>http://engineering.curalate.com/</a></li> 
-<li> <a>https://data-artisans.com/blog/</a></li> 
-<li> <a>https://databricks.com/blog</a></li> 
-<li> <a>http://eng.datafox.co/</a></li> 
-<li> <a>https://deezer.io/</a></li> 
-<li> <a>https://deferpanic.com/blog/</a></li> 
-<li> <a>https://deliveroo.engineering/</a></li> 
-<li> <a>https://blog.digitalocean.com/tag/engineering/</a></li> 
-<li> <a>https://blog.discordapp.com/</a></li> 
-<li> <a>https://blog.docker.com/</a></li> 
-<li> <a>https://blog.doordash.com/tagged/engineering</a></li> 
-<li> <a>https://engineering.doximity.com/</a></li> 
-<li> <a>https://drivy.engineering/</a></li> 
-<li> <a>https://blogs.dropbox.com/tech/</a></li> 
-<li> <a>https://www.ebayinc.com/stories/blogs/tech/</a></li> 
-<li> <a>https://medium.com/unexpected-token</a></li> 
-<li> <a>http://www.eharmony.com/engineering/</a></li> 
-<li> <a>https://www.elastic.co/blog/category/engineering</a></li> 
-<li> <a>https://blog.engineyard.com/</a></li> 
-<li> <a>https://sourcecode.entelo.com/</a></li> 
-<li> <a>https://webuild.envato.com/</a></li> 
-<li> <a>https://envoy.engineering/</a></li> 
-<li> <a>https://www.erlang-solutions.com/blog.html</a></li> 
-<li> <a>https://codeascraft.com/</a></li> 
-<li> <a>https://www.eventbrite.com/engineering/</a></li> 
-<li> <a>https://evernote.com/blog/</a></li> 
-<li> <a>https://evilmartians.com/chronicles/</a></li> 
-<li> <a>https://medium.com/expedia-group-tech</a></li> 
-<li> <a>https://code.facebook.com/posts/</a></li> 
-<li> <a>https://engineering.fb.com/category/ai-research/</a></li> 
-<li> <a>http://blog.faraday.io/</a></li> 
-<li> <a>https://medium.com/feedzaitech</a></li> 
-<li> <a>http://making.fiftythree.com/</a></li> 
-<li> <a>http://tech.findmypast.com/</a></li> 
-<li> <a>http://tech.finn.no/</a></li> 
-<li> <a>https://dev.firmafon.dk/blog/</a></li> 
-<li> <a>http://code.flickr.net/</a></li> 
-<li> <a>http://engineering.flipboard.com/</a></li> 
-<li> <a>https://engineering.foursquare.com/</a></li> 
-<li> <a>https://freeletics.engineering/</a></li> 
-<li> <a>https://engineering.fundingcircle.com/</a></li> 
-<li> <a>https://www.future-processing.pl/technical-blog/</a></li> 
-<li> <a>https://galois.com/blog/</a></li> 
-<li> <a>http://tech.gc.com/</a></li> 
-<li> <a>https://tech.geoblink.com/</a></li> 
-<li> <a>http://tech.gilt.com/</a></li> 
-<li> <a>https://engineering.giphy.com/</a></li> 
-<li> <a>https://githubengineering.com/</a></li> 
-<li> <a>https://github.com/blog/category/engineering</a></li> 
-<li> <a>https://gocardless.com/blog/tagged/engineering/</a></li> 
-<li> <a>https://team.goodeggs.com/</a></li> 
-<li> <a>https://security.googleblog.com/</a></li> 
-<li> <a>https://research.googleblog.com/</a></li> 
-<li> <a>https://engineering.gosquared.com/</a></li> 
-<li> <a>https://blog.gojekengineering.com/</a></li> 
-<li> <a>http://engineering.grab.com/</a></li> 
-<li> <a>https://grafana.com/blog/</a></li> 
-<li> <a>https://tech.grammarly.com/blog/index.html</a></li> 
-<li> <a>https://lambda.grofers.com/</a></li> 
-<li> <a>http://blog.joingrouper.com/</a></li> 
-<li> <a>https://engineering.groupon.com/</a></li> 
-<li> <a>https://www.theguardian.com/info/developer-blog</a></li> 
-<li> <a>http://engineering.gusto.com/</a></li> 
-<li> <a>http://engineering.hackerearth.com/</a></li> 
-<li> <a>https://haptik.ai/tech/</a></li> 
-<li> <a>http://engineering.harrys.com/</a></li> 
-<li> <a>https://www.hashicorp.com/blog/</a></li> 
-<li> <a>https://engineering.hashnode.com/</a></li> 
-<li> <a>https://hashrocket.com/blog</a></li> 
-<li> <a>https://blog.hasura.io/</a></li> 
-<li> <a>https://engineering.haus.com/</a></li> 
-<li> <a>https://heap.engineering/</a></li> 
-<li> <a>https://medium.com/helpshift-engineering/</a></li> 
-<li> <a>https://developer.here.com/blog</a></li> 
-<li> <a>https://blog.heroku.com/engineering</a></li> 
-<li> <a>http://code.hireart.com/</a></li> 
-<li> <a>https://tech.homeaway.com/</a></li> 
-<li> <a>http://blog.honeybadger.io/</a></li> 
-<li> <a>http://code.hootsuite.com/</a></li> 
-<li> <a>https://www.hostinger.com/blog/engineering/</a></li> 
-<li> <a>https://medium.com/engineering-housing</a></li> 
-<li> <a>http://product.hubspot.com/blog/topic/engineering</a></li> 
-<li> <a>https://developer.ibm.com/dwblog/</a></li> 
-<li> <a>http://engineering.ifttt.com/</a></li> 
-<li> <a>https://engineering.imvu.com/</a></li> 
-<li> <a>https://blog.imaginea.com/</a></li> 
-<li> <a>https://blog.imgur.com/category/eng/</a></li> 
-<li> <a>http://engineering.indeedblog.com/blog/</a></li> 
-<li> <a>https://tech.instacart.com/</a></li> 
-<li> <a>https://engineering.instagram.com/</a></li> 
-<li> <a>https://software.intel.com/en-us/blogs/</a></li> 
-<li> <a>http://engineering.intenthq.com/</a></li> 
-<li> <a>http://intentmedia.com/blog/</a></li> 
-<li> <a>https://engineering.intercom.io/</a></li> 
-<li> <a>https://quickbooks-engineering.intuit.com/</a></li> 
-<li> <a>http://engineering.invisionapp.com/</a></li> 
-<li> <a>https://blogs.janestreet.com/category/ocaml/</a></li> 
-<li> <a>https://tech.jet.com/</a></li> 
-<li> <a>https://jobandtalent.engineering/</a></li> 
-<li> <a>https://medium.com/jobteaser-dev-team/</a></li> 
-<li> <a>https://jollygoodcode.github.io/</a></li> 
-<li> <a>https://tech.just-eat.com/</a></li> 
-<li> <a>http://engineering.khanacademy.org/</a></li> 
-<li> <a>https://www.kickstarter.com/backing-and-hacking</a></li> 
-<li> <a>https://techblog.king.com/</a></li> 
-<li> <a>https://kinvolk.io/blog/</a></li> 
-<li> <a>https://devblog.kogan.com/</a></li> 
-<li> <a>https://kolosek.com/blog/</a></li> 
-<li> <a>https://latacora.singles/</a></li> 
-<li> <a>http://engineering.laterooms.com/</a></li> 
-<li> <a>https://tech.lendinghome.com/</a></li> 
-<li> <a>https://engineering.linecorp.com/en/blog</a></li> 
-<li> <a>https://developers.livechatinc.com/blog/</a></li> 
-<li> <a>https://liveramp.com/engineering/</a></li> 
-<li> <a>http://eng.localytics.com/</a></li> 
-<li> <a>https://eng.lyft.com/</a></li> 
-<li> <a>https://www.madetech.com/blog</a></li> 
-<li> <a>http://blog.mallow-tech.com/</a></li> 
-<li> <a>http://blog.mandrill.com/</a></li> 
-<li> <a>https://www.maptiler.com/blog/</a></li> 
-<li> <a>https://medium.com/medium-eng</a></li> 
-<li> <a>http://blog.memsql.com/content/engineering/</a></li> 
-<li> <a>https://mesosphere.com/blog/</a></li> 
-<li> <a>https://blogs.msdn.microsoft.com/pythonengineering/</a></li> 
-<li> <a>https://engineering.mixmax.com/</a></li> 
-<li> <a>https://code.mixpanel.com/</a></li> 
-<li> <a>https://engineering.mongodb.com/</a></li> 
-<li> <a>http://engineering.monsanto.com/</a></li> 
-<li> <a>https://blog.moove-it.com/</a></li> 
-<li> <a>https://planet.mozilla.org/ateam/</a></li> 
-<li> <a>https://hacks.mozilla.org/</a></li> 
-<li> <a>https://planet.mozilla.org/releng/</a></li> 
-<li> <a>https://medium.com/myntra-engineering</a></li> 
-<li> <a>https://medium.com/myntra-engineering/tagged/data-science</a></li> 
-<li> <a>https://medium.com/netflix-techblog</a></li> 
-<li> <a>https://open.blogs.nytimes.com/</a></li> 
-<li> <a>https://engblog.nextdoor.com/</a></li> 
-<li> <a>https://nordicapis.com/blog/</a></li> 
-<li> <a>https://www.novoda.com/blog/</a></li> 
-<li> <a>http://blog.apps.npr.org/</a></li> 
-<li> <a>https://blogs.nvidia.com/</a></li> 
-<li> <a>https://blog.octo.com/en/</a></li> 
-<li> <a>https://developer.okta.com/blog/</a></li> 
-<li> <a>https://tech.olx.com/</a></li> 
-<li> <a>https://engineering.opendns.com/</a></li> 
-<li> <a>http://tech.opentable.com/</a></li> 
-<li> <a>http://tech.opentable.co.uk/</a></li> 
-<li> <a>https://code.oursky.com/</a></li> 
-<li> <a>http://tech.oyster.com/</a></li> 
-<li> <a>http://engineering.opensooq.com/</a></li> 
-<li> <a>http://engineering.panoramaed.com/</a></li> 
-<li> <a>https://www.paypal-engineering.com/</a></li> 
-<li> <a>https://www.periscopedata.com/blog</a></li> 
-<li> <a>https://tech.pic-collage.com/</a></li> 
-<li> <a>https://medium.com/@Pinterest_Engineering</a></li> 
-<li> <a>https://engineering.pivotal.io/</a></li> 
-<li> <a>https://medium.com/better-practices</a></li> 
-<li> <a>https://postmarkapp.com/blog</a></li> 
-<li> <a>https://blog.postmates.com/tagged/engineering</a></li> 
-<li> <a>https://medium.com/prezi-engineering</a></li> 
-<li> <a>https://www.pubnub.com/blog/</a></li> 
-<li> <a>http://blog.8thcolor.com/</a></li> 
-<li> <a>https://making.pusher.com/</a></li> 
-<li> <a>https://www.raizlabs.com/dev/</a></li> 
-<li> <a>http://blog.rapidapi.com/</a></li> 
-<li> <a>https://www.rea-group.com/category/tech/</a></li> 
-<li> <a>https://realm.io/news/</a></li> 
-<li> <a>http://artplustech.com/</a></li> 
-<li> <a>http://redino.net/blog/</a></li> 
-<li> <a>https://developers.redhat.com/blog/</a></li> 
-<li> <a>http://engineering.remind.com/</a></li> 
-<li> <a>https://medium.com/retailmenot-engineering/</a></li> 
-<li> <a>http://eng.rightscale.com/</a></li> 
-<li> <a>https://engineering.riotgames.com/</a></li> 
-<li> <a>https://blog.risingstack.com/</a></li> 
-<li> <a>https://www.rosehosting.com/blog/</a></li> 
-<li> <a>https://www.runtastic.com/blog/en/category/tech/</a></li> 
-<li> <a>https://developer.salesforce.com/blogs/engineering/</a></li> 
-<li> <a>http://www.schibsted.pl/blog/</a></li> 
-<li> <a>https://blog.scrapinghub.com/</a></li> 
-<li> <a>https://tech.scrunch.com/blog/</a></li> 
-<li> <a>http://tech.secretescapes.com/</a></li> 
-<li> <a>https://segment.com/blog/categories/engineering/</a></li> 
-<li> <a>https://engineering.semantics3.com/</a></li> 
-<li> <a>https://semaphoreci.com/community</a></li> 
-<li> <a>http://semaphoreci.com/blog/tags/engineering.html</a></li> 
-<li> <a>http://blog.sensible.io/</a></li> 
-<li> <a>https://serverless.com/blog/</a></li> 
-<li> <a>https://engineroom.settled.co.uk/</a></li> 
-<li> <a>http://engineering.shapesecurity.com/</a></li> 
-<li> <a>https://www.sharethis.com/category/engineering/</a></li> 
-<li> <a>https://blog.shazam.com/</a></li> 
-<li> <a>https://engineering.shopify.com/</a></li> 
-<li> <a>https://tech.showmax.com/</a></li> 
-<li> <a>https://medium.com/shyp-engineering</a></li> 
-<li> <a>https://blog.siftscience.com/?category=Engineering</a></li> 
-<li> <a>https://sitepoint.com/</a></li> 
-<li> <a>http://engineering.skybettingandgaming.com/</a></li> 
-<li> <a>http://codevoyagers.com/</a></li> 
-<li> <a>https://slack.engineering/</a></li> 
-<li> <a>https://tech.small-improvements.com/</a></li> 
-<li> <a>https://up.smartrecruiters.com/</a></li> 
-<li> <a>https://snyk.io/blog</a></li> 
-<li> <a>https://devblog.songkick.com/</a></li> 
-<li> <a>https://blog.soshace.com/en/</a></li> 
-<li> <a>https://developers.soundcloud.com/blog/</a></li> 
-<li> <a>http://engineering.speedledger.com/</a></li> 
-<li> <a>https://labs.spotify.com/</a></li> 
-<li> <a>https://blog.sqreen.io/</a></li> 
-<li> <a>https://corner.squareup.com/</a></li> 
-<li> <a>https://engineering.squarespace.com/</a></li> 
-<li> <a>https://stackoverflow.blog/engineering/</a></li> 
-<li> <a>https://stackshare.io/feed</a></li> 
-<li> <a>http://multithreaded.stitchfix.com/blog/</a></li> 
-<li> <a>https://stormpath.com/blog/</a></li> 
-<li> <a>https://medium.com/strava-engineering/</a></li> 
-<li> <a>https://blog.stridenyc.com/</a></li> 
-<li> <a>https://stripe.com/blog</a></li> 
-<li> <a>https://engineering.surveymonkey.com/</a></li> 
-<li> <a>https://bytes.swiggy.com/</a></li> 
-<li> <a>http://blog.takipi.com/</a></li> 
-<li> <a>https://target.github.io/</a></li> 
-<li> <a>http://tech.taskrabbit.com/</a></li> 
-<li> <a>https://engineroom.teamwork.com/</a></li> 
-<li> <a>http://teespring.engineering/</a></li> 
-<li> <a>http://techblog.thescore.com/</a></li> 
-<li> <a>https://robots.thoughtbot.com/</a></li> 
-<li> <a>https://www.thoughtworks.com/insights</a></li> 
-<li> <a>https://www.thumbtack.com/engineering/</a></li> 
-<li> <a>https://tech.ticketmaster.com/</a></li> 
-<li> <a>https://blog.timescale.com/</a></li> 
-<li> <a>https://tech.gotinder.com/</a></li> 
-<li> <a>https://www.toptal.com/blog/</a></li> 
-<li> <a>http://engineroom.trackmaven.com/</a></li> 
-<li> <a>http://tech.transferwise.com/</a></li> 
-<li> <a>https://tech.trello.com/</a></li> 
-<li> <a>http://engineering.tripadvisor.com/</a></li> 
-<li> <a>http://tech.trivago.com/</a></li> 
-<li> <a>https://www.drivenbycode.com/</a></li> 
-<li> <a>https://engineering.tumblr.com/</a></li> 
-<li> <a>https://www.twilio.com/blog/</a></li> 
-<li> <a>https://blog.twitter.com/engineering</a></li> 
-<li> <a>https://blog.twitch.tv/tagged/engineering</a></li> 
-<li> <a>http://eng.uber.com/</a></li> 
-<li> <a>https://engineering.universe.com/</a></li> 
-<li> <a>https://upday.github.io/</a></li> 
-<li> <a>https://engineering.upgrad.com/</a></li> 
-<li> <a>https://engineering.vena.io/</a></li> 
-<li> <a>http://blog.venmo.com/?category=Engineering</a></li> 
-<li> <a>https://blog.versioneye.com/</a></li> 
-<li> <a>http://blog.vevo.com/</a></li> 
-<li> <a>http://engineering.vine.co/</a></li> 
-<li> <a>http://engineering.vinted.com/</a></li> 
-<li> <a>http://blog.vngrs.com/</a></li> 
-<li> <a>https://buildingvts.com/</a></li> 
-<li> <a>https://medium.com/walmartlabs/</a></li> 
-<li> <a>http://engineering.wattpad.com/</a></li> 
-<li> <a>http://engineering.wayfair.com/</a></li> 
-<li> <a>http://eng.wealthfront.com/</a></li> 
-<li> <a>https://blog.wearewizards.io/</a></li> 
-<li> <a>http://engineering.webengage.com/</a></li> 
-<li> <a>https://medium.com/wemake-services</a></li> 
-<li> <a>https://wecode.wepay.com/</a></li> 
-<li> <a>http://tech.wimdu.com/</a></li> 
-<li> <a>http://engineering.wingify.com/</a></li> 
-<li> <a>https://medium.com/@WoloxEngineering/</a></li> 
-<li> <a>http://development.wombatsecurity.com/</a></li> 
-<li> <a>http://tech.wonga.com/</a></li> 
-<li> <a>https://wyeworks.com/blog/</a></li> 
-<li> <a>https://tech.xing.com/</a></li> 
-<li> <a>https://blog.xmartlabs.com/</a></li> 
-<li> <a>https://yahooeng.tumblr.com/</a></li> 
-<li> <a>https://medium.com/yammer-engineering</a></li> 
-<li> <a>https://engineeringblog.yelp.com/</a></li> 
-<li> <a>https://blog.yld.io/</a></li> 
-<li> <a>https://zeemee.engineering/</a></li> 
-<li> <a>https://medium.com/zendesk-engineering</a></li> 
-<li> <a>https://developer.zendesk.com/blog</a></li> 
-<li> <a>https://engineering.zenefits.com/posts/</a></li> 
-<li> <a>https://www.zillow.com/engineering/</a></li> 
-<li> <a>https://engineering.zomato.com/</a></li> 
-<li> <a>https://about.zoosk.com/en/engineering-blog/</a></li> 
-<li> <a>https://engineering.zulily.com/</a></li> 
-<li> <a>http://tech.zumba.com/</a></li> 
-<li> <a>https://0xadada.pub/</a></li> 
-<li> <a>http://tenderlovemaking.com/</a></li> 
-<li> <a>https://blogs.msdn.com/b/abhinaba/</a></li> 
-<li> <a>http://masnun.com/</a></li> 
-<li> <a>https://adambard.com/blog/</a></li> 
-<li> <a>http://dtrace.org/blogs/ahl/</a></li> 
-<li> <a>http://www.adamtuliper.com/</a></li> 
-<li> <a>https://addyosmani.com/blog/</a></li> 
-<li> <a>https://blog.acolyer.org/</a></li> 
-<li> <a>http://alanstorm.com/</a></li> 
-<li> <a>https://arogozhnikov.github.io/</a></li> 
-<li> <a>https://infrequently.org/</a></li> 
-<li> <a>http://akaptur.com/</a></li> 
-<li> <a>https://www.amitmerchant.com/</a></li> 
-<li> <a>http://aarvik.dk/</a></li> 
-<li> <a>https://computer.forensikblog.de/en/</a></li> 
-<li> <a>http://www.andrewcbancroft.com/</a></li> 
-<li> <a>https://blog.bramp.net/</a></li> 
-<li> <a>https://blog.andrewray.me/</a></li> 
-<li> <a>http://aakinshin.net/blog/</a></li> 
-<li> <a>http://antirez.com/latest/0</a></li> 
-<li> <a>https://ariejan.net/</a></li> 
-<li> <a>https://ariya.io/</a></li> 
-<li> <a>http://lucumr.pocoo.org/</a></li> 
-<li> <a>http://www.2ality.com/</a></li> 
-<li> <a>http://bad-concurrency.blogspot.com/</a></li> 
-<li> <a>https://www.wefearchange.org/</a></li> 
-<li> <a>http://www.bfilipek.com/</a></li> 
-<li> <a>https://benmccormick.org/</a></li> 
-<li> <a>http://www.billthelizard.com/</a></li> 
-<li> <a>https://bjornjohansen.no/</a></li> 
-<li> <a>https://blog.blakeerickson.com/</a></li> 
-<li> <a>http://blog.blundellapps.co.uk/</a></li> 
-<li> <a>https://bohops.com/</a></li> 
-<li> <a>http://rhodesmill.org/brandon/</a></li> 
-<li> <a>https://brendaneich.com/</a></li> 
-<li> <a>http://www.brendangregg.com/blog/</a></li> 
-<li> <a>https://medium.com/@elbrujohalcon</a></li> 
-<li> <a>http://dtrace.org/blogs/bmc/</a></li> 
-<li> <a>https://carlosbecker.com/</a></li> 
-<li> <a>https://www.chenhuijing.com/blog/</a></li> 
-<li> <a>http://thelazylog.com/</a></li> 
-<li> <a>https://www.metachris.com/blog/</a></li> 
-<li> <a>http://nullprogram.com/</a></li> 
-<li> <a>http://blog.claymcleod.io/</a></li> 
-<li> <a>http://www.cimgf.com/</a></li> 
-<li> <a>https://codewithstyle.info/</a></li> 
-<li> <a>https://tympanus.net/codrops/</a></li> 
-<li> <a>https://medium.com/dailyjs</a></li> 
-<li> <a>http://dailytechvideo.com/</a></li> 
-<li> <a>https://danluu.com/</a></li> 
-<li> <a>http://code.dblock.org/</a></li> 
-<li> <a>https://medium.com/@dschmidt1992</a></li> 
-<li> <a>http://www.datchley.name/</a></li> 
-<li> <a>https://dave.cheney.net/</a></li> 
-<li> <a>https://davidwalsh.name/</a></li> 
-<li> <a>http://deanhume.com/</a></li> 
-<li> <a>http://deborah-digges.github.io/</a></li> 
-<li> <a>https://hookrace.net/</a></li> 
-<li> <a>https://yurichev.com/blog/</a></li> 
-<li> <a>http://www.dereuromark.de/</a></li> 
-<li> <a>https://www.discovermeteor.com/blog</a></li> 
-<li> <a>https://domenicoluciani.com/</a></li> 
-<li> <a>https://dotdev.co/</a></li> 
-<li> <a>http://dragan.rocks/</a></li> 
-<li> <a>http://www.gajotres.net/</a></li> 
-<li> <a>https://drewdevault.com/</a></li> 
-<li> <a>http://www.practicallyefficient.com/</a></li> 
-<li> <a>https://hyegar.com/</a></li> 
-<li> <a>https://eaf4.com/</a></li> 
-<li> <a>http://elegantcode.com/</a></li> 
-<li> <a>http://eli.thegreenplace.net/</a></li> 
-<li> <a>https://medium.com/javascript-scene/</a></li> 
-<li> <a>https://ericlippert.com/</a></li> 
-<li> <a>https://erikrunyon.com/</a></li> 
-<li> <a>http://evanhahn.com/</a></li> 
-<li> <a>http://www.evanjones.ca/chronological.html</a></li> 
-<li> <a>http://www.evanmiller.org/</a></li> 
-<li> <a>https://blog.evantahler.com/</a></li> 
-<li> <a>http://fbrnc.net/</a></li> 
-<li> <a>https://blog.fedecarg.com/</a></li> 
-<li> <a>https://tomassetti.me/</a></li> 
-<li> <a>https://blog.filippo.io/</a></li> 
-<li> <a>https://murze.be/</a></li> 
-<li> <a>https://glebbahmutov.com/blog/</a></li> 
-<li> <a>http://glennengstrand.info/</a></li> 
-<li> <a>https://www.darkcoding.net/</a></li> 
-<li> <a>http://neopythonic.blogspot.com/</a></li> 
-<li> <a>https://firstdoit.com/</a></li> 
-<li> <a>https://haydenjames.io/</a></li> 
-<li> <a>https://conductofcode.io/</a></li> 
-<li> <a>https://henrikwarne.com/</a></li> 
-<li> <a>http://highscalability.com/</a></li> 
-<li> <a>http://huonw.github.io/</a></li> 
-<li> <a>http://blog.hypriot.com/</a></li> 
-<li> <a>https://themodernlife.github.io/</a></li> 
-<li> <a>http://iansommerville.com/systems-software-and-technology/</a></li> 
-<li> <a>https://idontgetoutmuch.wordpress.com/</a></li> 
-<li> <a>http://stdout.in/</a></li> 
-<li> <a>http://ieftimov.com/</a></li> 
-<li> <a>https://www.igvita.com/</a></li> 
-<li> <a>https://codewithoutrules.com/</a></li> 
-<li> <a>https://ivanursul.com/</a></li> 
-<li> <a>https://jack.ofspades.com/</a></li> 
-<li> <a>https://jaketrent.com/</a></li> 
-<li> <a>http://jakewharton.com/blog</a></li> 
-<li> <a>http://jakeyesbeck.com/</a></li> 
-<li> <a>http://prog21.dadgum.com/</a></li> 
-<li> <a>http://jlongster.com/archive</a></li> 
-<li> <a>http://weblog.jamisbuck.org/</a></li> 
-<li> <a>https://idiosyncratic-ruby.com/</a></li> 
-<li> <a>http://blog.jayfields.com/</a></li> 
-<li> <a>https://blog.codinghorror.com/</a></li> 
-<li> <a>http://preshing.com/</a></li> 
-<li> <a>https://jeremykun.com/</a></li> 
-<li> <a>https://jerrygamblin.com/</a></li> 
-<li> <a>https://jes.al/</a></li> 
-<li> <a>https://blog.jessfraz.com/</a></li> 
-<li> <a>http://www.blackbytes.info/</a></li> 
-<li> <a>https://begriffs.com/</a></li> 
-<li> <a>https://www.joelonsoftware.com/</a></li> 
-<li> <a>http://johannesbrodwall.com/</a></li> 
-<li> <a>https://johnresig.com/category/blog/</a></li> 
-<li> <a>http://www.johnwittenauer.net/</a></li> 
-<li> <a>http://www.jonkensy.com/</a></li> 
-<li> <a>https://codeblog.jonskeet.uk/</a></li> 
-<li> <a>https://blog.cugu.eu/</a></li> 
-<li> <a>http://www.born2data.com/</a></li> 
-<li> <a>https://snook.ca/</a></li> 
-<li> <a>http://blog.reverberate.org/</a></li> 
-<li> <a>https://joshtronic.com/</a></li> 
-<li> <a>https://jtreminio.com/</a></li> 
-<li> <a>https://jvns.ca/</a></li> 
-<li> <a>https://blog.jgrossi.com/</a></li> 
-<li> <a>https://www.justinweiss.com/articles/archives/</a></li> 
-<li> <a>https://juristr.com/blog/</a></li> 
-<li> <a>https://useyourloaf.com/</a></li> 
-<li> <a>https://kev.inburke.com/</a></li> 
-<li> <a>https://medium.com/@kirill_shevch</a></li> 
-<li> <a>https://aphyr.com/</a></li> 
-<li> <a>http://lambda-the-ultimate.org/</a></li> 
-<li> <a>https://lg.io/</a></li> 
-<li> <a>https://iridakos.com/</a></li> 
-<li> <a>http://lea.verou.me/</a></li> 
-<li> <a>http://blog.lerner.co.il/</a></li> 
-<li> <a>http://lifepluslinux.blogspot.in/</a></li> 
-<li> <a>https://loige.co/</a></li> 
-<li> <a>http://manu.sporny.org/</a></li> 
-<li> <a>https://enoent.fr/</a></li> 
-<li> <a>https://blog.rinesi.com/</a></li> 
-<li> <a>http://ocramius.github.io/</a></li> 
-<li> <a>https://idea.popcount.org/</a></li> 
-<li> <a>http://lackingrhoticity.blogspot.de/</a></li> 
-<li> <a>https://martinfowler.com/</a></li> 
-<li> <a>https://maryrosecook.com/blog/</a></li> 
-<li> <a>https://matt.aimonetti.net/</a></li> 
-<li> <a>https://www.mattcutts.com/blog/</a></li> 
-<li> <a>http://matt.might.net/articles/</a></li> 
-<li> <a>http://mattwarren.org/</a></li> 
-<li> <a>https://blog.cryptographyengineering.com/</a></li> 
-<li> <a>https://michaelcrump.net/</a></li> 
-<li> <a>http://www.michaelgallego.fr/articles/</a></li> 
-<li> <a>http://mherman.org/</a></li> 
-<li> <a>https://www.miqu.me/</a></li> 
-<li> <a>https://www.mikeash.com/pyblog/</a></li> 
-<li> <a>http://blog.fogus.me/</a></li> 
-<li> <a>https://blog.sleeplessbeastie.eu/</a></li> 
-<li> <a>https://mirocupak.com/</a></li> 
-<li> <a>https://meowni.ca/</a></li> 
-<li> <a>https://blog.monstermuffin.org/</a></li> 
-<li> <a>http://mishadoff.com/</a></li> 
-<li> <a>https://natashatherobot.com/</a></li> 
-<li> <a>https://blog.nelhage.com/</a></li> 
-<li> <a>https://www.thepolyglotdeveloper.com/blog/</a></li> 
-<li> <a>https://nickcraver.com/blog/</a></li> 
-<li> <a>https://nickdesaulniers.github.io/</a></li> 
-<li> <a>http://www.client9.com/</a></li> 
-<li> <a>http://blog.thislongrun.com/</a></li> 
-<li> <a>http://codefx.org/</a></li> 
-<li> <a>http://www.nikola-breznjak.com/blog/</a></li> 
-<li> <a>http://nikolay.rocks/</a></li> 
-<li> <a>http://nshipster.com/</a></li> 
-<li> <a>http://www.nateberkopec.com/</a></li> 
-<li> <a>https://fullstack.info/</a></li> 
-<li> <a>https://oleb.net/blog/</a></li> 
-<li> <a>http://www.windytan.com/</a></li> 
-<li> <a>http://blog.pamelafox.org/</a></li> 
-<li> <a>http://patshaughnessy.net/</a></li> 
-<li> <a>http://www.paulgraham.com/articles.html</a></li> 
-<li> <a>https://www.paulirish.com/</a></li> 
-<li> <a>https://aerotwist.com/blog/</a></li> 
-<li> <a>https://blog.pchudzik.com/</a></li> 
-<li> <a>http://norvig.com/</a></li> 
-<li> <a>http://petersteinberger.com/</a></li> 
-<li> <a>http://www.catonmat.net/blog/</a></li> 
-<li> <a>http://petr-mitrichev.blogspot.com/</a></li> 
-<li> <a>https://philipwalton.com/</a></li> 
-<li> <a>https://os.phil-opp.com/</a></li> 
-<li> <a>https://ponyfoo.com/</a></li> 
-<li> <a>http://piotrpasich.com/</a></li> 
-<li> <a>http://blog.wittchen.biz.pl/</a></li> 
-<li> <a>https://rachelbythebay.com/w/</a></li> 
-<li> <a>http://radek.io/</a></li> 
-<li> <a>https://radimrehurek.com/blog/</a></li> 
-<li> <a>https://nativeguru.wordpress.com/</a></li> 
-<li> <a>https://www.raywenderlich.com/</a></li> 
-<li> <a>https://blogs.msdn.microsoft.com/oldnewthing/</a></li> 
-<li> <a>https://rhettinger.wordpress.com/</a></li> 
-<li> <a>https://reactjsnews.com/</a></li> 
-<li> <a>https://realpython.com/blog/</a></li> 
-<li> <a>http://raganwald.com/#essays</a></li> 
-<li> <a>http://regulargeek.com/</a></li> 
-<li> <a>https://akrabat.com/</a></li> 
-<li> <a>http://blog.cleancoder.com/</a></li> 
-<li> <a>https://eviltrout.com/</a></li> 
-<li> <a>http://blog.rtwilson.com/</a></li> 
-<li> <a>http://www.rudyhuyn.com/blog/</a></li> 
-<li> <a>https://neverfriday.com/blog/</a></li> 
-<li> <a>https://ruslanspivak.com/</a></li> 
-<li> <a>https://www.sakib.ninja/</a></li> 
-<li> <a>https://samsaffron.com/</a></li> 
-<li> <a>http://sergeyzhuk.me/</a></li> 
-<li> <a>https://schakko.de/</a></li> 
-<li> <a>http://www.hanselman.com/blog/</a></li> 
-<li> <a>http://www.fuzzyblog.io/blog/</a></li> 
-<li> <a>https://devdactic.com/devblog/</a></li> 
-<li> <a>https://www.9lessons.info/</a></li> 
-<li> <a>http://www.stackabuse.com/</a></li> 
-<li> <a>https://muffinman.io/</a></li> 
-<li> <a>http://codebeforethehorse.tumblr.com/</a></li> 
-<li> <a>http://blog.joda.org/</a></li> 
-<li> <a>https://www.cs.columbia.edu/~smb/blog/control/</a></li> 
-<li> <a>https://steve-yegge.blogspot.com/</a></li> 
-<li> <a>http://sudhagar.com/</a></li> 
-<li> <a>https://swizec.com/blog/</a></li> 
-<li> <a>https://tania.dev/</a></li> 
-<li> <a>http://teropa.info/</a></li> 
-<li> <a>https://thatthinginswift.com/</a></li> 
-<li> <a>http://www.thecodedself.com/</a></li> 
-<li> <a>http://thedailywtf.com/</a></li> 
-<li> <a>http://upcoder.com/</a></li> 
-<li> <a>http://jelv.is/blog/</a></li> 
-<li> <a>https://toddmotto.com/</a></li> 
-<li> <a>http://adventuresinautomation.blogspot.com/</a></li> 
-<li> <a>https://una.im/</a></li> 
-<li> <a>http://undocumentedmatlab.com/</a></li> 
-<li> <a>http://vanillajava.blogspot.com/</a></li> 
-<li> <a>https://vladmihalcea.com/</a></li> 
-<li> <a>http://www.wilfred.me.uk/</a></li> 
-<li> <a>https://www.goinggo.net/</a></li> 
-<li> <a>http://www.afronski.pl/</a></li> 
-<li> <a>http://www.yegor256.com/</a></li> 
-<li> <a>http://yifan.lu/</a></li> 
-<li> <a>https://zachholman.com/</a></li> 
-<li> <a>https://zolmeister.com/</a></li> 
-<li> <a>https://android-developers.blogspot.com/</a></li> 
-<li> <a>http://blog.atom.io/</a></li> 
-<li> <a>https://blog.getbootstrap.com/</a></li> 
-<li> <a>https://crystal-lang.org/</a></li> 
-<li> <a>https://blog.golang.org/</a></li> 
-<li> <a>https://ipfs.io/blog/</a></li> 
-<li> <a>https://blog.jooq.org/</a></li> 
-<li> <a>http://blog.klipse.tech/</a></li> 
-<li> <a>https://blog.jetbrains.com/kotlin/</a></li> 
-<li> <a>https://laravel-news.com/blog/</a></li> 
-<li> <a>https://blogs.windows.com/msedgedev/</a></li> 
-<li> <a>https://blogs.msdn.microsoft.com/dotnet/</a></li> 
-<li> <a>https://reactjs.org/blog/</a></li> 
-<li> <a>http://facebook.github.io/react-native/blog/</a></li> 
-<li> <a>http://www.red-lang.org/</a></li> 
-<li> <a>http://rocksdb.org/blog</a></li> 
-<li> <a>https://blog.rust-lang.org/</a></li> 
-<li> <a>https://blog.sketchapp.com/</a></li> 
-<li> <a>https://developer.apple.com/swift/blog/</a></li> 
-<li> <a>http://www.vertabelo.com/blog</a></li> 
+<li> <a href="https://developers.500px.com/">https://developers.500px.com/</a></li> 
+<li> <a href="https://8thlight.com/blog/">https://8thlight.com/blog/</a></li> 
+<li> <a href="https://99designs.com/tech-blog/">https://99designs.com/tech-blog/</a></li> 
+<li> <a href="http://tech.adroll.com/blog/">http://tech.adroll.com/blog/</a></li> 
+<li> <a href="https://medium.com/build-addepar">https://medium.com/build-addepar</a></li> 
+<li> <a href="https://build.affinity.co/">https://build.affinity.co/</a></li> 
+<li> <a href="https://airbrake.io/blog/">https://airbrake.io/blog/</a></li> 
+<li> <a href="https://www.airpair.com/software-experts">https://www.airpair.com/software-experts</a></li> 
+<li> <a href="https://advancedweb.hu/">https://advancedweb.hu/</a></li> 
+<li> <a href="https://medium.com/airbnb-engineering">https://medium.com/airbnb-engineering</a></li> 
+<li> <a href="https://airtame.engineering/">https://airtame.engineering/</a></li> 
+<li> <a href="https://blog.algolia.com/">https://blog.algolia.com/</a></li> 
+<li> <a href="https://allegro.tech/">https://allegro.tech/</a></li> 
+<li> <a href="https://techblog.appnexus.com/">https://techblog.appnexus.com/</a></li> 
+<li> <a href="http://blog.arkency.com/">http://blog.arkency.com/</a></li> 
+<li> <a href="http://artsy.github.io/">http://artsy.github.io/</a></li> 
+<li> <a href="https://blog.asana.com/category/eng/">https://blog.asana.com/category/eng/</a></li> 
+<li> <a href="https://developer.atlassian.com/blog/">https://developer.atlassian.com/blog/</a></li> 
+<li> <a href="https://spin.atomicobject.com/">https://spin.atomicobject.com/</a></li> 
+<li> <a href="https://auth0.com/blog/">https://auth0.com/blog/</a></li> 
+<li> <a href="http://blog.avenuecode.com/">http://blog.avenuecode.com/</a></li> 
+<li> <a href="https://aws.amazon.com/blogs/aws/">https://aws.amazon.com/blogs/aws/</a></li> 
+<li> <a href="https://www.azavea.com/blog/category/software-development/">https://www.azavea.com/blog/category/software-development/</a></li> 
+<li> <a href="https://bytes.babbel.com/en/">https://bytes.babbel.com/en/</a></li> 
+<li> <a href="https://backtrace.io/blog/">https://backtrace.io/blog/</a></li> 
+<li> <a href="https://techblog.badoo.com/">https://techblog.badoo.com/</a></li> 
+<li> <a href="https://bandcamptech.wordpress.com/">https://bandcamptech.wordpress.com/</a></li> 
+<li> <a href="https://lab.getbase.com/category/engineering/">https://lab.getbase.com/category/engineering/</a></li> 
+<li> <a href="https://blog.developer.bazaarvoice.com/">https://blog.developer.bazaarvoice.com/</a></li> 
+<li> <a href="https://medium.com/bbc-design-engineering/">https://medium.com/bbc-design-engineering/</a></li> 
+<li> <a href="https://benchling.engineering/">https://benchling.engineering/</a></li> 
+<li> <a href="https://www.benefitfocus.com/blogs/design-engineering">https://www.benefitfocus.com/blogs/design-engineering</a></li> 
+<li> <a href="http://www.bigeng.io/">http://www.bigeng.io/</a></li> 
+<li> <a href="https://binary-studio.com/blog/">https://binary-studio.com/blog/</a></li> 
+<li> <a href="http://word.bitly.com/">http://word.bitly.com/</a></li> 
+<li> <a href="http://engineering.bittorrent.com/">http://engineering.bittorrent.com/</a></li> 
+<li> <a href="http://blablatech.com/blog/">http://blablatech.com/blog/</a></li> 
+<li> <a href="http://rockthecode.io/">http://rockthecode.io/</a></li> 
+<li> <a href="https://code.blender.org/">https://code.blender.org/</a></li> 
+<li> <a href="http://engineering.blogfoster.com/">http://engineering.blogfoster.com/</a></li> 
+<li> <a href="http://www.boxever.com/blog/">http://www.boxever.com/blog/</a></li> 
+<li> <a href="http://engineering.brandwatch.com/">http://engineering.brandwatch.com/</a></li> 
+<li> <a href="https://www.buzzfeed.com/techblog">https://www.buzzfeed.com/techblog</a></li> 
+<li> <a href="https://engineering.canva.com/">https://engineering.canva.com/</a></li> 
+<li> <a href="https://capgemini.github.io/">https://capgemini.github.io/</a></li> 
+<li> <a href="https://www.ctl.io/developers/blog">https://www.ctl.io/developers/blog</a></li> 
+<li> <a href="http://engineering.cerner.com/">http://engineering.cerner.com/</a></li> 
+<li> <a href="https://blog.chaps.io/">https://blog.chaps.io/</a></li> 
+<li> <a href="http://engineering.chartbeat.com/">http://engineering.chartbeat.com/</a></li> 
+<li> <a href="https://blog.chef.io/">https://blog.chef.io/</a></li> 
+<li> <a href="https://engineering.clever.com/">https://engineering.clever.com/</a></li> 
+<li> <a href="https://clevertap.com/blog/tag/engineering/">https://clevertap.com/blog/tag/engineering/</a></li> 
+<li> <a href="https://www.previous.cloudbees.com/blog">https://www.previous.cloudbees.com/blog</a></li> 
+<li> <a href="https://blog.cloudera.com/">https://blog.cloudera.com/</a></li> 
+<li> <a href="https://blog.cloudflare.com/">https://blog.cloudflare.com/</a></li> 
+<li> <a href="https://www.cockroachlabs.com/blog/">https://www.cockroachlabs.com/blog/</a></li> 
+<li> <a href="http://codebetter.com/">http://codebetter.com/</a></li> 
+<li> <a href="https://www.codelitt.com/blog/">https://www.codelitt.com/blog/</a></li> 
+<li> <a href="https://crypt.codemancers.com/">https://crypt.codemancers.com/</a></li> 
+<li> <a href="https://www.codementor.io/tutorial">https://www.codementor.io/tutorial</a></li> 
+<li> <a href="http://www.codenameone.com/blog.html">http://www.codenameone.com/blog.html</a></li> 
+<li> <a href="https://blog.codeship.com/">https://blog.codeship.com/</a></li> 
+<li> <a href="https://engineering.coinbase.com/">https://engineering.coinbase.com/</a></li> 
+<li> <a href="https://collectiveidea.com/blog">https://collectiveidea.com/blog</a></li> 
+<li> <a href="https://techblog.commercetools.com/">https://techblog.commercetools.com/</a></li> 
+<li> <a href="https://technology.condenast.com/">https://technology.condenast.com/</a></li> 
+<li> <a href="https://www.confluent.io/blog">https://www.confluent.io/blog</a></li> 
+<li> <a href="https://convox.com/blog">https://convox.com/blog</a></li> 
+<li> <a href="http://devblog.coolblue.nl/">http://devblog.coolblue.nl/</a></li> 
+<li> <a href="https://engineering.creditkarma.com/">https://engineering.creditkarma.com/</a></li> 
+<li> <a href="https://medium.com/criteo-labs">https://medium.com/criteo-labs</a></li> 
+<li> <a href="https://crowdfire.engineering/">https://crowdfire.engineering/</a></li> 
+<li> <a href="https://cloud.blog.csc.fi/">https://cloud.blog.csc.fi/</a></li> 
+<li> <a href="http://engineering.curalate.com/">http://engineering.curalate.com/</a></li> 
+<li> <a href="https://data-artisans.com/blog/">https://data-artisans.com/blog/</a></li> 
+<li> <a href="https://databricks.com/blog">https://databricks.com/blog</a></li> 
+<li> <a href="http://eng.datafox.co/">http://eng.datafox.co/</a></li> 
+<li> <a href="https://deezer.io/">https://deezer.io/</a></li> 
+<li> <a href="https://deferpanic.com/blog/">https://deferpanic.com/blog/</a></li> 
+<li> <a href="https://deliveroo.engineering/">https://deliveroo.engineering/</a></li> 
+<li> <a href="https://blog.digitalocean.com/tag/engineering/">https://blog.digitalocean.com/tag/engineering/</a></li> 
+<li> <a href="https://blog.discordapp.com/">https://blog.discordapp.com/</a></li> 
+<li> <a href="https://blog.docker.com/">https://blog.docker.com/</a></li> 
+<li> <a href="https://blog.doordash.com/tagged/engineering">https://blog.doordash.com/tagged/engineering</a></li> 
+<li> <a href="https://engineering.doximity.com/">https://engineering.doximity.com/</a></li> 
+<li> <a href="https://drivy.engineering/">https://drivy.engineering/</a></li> 
+<li> <a href="https://blogs.dropbox.com/tech/">https://blogs.dropbox.com/tech/</a></li> 
+<li> <a href="https://www.ebayinc.com/stories/blogs/tech/">https://www.ebayinc.com/stories/blogs/tech/</a></li> 
+<li> <a href="https://medium.com/unexpected-token">https://medium.com/unexpected-token</a></li> 
+<li> <a href="http://www.eharmony.com/engineering/">http://www.eharmony.com/engineering/</a></li> 
+<li> <a href="https://www.elastic.co/blog/category/engineering">https://www.elastic.co/blog/category/engineering</a></li> 
+<li> <a href="https://blog.engineyard.com/">https://blog.engineyard.com/</a></li> 
+<li> <a href="https://sourcecode.entelo.com/">https://sourcecode.entelo.com/</a></li> 
+<li> <a href="https://webuild.envato.com/">https://webuild.envato.com/</a></li> 
+<li> <a href="https://envoy.engineering/">https://envoy.engineering/</a></li> 
+<li> <a href="https://www.erlang-solutions.com/blog.html">https://www.erlang-solutions.com/blog.html</a></li> 
+<li> <a href="https://codeascraft.com/">https://codeascraft.com/</a></li> 
+<li> <a href="https://www.eventbrite.com/engineering/">https://www.eventbrite.com/engineering/</a></li> 
+<li> <a href="https://evernote.com/blog/">https://evernote.com/blog/</a></li> 
+<li> <a href="https://evilmartians.com/chronicles/">https://evilmartians.com/chronicles/</a></li> 
+<li> <a href="https://medium.com/expedia-group-tech">https://medium.com/expedia-group-tech</a></li> 
+<li> <a href="https://code.facebook.com/posts/">https://code.facebook.com/posts/</a></li> 
+<li> <a href="https://engineering.fb.com/category/ai-research/">https://engineering.fb.com/category/ai-research/</a></li> 
+<li> <a href="http://blog.faraday.io/">http://blog.faraday.io/</a></li> 
+<li> <a href="https://medium.com/feedzaitech">https://medium.com/feedzaitech</a></li> 
+<li> <a href="http://making.fiftythree.com/">http://making.fiftythree.com/</a></li> 
+<li> <a href="http://tech.findmypast.com/">http://tech.findmypast.com/</a></li> 
+<li> <a href="http://tech.finn.no/">http://tech.finn.no/</a></li> 
+<li> <a href="https://dev.firmafon.dk/blog/">https://dev.firmafon.dk/blog/</a></li> 
+<li> <a href="http://code.flickr.net/">http://code.flickr.net/</a></li> 
+<li> <a href="http://engineering.flipboard.com/">http://engineering.flipboard.com/</a></li> 
+<li> <a href="https://engineering.foursquare.com/">https://engineering.foursquare.com/</a></li> 
+<li> <a href="https://freeletics.engineering/">https://freeletics.engineering/</a></li> 
+<li> <a href="https://engineering.fundingcircle.com/">https://engineering.fundingcircle.com/</a></li> 
+<li> <a href="https://www.future-processing.pl/technical-blog/">https://www.future-processing.pl/technical-blog/</a></li> 
+<li> <a href="https://galois.com/blog/">https://galois.com/blog/</a></li> 
+<li> <a href="http://tech.gc.com/">http://tech.gc.com/</a></li> 
+<li> <a href="https://tech.geoblink.com/">https://tech.geoblink.com/</a></li> 
+<li> <a href="http://tech.gilt.com/">http://tech.gilt.com/</a></li> 
+<li> <a href="https://engineering.giphy.com/">https://engineering.giphy.com/</a></li> 
+<li> <a href="https://githubengineering.com/">https://githubengineering.com/</a></li> 
+<li> <a href="https://github.com/blog/category/engineering">https://github.com/blog/category/engineering</a></li> 
+<li> <a href="https://gocardless.com/blog/tagged/engineering/">https://gocardless.com/blog/tagged/engineering/</a></li> 
+<li> <a href="https://team.goodeggs.com/">https://team.goodeggs.com/</a></li> 
+<li> <a href="https://security.googleblog.com/">https://security.googleblog.com/</a></li> 
+<li> <a href="https://research.googleblog.com/">https://research.googleblog.com/</a></li> 
+<li> <a href="https://engineering.gosquared.com/">https://engineering.gosquared.com/</a></li> 
+<li> <a href="https://blog.gojekengineering.com/">https://blog.gojekengineering.com/</a></li> 
+<li> <a href="http://engineering.grab.com/">http://engineering.grab.com/</a></li> 
+<li> <a href="https://grafana.com/blog/">https://grafana.com/blog/</a></li> 
+<li> <a href="https://tech.grammarly.com/blog/index.html">https://tech.grammarly.com/blog/index.html</a></li> 
+<li> <a href="https://lambda.grofers.com/">https://lambda.grofers.com/</a></li> 
+<li> <a href="http://blog.joingrouper.com/">http://blog.joingrouper.com/</a></li> 
+<li> <a href="https://engineering.groupon.com/">https://engineering.groupon.com/</a></li> 
+<li> <a href="https://www.theguardian.com/info/developer-blog">https://www.theguardian.com/info/developer-blog</a></li> 
+<li> <a href="http://engineering.gusto.com/">http://engineering.gusto.com/</a></li> 
+<li> <a href="http://engineering.hackerearth.com/">http://engineering.hackerearth.com/</a></li> 
+<li> <a href="https://haptik.ai/tech/">https://haptik.ai/tech/</a></li> 
+<li> <a href="http://engineering.harrys.com/">http://engineering.harrys.com/</a></li> 
+<li> <a href="https://www.hashicorp.com/blog/">https://www.hashicorp.com/blog/</a></li> 
+<li> <a href="https://engineering.hashnode.com/">https://engineering.hashnode.com/</a></li> 
+<li> <a href="https://hashrocket.com/blog">https://hashrocket.com/blog</a></li> 
+<li> <a href="https://blog.hasura.io/">https://blog.hasura.io/</a></li> 
+<li> <a href="https://engineering.haus.com/">https://engineering.haus.com/</a></li> 
+<li> <a href="https://heap.engineering/">https://heap.engineering/</a></li> 
+<li> <a href="https://medium.com/helpshift-engineering/">https://medium.com/helpshift-engineering/</a></li> 
+<li> <a href="https://developer.here.com/blog">https://developer.here.com/blog</a></li> 
+<li> <a href="https://blog.heroku.com/engineering">https://blog.heroku.com/engineering</a></li> 
+<li> <a href="http://code.hireart.com/">http://code.hireart.com/</a></li> 
+<li> <a href="https://tech.homeaway.com/">https://tech.homeaway.com/</a></li> 
+<li> <a href="http://blog.honeybadger.io/">http://blog.honeybadger.io/</a></li> 
+<li> <a href="http://code.hootsuite.com/">http://code.hootsuite.com/</a></li> 
+<li> <a href="https://www.hostinger.com/blog/engineering/">https://www.hostinger.com/blog/engineering/</a></li> 
+<li> <a href="https://medium.com/engineering-housing">https://medium.com/engineering-housing</a></li> 
+<li> <a href="http://product.hubspot.com/blog/topic/engineering">http://product.hubspot.com/blog/topic/engineering</a></li> 
+<li> <a href="https://developer.ibm.com/dwblog/">https://developer.ibm.com/dwblog/</a></li> 
+<li> <a href="http://engineering.ifttt.com/">http://engineering.ifttt.com/</a></li> 
+<li> <a href="https://engineering.imvu.com/">https://engineering.imvu.com/</a></li> 
+<li> <a href="https://blog.imaginea.com/">https://blog.imaginea.com/</a></li> 
+<li> <a href="https://blog.imgur.com/category/eng/">https://blog.imgur.com/category/eng/</a></li> 
+<li> <a href="http://engineering.indeedblog.com/blog/">http://engineering.indeedblog.com/blog/</a></li> 
+<li> <a href="https://tech.instacart.com/">https://tech.instacart.com/</a></li> 
+<li> <a href="https://engineering.instagram.com/">https://engineering.instagram.com/</a></li> 
+<li> <a href="https://software.intel.com/en-us/blogs/">https://software.intel.com/en-us/blogs/</a></li> 
+<li> <a href="http://engineering.intenthq.com/">http://engineering.intenthq.com/</a></li> 
+<li> <a href="http://intentmedia.com/blog/">http://intentmedia.com/blog/</a></li> 
+<li> <a href="https://engineering.intercom.io/">https://engineering.intercom.io/</a></li> 
+<li> <a href="https://quickbooks-engineering.intuit.com/">https://quickbooks-engineering.intuit.com/</a></li> 
+<li> <a href="http://engineering.invisionapp.com/">http://engineering.invisionapp.com/</a></li> 
+<li> <a href="https://blogs.janestreet.com/category/ocaml/">https://blogs.janestreet.com/category/ocaml/</a></li> 
+<li> <a href="https://tech.jet.com/">https://tech.jet.com/</a></li> 
+<li> <a href="https://jobandtalent.engineering/">https://jobandtalent.engineering/</a></li> 
+<li> <a href="https://medium.com/jobteaser-dev-team/">https://medium.com/jobteaser-dev-team/</a></li> 
+<li> <a href="https://jollygoodcode.github.io/">https://jollygoodcode.github.io/</a></li> 
+<li> <a href="https://tech.just-eat.com/">https://tech.just-eat.com/</a></li> 
+<li> <a href="http://engineering.khanacademy.org/">http://engineering.khanacademy.org/</a></li> 
+<li> <a href="https://www.kickstarter.com/backing-and-hacking">https://www.kickstarter.com/backing-and-hacking</a></li> 
+<li> <a href="https://techblog.king.com/">https://techblog.king.com/</a></li> 
+<li> <a href="https://kinvolk.io/blog/">https://kinvolk.io/blog/</a></li> 
+<li> <a href="https://devblog.kogan.com/">https://devblog.kogan.com/</a></li> 
+<li> <a href="https://kolosek.com/blog/">https://kolosek.com/blog/</a></li> 
+<li> <a href="https://latacora.singles/">https://latacora.singles/</a></li> 
+<li> <a href="http://engineering.laterooms.com/">http://engineering.laterooms.com/</a></li> 
+<li> <a href="https://tech.lendinghome.com/">https://tech.lendinghome.com/</a></li> 
+<li> <a href="https://engineering.linecorp.com/en/blog">https://engineering.linecorp.com/en/blog</a></li> 
+<li> <a href="https://developers.livechatinc.com/blog/">https://developers.livechatinc.com/blog/</a></li> 
+<li> <a href="https://liveramp.com/engineering/">https://liveramp.com/engineering/</a></li> 
+<li> <a href="http://eng.localytics.com/">http://eng.localytics.com/</a></li> 
+<li> <a href="https://eng.lyft.com/">https://eng.lyft.com/</a></li> 
+<li> <a href="https://www.madetech.com/blog">https://www.madetech.com/blog</a></li> 
+<li> <a href="http://blog.mallow-tech.com/">http://blog.mallow-tech.com/</a></li> 
+<li> <a href="http://blog.mandrill.com/">http://blog.mandrill.com/</a></li> 
+<li> <a href="https://www.maptiler.com/blog/">https://www.maptiler.com/blog/</a></li> 
+<li> <a href="https://medium.com/medium-eng">https://medium.com/medium-eng</a></li> 
+<li> <a href="http://blog.memsql.com/content/engineering/">http://blog.memsql.com/content/engineering/</a></li> 
+<li> <a href="https://mesosphere.com/blog/">https://mesosphere.com/blog/</a></li> 
+<li> <a href="https://blogs.msdn.microsoft.com/pythonengineering/">https://blogs.msdn.microsoft.com/pythonengineering/</a></li> 
+<li> <a href="https://engineering.mixmax.com/">https://engineering.mixmax.com/</a></li> 
+<li> <a href="https://code.mixpanel.com/">https://code.mixpanel.com/</a></li> 
+<li> <a href="https://engineering.mongodb.com/">https://engineering.mongodb.com/</a></li> 
+<li> <a href="http://engineering.monsanto.com/">http://engineering.monsanto.com/</a></li> 
+<li> <a href="https://blog.moove-it.com/">https://blog.moove-it.com/</a></li> 
+<li> <a href="https://planet.mozilla.org/ateam/">https://planet.mozilla.org/ateam/</a></li> 
+<li> <a href="https://hacks.mozilla.org/">https://hacks.mozilla.org/</a></li> 
+<li> <a href="https://planet.mozilla.org/releng/">https://planet.mozilla.org/releng/</a></li> 
+<li> <a href="https://medium.com/myntra-engineering">https://medium.com/myntra-engineering</a></li> 
+<li> <a href="https://medium.com/myntra-engineering/tagged/data-science">https://medium.com/myntra-engineering/tagged/data-science</a></li> 
+<li> <a href="https://medium.com/netflix-techblog">https://medium.com/netflix-techblog</a></li> 
+<li> <a href="https://open.blogs.nytimes.com/">https://open.blogs.nytimes.com/</a></li> 
+<li> <a href="https://engblog.nextdoor.com/">https://engblog.nextdoor.com/</a></li> 
+<li> <a href="https://nordicapis.com/blog/">https://nordicapis.com/blog/</a></li> 
+<li> <a href="https://www.novoda.com/blog/">https://www.novoda.com/blog/</a></li> 
+<li> <a href="http://blog.apps.npr.org/">http://blog.apps.npr.org/</a></li> 
+<li> <a href="https://blogs.nvidia.com/">https://blogs.nvidia.com/</a></li> 
+<li> <a href="https://blog.octo.com/en/">https://blog.octo.com/en/</a></li> 
+<li> <a href="https://developer.okta.com/blog/">https://developer.okta.com/blog/</a></li> 
+<li> <a href="https://tech.olx.com/">https://tech.olx.com/</a></li> 
+<li> <a href="https://engineering.opendns.com/">https://engineering.opendns.com/</a></li> 
+<li> <a href="http://tech.opentable.com/">http://tech.opentable.com/</a></li> 
+<li> <a href="http://tech.opentable.co.uk/">http://tech.opentable.co.uk/</a></li> 
+<li> <a href="https://code.oursky.com/">https://code.oursky.com/</a></li> 
+<li> <a href="http://tech.oyster.com/">http://tech.oyster.com/</a></li> 
+<li> <a href="http://engineering.opensooq.com/">http://engineering.opensooq.com/</a></li> 
+<li> <a href="http://engineering.panoramaed.com/">http://engineering.panoramaed.com/</a></li> 
+<li> <a href="https://www.paypal-engineering.com/">https://www.paypal-engineering.com/</a></li> 
+<li> <a href="https://www.periscopedata.com/blog">https://www.periscopedata.com/blog</a></li> 
+<li> <a href="https://tech.pic-collage.com/">https://tech.pic-collage.com/</a></li> 
+<li> <a href="https://medium.com/@Pinterest_Engineering">https://medium.com/@Pinterest_Engineering</a></li> 
+<li> <a href="https://engineering.pivotal.io/">https://engineering.pivotal.io/</a></li> 
+<li> <a href="https://medium.com/better-practices">https://medium.com/better-practices</a></li> 
+<li> <a href="https://postmarkapp.com/blog">https://postmarkapp.com/blog</a></li> 
+<li> <a href="https://blog.postmates.com/tagged/engineering">https://blog.postmates.com/tagged/engineering</a></li> 
+<li> <a href="https://medium.com/prezi-engineering">https://medium.com/prezi-engineering</a></li> 
+<li> <a href="https://www.pubnub.com/blog/">https://www.pubnub.com/blog/</a></li> 
+<li> <a href="http://blog.8thcolor.com/">http://blog.8thcolor.com/</a></li> 
+<li> <a href="https://making.pusher.com/">https://making.pusher.com/</a></li> 
+<li> <a href="https://www.raizlabs.com/dev/">https://www.raizlabs.com/dev/</a></li> 
+<li> <a href="http://blog.rapidapi.com/">http://blog.rapidapi.com/</a></li> 
+<li> <a href="https://www.rea-group.com/category/tech/">https://www.rea-group.com/category/tech/</a></li> 
+<li> <a href="https://realm.io/news/">https://realm.io/news/</a></li> 
+<li> <a href="http://artplustech.com/">http://artplustech.com/</a></li> 
+<li> <a href="http://redino.net/blog/">http://redino.net/blog/</a></li> 
+<li> <a href="https://developers.redhat.com/blog/">https://developers.redhat.com/blog/</a></li> 
+<li> <a href="http://engineering.remind.com/">http://engineering.remind.com/</a></li> 
+<li> <a href="https://medium.com/retailmenot-engineering/">https://medium.com/retailmenot-engineering/</a></li> 
+<li> <a href="http://eng.rightscale.com/">http://eng.rightscale.com/</a></li> 
+<li> <a href="https://engineering.riotgames.com/">https://engineering.riotgames.com/</a></li> 
+<li> <a href="https://blog.risingstack.com/">https://blog.risingstack.com/</a></li> 
+<li> <a href="https://www.rosehosting.com/blog/">https://www.rosehosting.com/blog/</a></li> 
+<li> <a href="https://www.runtastic.com/blog/en/category/tech/">https://www.runtastic.com/blog/en/category/tech/</a></li> 
+<li> <a href="https://developer.salesforce.com/blogs/engineering/">https://developer.salesforce.com/blogs/engineering/</a></li> 
+<li> <a href="http://www.schibsted.pl/blog/">http://www.schibsted.pl/blog/</a></li> 
+<li> <a href="https://blog.scrapinghub.com/">https://blog.scrapinghub.com/</a></li> 
+<li> <a href="https://tech.scrunch.com/blog/">https://tech.scrunch.com/blog/</a></li> 
+<li> <a href="http://tech.secretescapes.com/">http://tech.secretescapes.com/</a></li> 
+<li> <a href="https://segment.com/blog/categories/engineering/">https://segment.com/blog/categories/engineering/</a></li> 
+<li> <a href="https://engineering.semantics3.com/">https://engineering.semantics3.com/</a></li> 
+<li> <a href="https://semaphoreci.com/community">https://semaphoreci.com/community</a></li> 
+<li> <a href="http://semaphoreci.com/blog/tags/engineering.html">http://semaphoreci.com/blog/tags/engineering.html</a></li> 
+<li> <a href="http://blog.sensible.io/">http://blog.sensible.io/</a></li> 
+<li> <a href="https://serverless.com/blog/">https://serverless.com/blog/</a></li> 
+<li> <a href="https://engineroom.settled.co.uk/">https://engineroom.settled.co.uk/</a></li> 
+<li> <a href="http://engineering.shapesecurity.com/">http://engineering.shapesecurity.com/</a></li> 
+<li> <a href="https://www.sharethis.com/category/engineering/">https://www.sharethis.com/category/engineering/</a></li> 
+<li> <a href="https://blog.shazam.com/">https://blog.shazam.com/</a></li> 
+<li> <a href="https://engineering.shopify.com/">https://engineering.shopify.com/</a></li> 
+<li> <a href="https://tech.showmax.com/">https://tech.showmax.com/</a></li> 
+<li> <a href="https://medium.com/shyp-engineering">https://medium.com/shyp-engineering</a></li> 
+<li> <a href="https://blog.siftscience.com/?category=Engineering">https://blog.siftscience.com/?category=Engineering</a></li> 
+<li> <a href="https://sitepoint.com/">https://sitepoint.com/</a></li> 
+<li> <a href="http://engineering.skybettingandgaming.com/">http://engineering.skybettingandgaming.com/</a></li> 
+<li> <a href="http://codevoyagers.com/">http://codevoyagers.com/</a></li> 
+<li> <a href="https://slack.engineering/">https://slack.engineering/</a></li> 
+<li> <a href="https://tech.small-improvements.com/">https://tech.small-improvements.com/</a></li> 
+<li> <a href="https://up.smartrecruiters.com/">https://up.smartrecruiters.com/</a></li> 
+<li> <a href="https://snyk.io/blog">https://snyk.io/blog</a></li> 
+<li> <a href="https://devblog.songkick.com/">https://devblog.songkick.com/</a></li> 
+<li> <a href="https://blog.soshace.com/en/">https://blog.soshace.com/en/</a></li> 
+<li> <a href="https://developers.soundcloud.com/blog/">https://developers.soundcloud.com/blog/</a></li> 
+<li> <a href="http://engineering.speedledger.com/">http://engineering.speedledger.com/</a></li> 
+<li> <a href="https://labs.spotify.com/">https://labs.spotify.com/</a></li> 
+<li> <a href="https://blog.sqreen.io/">https://blog.sqreen.io/</a></li> 
+<li> <a href="https://corner.squareup.com/">https://corner.squareup.com/</a></li> 
+<li> <a href="https://engineering.squarespace.com/">https://engineering.squarespace.com/</a></li> 
+<li> <a href="https://stackoverflow.blog/engineering/">https://stackoverflow.blog/engineering/</a></li> 
+<li> <a href="https://stackshare.io/feed">https://stackshare.io/feed</a></li> 
+<li> <a href="http://multithreaded.stitchfix.com/blog/">http://multithreaded.stitchfix.com/blog/</a></li> 
+<li> <a href="https://stormpath.com/blog/">https://stormpath.com/blog/</a></li> 
+<li> <a href="https://medium.com/strava-engineering/">https://medium.com/strava-engineering/</a></li> 
+<li> <a href="https://blog.stridenyc.com/">https://blog.stridenyc.com/</a></li> 
+<li> <a href="https://stripe.com/blog">https://stripe.com/blog</a></li> 
+<li> <a href="https://engineering.surveymonkey.com/">https://engineering.surveymonkey.com/</a></li> 
+<li> <a href="https://bytes.swiggy.com/">https://bytes.swiggy.com/</a></li> 
+<li> <a href="http://blog.takipi.com/">http://blog.takipi.com/</a></li> 
+<li> <a href="https://target.github.io/">https://target.github.io/</a></li> 
+<li> <a href="http://tech.taskrabbit.com/">http://tech.taskrabbit.com/</a></li> 
+<li> <a href="https://engineroom.teamwork.com/">https://engineroom.teamwork.com/</a></li> 
+<li> <a href="http://teespring.engineering/">http://teespring.engineering/</a></li> 
+<li> <a href="http://techblog.thescore.com/">http://techblog.thescore.com/</a></li> 
+<li> <a href="https://robots.thoughtbot.com/">https://robots.thoughtbot.com/</a></li> 
+<li> <a href="https://www.thoughtworks.com/insights">https://www.thoughtworks.com/insights</a></li> 
+<li> <a href="https://www.thumbtack.com/engineering/">https://www.thumbtack.com/engineering/</a></li> 
+<li> <a href="https://tech.ticketmaster.com/">https://tech.ticketmaster.com/</a></li> 
+<li> <a href="https://blog.timescale.com/">https://blog.timescale.com/</a></li> 
+<li> <a href="https://tech.gotinder.com/">https://tech.gotinder.com/</a></li> 
+<li> <a href="https://www.toptal.com/blog/">https://www.toptal.com/blog/</a></li> 
+<li> <a href="http://engineroom.trackmaven.com/">http://engineroom.trackmaven.com/</a></li> 
+<li> <a href="http://tech.transferwise.com/">http://tech.transferwise.com/</a></li> 
+<li> <a href="https://tech.trello.com/">https://tech.trello.com/</a></li> 
+<li> <a href="http://engineering.tripadvisor.com/">http://engineering.tripadvisor.com/</a></li> 
+<li> <a href="http://tech.trivago.com/">http://tech.trivago.com/</a></li> 
+<li> <a href="https://www.drivenbycode.com/">https://www.drivenbycode.com/</a></li> 
+<li> <a href="https://engineering.tumblr.com/">https://engineering.tumblr.com/</a></li> 
+<li> <a href="https://www.twilio.com/blog/">https://www.twilio.com/blog/</a></li> 
+<li> <a href="https://blog.twitter.com/engineering">https://blog.twitter.com/engineering</a></li> 
+<li> <a href="https://blog.twitch.tv/tagged/engineering">https://blog.twitch.tv/tagged/engineering</a></li> 
+<li> <a href="http://eng.uber.com/">http://eng.uber.com/</a></li> 
+<li> <a href="https://engineering.universe.com/">https://engineering.universe.com/</a></li> 
+<li> <a href="https://upday.github.io/">https://upday.github.io/</a></li> 
+<li> <a href="https://engineering.upgrad.com/">https://engineering.upgrad.com/</a></li> 
+<li> <a href="https://engineering.vena.io/">https://engineering.vena.io/</a></li> 
+<li> <a href="http://blog.venmo.com/?category=Engineering">http://blog.venmo.com/?category=Engineering</a></li> 
+<li> <a href="https://blog.versioneye.com/">https://blog.versioneye.com/</a></li> 
+<li> <a href="http://blog.vevo.com/">http://blog.vevo.com/</a></li> 
+<li> <a href="http://engineering.vine.co/">http://engineering.vine.co/</a></li> 
+<li> <a href="http://engineering.vinted.com/">http://engineering.vinted.com/</a></li> 
+<li> <a href="http://blog.vngrs.com/">http://blog.vngrs.com/</a></li> 
+<li> <a href="https://buildingvts.com/">https://buildingvts.com/</a></li> 
+<li> <a href="https://medium.com/walmartlabs/">https://medium.com/walmartlabs/</a></li> 
+<li> <a href="http://engineering.wattpad.com/">http://engineering.wattpad.com/</a></li> 
+<li> <a href="http://engineering.wayfair.com/">http://engineering.wayfair.com/</a></li> 
+<li> <a href="http://eng.wealthfront.com/">http://eng.wealthfront.com/</a></li> 
+<li> <a href="https://blog.wearewizards.io/">https://blog.wearewizards.io/</a></li> 
+<li> <a href="http://engineering.webengage.com/">http://engineering.webengage.com/</a></li> 
+<li> <a href="https://medium.com/wemake-services">https://medium.com/wemake-services</a></li> 
+<li> <a href="https://wecode.wepay.com/">https://wecode.wepay.com/</a></li> 
+<li> <a href="http://tech.wimdu.com/">http://tech.wimdu.com/</a></li> 
+<li> <a href="http://engineering.wingify.com/">http://engineering.wingify.com/</a></li> 
+<li> <a href="https://medium.com/@WoloxEngineering/">https://medium.com/@WoloxEngineering/</a></li> 
+<li> <a href="http://development.wombatsecurity.com/">http://development.wombatsecurity.com/</a></li> 
+<li> <a href="http://tech.wonga.com/">http://tech.wonga.com/</a></li> 
+<li> <a href="https://wyeworks.com/blog/">https://wyeworks.com/blog/</a></li> 
+<li> <a href="https://tech.xing.com/">https://tech.xing.com/</a></li> 
+<li> <a href="https://blog.xmartlabs.com/">https://blog.xmartlabs.com/</a></li> 
+<li> <a href="https://yahooeng.tumblr.com/">https://yahooeng.tumblr.com/</a></li> 
+<li> <a href="https://medium.com/yammer-engineering">https://medium.com/yammer-engineering</a></li> 
+<li> <a href="https://engineeringblog.yelp.com/">https://engineeringblog.yelp.com/</a></li> 
+<li> <a href="https://blog.yld.io/">https://blog.yld.io/</a></li> 
+<li> <a href="https://zeemee.engineering/">https://zeemee.engineering/</a></li> 
+<li> <a href="https://medium.com/zendesk-engineering">https://medium.com/zendesk-engineering</a></li> 
+<li> <a href="https://developer.zendesk.com/blog">https://developer.zendesk.com/blog</a></li> 
+<li> <a href="https://engineering.zenefits.com/posts/">https://engineering.zenefits.com/posts/</a></li> 
+<li> <a href="https://www.zillow.com/engineering/">https://www.zillow.com/engineering/</a></li> 
+<li> <a href="https://engineering.zomato.com/">https://engineering.zomato.com/</a></li> 
+<li> <a href="https://about.zoosk.com/en/engineering-blog/">https://about.zoosk.com/en/engineering-blog/</a></li> 
+<li> <a href="https://engineering.zulily.com/">https://engineering.zulily.com/</a></li> 
+<li> <a href="http://tech.zumba.com/">http://tech.zumba.com/</a></li> 
+<li> <a href="https://0xadada.pub/">https://0xadada.pub/</a></li> 
+<li> <a href="http://tenderlovemaking.com/">http://tenderlovemaking.com/</a></li> 
+<li> <a href="https://blogs.msdn.com/b/abhinaba/">https://blogs.msdn.com/b/abhinaba/</a></li> 
+<li> <a href="http://masnun.com/">http://masnun.com/</a></li> 
+<li> <a href="https://adambard.com/blog/">https://adambard.com/blog/</a></li> 
+<li> <a href="http://dtrace.org/blogs/ahl/">http://dtrace.org/blogs/ahl/</a></li> 
+<li> <a href="http://www.adamtuliper.com/">http://www.adamtuliper.com/</a></li> 
+<li> <a href="https://addyosmani.com/blog/">https://addyosmani.com/blog/</a></li> 
+<li> <a href="https://blog.acolyer.org/">https://blog.acolyer.org/</a></li> 
+<li> <a href="http://alanstorm.com/">http://alanstorm.com/</a></li> 
+<li> <a href="https://arogozhnikov.github.io/">https://arogozhnikov.github.io/</a></li> 
+<li> <a href="https://infrequently.org/">https://infrequently.org/</a></li> 
+<li> <a href="http://akaptur.com/">http://akaptur.com/</a></li> 
+<li> <a href="https://www.amitmerchant.com/">https://www.amitmerchant.com/</a></li> 
+<li> <a href="http://aarvik.dk/">http://aarvik.dk/</a></li> 
+<li> <a href="https://computer.forensikblog.de/en/">https://computer.forensikblog.de/en/</a></li> 
+<li> <a href="http://www.andrewcbancroft.com/">http://www.andrewcbancroft.com/</a></li> 
+<li> <a href="https://blog.bramp.net/">https://blog.bramp.net/</a></li> 
+<li> <a href="https://blog.andrewray.me/">https://blog.andrewray.me/</a></li> 
+<li> <a href="http://aakinshin.net/blog/">http://aakinshin.net/blog/</a></li> 
+<li> <a href="http://antirez.com/latest/0">http://antirez.com/latest/0</a></li> 
+<li> <a href="https://ariejan.net/">https://ariejan.net/</a></li> 
+<li> <a href="https://ariya.io/">https://ariya.io/</a></li> 
+<li> <a href="http://lucumr.pocoo.org/">http://lucumr.pocoo.org/</a></li> 
+<li> <a href="http://www.2ality.com/">http://www.2ality.com/</a></li> 
+<li> <a href="http://bad-concurrency.blogspot.com/">http://bad-concurrency.blogspot.com/</a></li> 
+<li> <a href="https://www.wefearchange.org/">https://www.wefearchange.org/</a></li> 
+<li> <a href="http://www.bfilipek.com/">http://www.bfilipek.com/</a></li> 
+<li> <a href="https://benmccormick.org/">https://benmccormick.org/</a></li> 
+<li> <a href="http://www.billthelizard.com/">http://www.billthelizard.com/</a></li> 
+<li> <a href="https://bjornjohansen.no/">https://bjornjohansen.no/</a></li> 
+<li> <a href="https://blog.blakeerickson.com/">https://blog.blakeerickson.com/</a></li> 
+<li> <a href="http://blog.blundellapps.co.uk/">http://blog.blundellapps.co.uk/</a></li> 
+<li> <a href="https://bohops.com/">https://bohops.com/</a></li> 
+<li> <a href="http://rhodesmill.org/brandon/">http://rhodesmill.org/brandon/</a></li> 
+<li> <a href="https://brendaneich.com/">https://brendaneich.com/</a></li> 
+<li> <a href="http://www.brendangregg.com/blog/">http://www.brendangregg.com/blog/</a></li> 
+<li> <a href="https://medium.com/@elbrujohalcon">https://medium.com/@elbrujohalcon</a></li> 
+<li> <a href="http://dtrace.org/blogs/bmc/">http://dtrace.org/blogs/bmc/</a></li> 
+<li> <a href="https://carlosbecker.com/">https://carlosbecker.com/</a></li> 
+<li> <a href="https://www.chenhuijing.com/blog/">https://www.chenhuijing.com/blog/</a></li> 
+<li> <a href="http://thelazylog.com/">http://thelazylog.com/</a></li> 
+<li> <a href="https://www.metachris.com/blog/">https://www.metachris.com/blog/</a></li> 
+<li> <a href="http://nullprogram.com/">http://nullprogram.com/</a></li> 
+<li> <a href="http://blog.claymcleod.io/">http://blog.claymcleod.io/</a></li> 
+<li> <a href="http://www.cimgf.com/">http://www.cimgf.com/</a></li> 
+<li> <a href="https://codewithstyle.info/">https://codewithstyle.info/</a></li> 
+<li> <a href="https://tympanus.net/codrops/">https://tympanus.net/codrops/</a></li> 
+<li> <a href="https://medium.com/dailyjs">https://medium.com/dailyjs</a></li> 
+<li> <a href="http://dailytechvideo.com/">http://dailytechvideo.com/</a></li> 
+<li> <a href="https://danluu.com/">https://danluu.com/</a></li> 
+<li> <a href="http://code.dblock.org/">http://code.dblock.org/</a></li> 
+<li> <a href="https://medium.com/@dschmidt1992">https://medium.com/@dschmidt1992</a></li> 
+<li> <a href="http://www.datchley.name/">http://www.datchley.name/</a></li> 
+<li> <a href="https://dave.cheney.net/">https://dave.cheney.net/</a></li> 
+<li> <a href="https://davidwalsh.name/">https://davidwalsh.name/</a></li> 
+<li> <a href="http://deanhume.com/">http://deanhume.com/</a></li> 
+<li> <a href="http://deborah-digges.github.io/">http://deborah-digges.github.io/</a></li> 
+<li> <a href="https://hookrace.net/">https://hookrace.net/</a></li> 
+<li> <a href="https://yurichev.com/blog/">https://yurichev.com/blog/</a></li> 
+<li> <a href="http://www.dereuromark.de/">http://www.dereuromark.de/</a></li> 
+<li> <a href="https://www.discovermeteor.com/blog">https://www.discovermeteor.com/blog</a></li> 
+<li> <a href="https://domenicoluciani.com/">https://domenicoluciani.com/</a></li> 
+<li> <a href="https://dotdev.co/">https://dotdev.co/</a></li> 
+<li> <a href="http://dragan.rocks/">http://dragan.rocks/</a></li> 
+<li> <a href="http://www.gajotres.net/">http://www.gajotres.net/</a></li> 
+<li> <a href="https://drewdevault.com/">https://drewdevault.com/</a></li> 
+<li> <a href="http://www.practicallyefficient.com/">http://www.practicallyefficient.com/</a></li> 
+<li> <a href="https://hyegar.com/">https://hyegar.com/</a></li> 
+<li> <a href="https://eaf4.com/">https://eaf4.com/</a></li> 
+<li> <a href="http://elegantcode.com/">http://elegantcode.com/</a></li> 
+<li> <a href="http://eli.thegreenplace.net/">http://eli.thegreenplace.net/</a></li> 
+<li> <a href="https://medium.com/javascript-scene/">https://medium.com/javascript-scene/</a></li> 
+<li> <a href="https://ericlippert.com/">https://ericlippert.com/</a></li> 
+<li> <a href="https://erikrunyon.com/">https://erikrunyon.com/</a></li> 
+<li> <a href="http://evanhahn.com/">http://evanhahn.com/</a></li> 
+<li> <a href="http://www.evanjones.ca/chronological.html">http://www.evanjones.ca/chronological.html</a></li> 
+<li> <a href="http://www.evanmiller.org/">http://www.evanmiller.org/</a></li> 
+<li> <a href="https://blog.evantahler.com/">https://blog.evantahler.com/</a></li> 
+<li> <a href="http://fbrnc.net/">http://fbrnc.net/</a></li> 
+<li> <a href="https://blog.fedecarg.com/">https://blog.fedecarg.com/</a></li> 
+<li> <a href="https://tomassetti.me/">https://tomassetti.me/</a></li> 
+<li> <a href="https://blog.filippo.io/">https://blog.filippo.io/</a></li> 
+<li> <a href="https://murze.be/">https://murze.be/</a></li> 
+<li> <a href="https://glebbahmutov.com/blog/">https://glebbahmutov.com/blog/</a></li> 
+<li> <a href="http://glennengstrand.info/">http://glennengstrand.info/</a></li> 
+<li> <a href="https://www.darkcoding.net/">https://www.darkcoding.net/</a></li> 
+<li> <a href="http://neopythonic.blogspot.com/">http://neopythonic.blogspot.com/</a></li> 
+<li> <a href="https://firstdoit.com/">https://firstdoit.com/</a></li> 
+<li> <a href="https://haydenjames.io/">https://haydenjames.io/</a></li> 
+<li> <a href="https://conductofcode.io/">https://conductofcode.io/</a></li> 
+<li> <a href="https://henrikwarne.com/">https://henrikwarne.com/</a></li> 
+<li> <a href="http://highscalability.com/">http://highscalability.com/</a></li> 
+<li> <a href="http://huonw.github.io/">http://huonw.github.io/</a></li> 
+<li> <a href="http://blog.hypriot.com/">http://blog.hypriot.com/</a></li> 
+<li> <a href="https://themodernlife.github.io/">https://themodernlife.github.io/</a></li> 
+<li> <a href="http://iansommerville.com/systems-software-and-technology/">http://iansommerville.com/systems-software-and-technology/</a></li> 
+<li> <a href="https://idontgetoutmuch.wordpress.com/">https://idontgetoutmuch.wordpress.com/</a></li> 
+<li> <a href="http://stdout.in/">http://stdout.in/</a></li> 
+<li> <a href="http://ieftimov.com/">http://ieftimov.com/</a></li> 
+<li> <a href="https://www.igvita.com/">https://www.igvita.com/</a></li> 
+<li> <a href="https://codewithoutrules.com/">https://codewithoutrules.com/</a></li> 
+<li> <a href="https://ivanursul.com/">https://ivanursul.com/</a></li> 
+<li> <a href="https://jack.ofspades.com/">https://jack.ofspades.com/</a></li> 
+<li> <a href="https://jaketrent.com/">https://jaketrent.com/</a></li> 
+<li> <a href="http://jakewharton.com/blog">http://jakewharton.com/blog</a></li> 
+<li> <a href="http://jakeyesbeck.com/">http://jakeyesbeck.com/</a></li> 
+<li> <a href="http://prog21.dadgum.com/">http://prog21.dadgum.com/</a></li> 
+<li> <a href="http://jlongster.com/archive">http://jlongster.com/archive</a></li> 
+<li> <a href="http://weblog.jamisbuck.org/">http://weblog.jamisbuck.org/</a></li> 
+<li> <a href="https://idiosyncratic-ruby.com/">https://idiosyncratic-ruby.com/</a></li> 
+<li> <a href="http://blog.jayfields.com/">http://blog.jayfields.com/</a></li> 
+<li> <a href="https://blog.codinghorror.com/">https://blog.codinghorror.com/</a></li> 
+<li> <a href="http://preshing.com/">http://preshing.com/</a></li> 
+<li> <a href="https://jeremykun.com/">https://jeremykun.com/</a></li> 
+<li> <a href="https://jerrygamblin.com/">https://jerrygamblin.com/</a></li> 
+<li> <a href="https://jes.al/">https://jes.al/</a></li> 
+<li> <a href="https://blog.jessfraz.com/">https://blog.jessfraz.com/</a></li> 
+<li> <a href="http://www.blackbytes.info/">http://www.blackbytes.info/</a></li> 
+<li> <a href="https://begriffs.com/">https://begriffs.com/</a></li> 
+<li> <a href="https://www.joelonsoftware.com/">https://www.joelonsoftware.com/</a></li> 
+<li> <a href="http://johannesbrodwall.com/">http://johannesbrodwall.com/</a></li> 
+<li> <a href="https://johnresig.com/category/blog/">https://johnresig.com/category/blog/</a></li> 
+<li> <a href="http://www.johnwittenauer.net/">http://www.johnwittenauer.net/</a></li> 
+<li> <a href="http://www.jonkensy.com/">http://www.jonkensy.com/</a></li> 
+<li> <a href="https://codeblog.jonskeet.uk/">https://codeblog.jonskeet.uk/</a></li> 
+<li> <a href="https://blog.cugu.eu/">https://blog.cugu.eu/</a></li> 
+<li> <a href="http://www.born2data.com/">http://www.born2data.com/</a></li> 
+<li> <a href="https://snook.ca/">https://snook.ca/</a></li> 
+<li> <a href="http://blog.reverberate.org/">http://blog.reverberate.org/</a></li> 
+<li> <a href="https://joshtronic.com/">https://joshtronic.com/</a></li> 
+<li> <a href="https://jtreminio.com/">https://jtreminio.com/</a></li> 
+<li> <a href="https://jvns.ca/">https://jvns.ca/</a></li> 
+<li> <a href="https://blog.jgrossi.com/">https://blog.jgrossi.com/</a></li> 
+<li> <a href="https://www.justinweiss.com/articles/archives/">https://www.justinweiss.com/articles/archives/</a></li> 
+<li> <a href="https://juristr.com/blog/">https://juristr.com/blog/</a></li> 
+<li> <a href="https://useyourloaf.com/">https://useyourloaf.com/</a></li> 
+<li> <a href="https://kev.inburke.com/">https://kev.inburke.com/</a></li> 
+<li> <a href="https://medium.com/@kirill_shevch">https://medium.com/@kirill_shevch</a></li> 
+<li> <a href="https://aphyr.com/">https://aphyr.com/</a></li> 
+<li> <a href="http://lambda-the-ultimate.org/">http://lambda-the-ultimate.org/</a></li> 
+<li> <a href="https://lg.io/">https://lg.io/</a></li> 
+<li> <a href="https://iridakos.com/">https://iridakos.com/</a></li> 
+<li> <a href="http://lea.verou.me/">http://lea.verou.me/</a></li> 
+<li> <a href="http://blog.lerner.co.il/">http://blog.lerner.co.il/</a></li> 
+<li> <a href="http://lifepluslinux.blogspot.in/">http://lifepluslinux.blogspot.in/</a></li> 
+<li> <a href="https://loige.co/">https://loige.co/</a></li> 
+<li> <a href="http://manu.sporny.org/">http://manu.sporny.org/</a></li> 
+<li> <a href="https://enoent.fr/">https://enoent.fr/</a></li> 
+<li> <a href="https://blog.rinesi.com/">https://blog.rinesi.com/</a></li> 
+<li> <a href="http://ocramius.github.io/">http://ocramius.github.io/</a></li> 
+<li> <a href="https://idea.popcount.org/">https://idea.popcount.org/</a></li> 
+<li> <a href="http://lackingrhoticity.blogspot.de/">http://lackingrhoticity.blogspot.de/</a></li> 
+<li> <a href="https://martinfowler.com/">https://martinfowler.com/</a></li> 
+<li> <a href="https://maryrosecook.com/blog/">https://maryrosecook.com/blog/</a></li> 
+<li> <a href="https://matt.aimonetti.net/">https://matt.aimonetti.net/</a></li> 
+<li> <a href="https://www.mattcutts.com/blog/">https://www.mattcutts.com/blog/</a></li> 
+<li> <a href="http://matt.might.net/articles/">http://matt.might.net/articles/</a></li> 
+<li> <a href="http://mattwarren.org/">http://mattwarren.org/</a></li> 
+<li> <a href="https://blog.cryptographyengineering.com/">https://blog.cryptographyengineering.com/</a></li> 
+<li> <a href="https://michaelcrump.net/">https://michaelcrump.net/</a></li> 
+<li> <a href="http://www.michaelgallego.fr/articles/">http://www.michaelgallego.fr/articles/</a></li> 
+<li> <a href="http://mherman.org/">http://mherman.org/</a></li> 
+<li> <a href="https://www.miqu.me/">https://www.miqu.me/</a></li> 
+<li> <a href="https://www.mikeash.com/pyblog/">https://www.mikeash.com/pyblog/</a></li> 
+<li> <a href="http://blog.fogus.me/">http://blog.fogus.me/</a></li> 
+<li> <a href="https://blog.sleeplessbeastie.eu/">https://blog.sleeplessbeastie.eu/</a></li> 
+<li> <a href="https://mirocupak.com/">https://mirocupak.com/</a></li> 
+<li> <a href="https://meowni.ca/">https://meowni.ca/</a></li> 
+<li> <a href="https://blog.monstermuffin.org/">https://blog.monstermuffin.org/</a></li> 
+<li> <a href="http://mishadoff.com/">http://mishadoff.com/</a></li> 
+<li> <a href="https://natashatherobot.com/">https://natashatherobot.com/</a></li> 
+<li> <a href="https://blog.nelhage.com/">https://blog.nelhage.com/</a></li> 
+<li> <a href="https://www.thepolyglotdeveloper.com/blog/">https://www.thepolyglotdeveloper.com/blog/</a></li> 
+<li> <a href="https://nickcraver.com/blog/">https://nickcraver.com/blog/</a></li> 
+<li> <a href="https://nickdesaulniers.github.io/">https://nickdesaulniers.github.io/</a></li> 
+<li> <a href="http://www.client9.com/">http://www.client9.com/</a></li> 
+<li> <a href="http://blog.thislongrun.com/">http://blog.thislongrun.com/</a></li> 
+<li> <a href="http://codefx.org/">http://codefx.org/</a></li> 
+<li> <a href="http://www.nikola-breznjak.com/blog/">http://www.nikola-breznjak.com/blog/</a></li> 
+<li> <a href="http://nikolay.rocks/">http://nikolay.rocks/</a></li> 
+<li> <a href="http://nshipster.com/">http://nshipster.com/</a></li> 
+<li> <a href="http://www.nateberkopec.com/">http://www.nateberkopec.com/</a></li> 
+<li> <a href="https://fullstack.info/">https://fullstack.info/</a></li> 
+<li> <a href="https://oleb.net/blog/">https://oleb.net/blog/</a></li> 
+<li> <a href="http://www.windytan.com/">http://www.windytan.com/</a></li> 
+<li> <a href="http://blog.pamelafox.org/">http://blog.pamelafox.org/</a></li> 
+<li> <a href="http://patshaughnessy.net/">http://patshaughnessy.net/</a></li> 
+<li> <a href="http://www.paulgraham.com/articles.html">http://www.paulgraham.com/articles.html</a></li> 
+<li> <a href="https://www.paulirish.com/">https://www.paulirish.com/</a></li> 
+<li> <a href="https://aerotwist.com/blog/">https://aerotwist.com/blog/</a></li> 
+<li> <a href="https://blog.pchudzik.com/">https://blog.pchudzik.com/</a></li> 
+<li> <a href="http://norvig.com/">http://norvig.com/</a></li> 
+<li> <a href="http://petersteinberger.com/">http://petersteinberger.com/</a></li> 
+<li> <a href="http://www.catonmat.net/blog/">http://www.catonmat.net/blog/</a></li> 
+<li> <a href="http://petr-mitrichev.blogspot.com/">http://petr-mitrichev.blogspot.com/</a></li> 
+<li> <a href="https://philipwalton.com/">https://philipwalton.com/</a></li> 
+<li> <a href="https://os.phil-opp.com/">https://os.phil-opp.com/</a></li> 
+<li> <a href="https://ponyfoo.com/">https://ponyfoo.com/</a></li> 
+<li> <a href="http://piotrpasich.com/">http://piotrpasich.com/</a></li> 
+<li> <a href="http://blog.wittchen.biz.pl/">http://blog.wittchen.biz.pl/</a></li> 
+<li> <a href="https://rachelbythebay.com/w/">https://rachelbythebay.com/w/</a></li> 
+<li> <a href="http://radek.io/">http://radek.io/</a></li> 
+<li> <a href="https://radimrehurek.com/blog/">https://radimrehurek.com/blog/</a></li> 
+<li> <a href="https://nativeguru.wordpress.com/">https://nativeguru.wordpress.com/</a></li> 
+<li> <a href="https://www.raywenderlich.com/">https://www.raywenderlich.com/</a></li> 
+<li> <a href="https://blogs.msdn.microsoft.com/oldnewthing/">https://blogs.msdn.microsoft.com/oldnewthing/</a></li> 
+<li> <a href="https://rhettinger.wordpress.com/">https://rhettinger.wordpress.com/</a></li> 
+<li> <a href="https://reactjsnews.com/">https://reactjsnews.com/</a></li> 
+<li> <a href="https://realpython.com/blog/">https://realpython.com/blog/</a></li> 
+<li> <a href="http://raganwald.com/#essays">http://raganwald.com/#essays</a></li> 
+<li> <a href="http://regulargeek.com/">http://regulargeek.com/</a></li> 
+<li> <a href="https://akrabat.com/">https://akrabat.com/</a></li> 
+<li> <a href="http://blog.cleancoder.com/">http://blog.cleancoder.com/</a></li> 
+<li> <a href="https://eviltrout.com/">https://eviltrout.com/</a></li> 
+<li> <a href="http://blog.rtwilson.com/">http://blog.rtwilson.com/</a></li> 
+<li> <a href="http://www.rudyhuyn.com/blog/">http://www.rudyhuyn.com/blog/</a></li> 
+<li> <a href="https://neverfriday.com/blog/">https://neverfriday.com/blog/</a></li> 
+<li> <a href="https://ruslanspivak.com/">https://ruslanspivak.com/</a></li> 
+<li> <a href="https://www.sakib.ninja/">https://www.sakib.ninja/</a></li> 
+<li> <a href="https://samsaffron.com/">https://samsaffron.com/</a></li> 
+<li> <a href="http://sergeyzhuk.me/">http://sergeyzhuk.me/</a></li> 
+<li> <a href="https://schakko.de/">https://schakko.de/</a></li> 
+<li> <a href="http://www.hanselman.com/blog/">http://www.hanselman.com/blog/</a></li> 
+<li> <a href="http://www.fuzzyblog.io/blog/">http://www.fuzzyblog.io/blog/</a></li> 
+<li> <a href="https://devdactic.com/devblog/">https://devdactic.com/devblog/</a></li> 
+<li> <a href="https://www.9lessons.info/">https://www.9lessons.info/</a></li> 
+<li> <a href="http://www.stackabuse.com/">http://www.stackabuse.com/</a></li> 
+<li> <a href="https://muffinman.io/">https://muffinman.io/</a></li> 
+<li> <a href="http://codebeforethehorse.tumblr.com/">http://codebeforethehorse.tumblr.com/</a></li> 
+<li> <a href="http://blog.joda.org/">http://blog.joda.org/</a></li> 
+<li> <a href="https://www.cs.columbia.edu/~smb/blog/control/">https://www.cs.columbia.edu/~smb/blog/control/</a></li> 
+<li> <a href="https://steve-yegge.blogspot.com/">https://steve-yegge.blogspot.com/</a></li> 
+<li> <a href="http://sudhagar.com/">http://sudhagar.com/</a></li> 
+<li> <a href="https://swizec.com/blog/">https://swizec.com/blog/</a></li> 
+<li> <a href="https://tania.dev/">https://tania.dev/</a></li> 
+<li> <a href="http://teropa.info/">http://teropa.info/</a></li> 
+<li> <a href="https://thatthinginswift.com/">https://thatthinginswift.com/</a></li> 
+<li> <a href="http://www.thecodedself.com/">http://www.thecodedself.com/</a></li> 
+<li> <a href="http://thedailywtf.com/">http://thedailywtf.com/</a></li> 
+<li> <a href="http://upcoder.com/">http://upcoder.com/</a></li> 
+<li> <a href="http://jelv.is/blog/">http://jelv.is/blog/</a></li> 
+<li> <a href="https://toddmotto.com/">https://toddmotto.com/</a></li> 
+<li> <a href="http://adventuresinautomation.blogspot.com/">http://adventuresinautomation.blogspot.com/</a></li> 
+<li> <a href="https://una.im/">https://una.im/</a></li> 
+<li> <a href="http://undocumentedmatlab.com/">http://undocumentedmatlab.com/</a></li> 
+<li> <a href="http://vanillajava.blogspot.com/">http://vanillajava.blogspot.com/</a></li> 
+<li> <a href="https://vladmihalcea.com/">https://vladmihalcea.com/</a></li> 
+<li> <a href="http://www.wilfred.me.uk/">http://www.wilfred.me.uk/</a></li> 
+<li> <a href="https://www.goinggo.net/">https://www.goinggo.net/</a></li> 
+<li> <a href="http://www.afronski.pl/">http://www.afronski.pl/</a></li> 
+<li> <a href="http://www.yegor256.com/">http://www.yegor256.com/</a></li> 
+<li> <a href="http://yifan.lu/">http://yifan.lu/</a></li> 
+<li> <a href="https://zachholman.com/">https://zachholman.com/</a></li> 
+<li> <a href="https://zolmeister.com/">https://zolmeister.com/</a></li> 
+<li> <a href="https://android-developers.blogspot.com/">https://android-developers.blogspot.com/</a></li> 
+<li> <a href="http://blog.atom.io/">http://blog.atom.io/</a></li> 
+<li> <a href="https://blog.getbootstrap.com/">https://blog.getbootstrap.com/</a></li> 
+<li> <a href="https://crystal-lang.org/">https://crystal-lang.org/</a></li> 
+<li> <a href="https://blog.golang.org/">https://blog.golang.org/</a></li> 
+<li> <a href="https://ipfs.io/blog/">https://ipfs.io/blog/</a></li> 
+<li> <a href="https://blog.jooq.org/">https://blog.jooq.org/</a></li> 
+<li> <a href="http://blog.klipse.tech/">http://blog.klipse.tech/</a></li> 
+<li> <a href="https://blog.jetbrains.com/kotlin/">https://blog.jetbrains.com/kotlin/</a></li> 
+<li> <a href="https://laravel-news.com/blog/">https://laravel-news.com/blog/</a></li> 
+<li> <a href="https://blogs.windows.com/msedgedev/">https://blogs.windows.com/msedgedev/</a></li> 
+<li> <a href="https://blogs.msdn.microsoft.com/dotnet/">https://blogs.msdn.microsoft.com/dotnet/</a></li> 
+<li> <a href="https://reactjs.org/blog/">https://reactjs.org/blog/</a></li> 
+<li> <a href="http://facebook.github.io/react-native/blog/">http://facebook.github.io/react-native/blog/</a></li> 
+<li> <a href="http://www.red-lang.org/">http://www.red-lang.org/</a></li> 
+<li> <a href="http://rocksdb.org/blog">http://rocksdb.org/blog</a></li> 
+<li> <a href="https://blog.rust-lang.org/">https://blog.rust-lang.org/</a></li> 
+<li> <a href="https://blog.sketchapp.com/">https://blog.sketchapp.com/</a></li> 
+<li> <a href="https://developer.apple.com/swift/blog/">https://developer.apple.com/swift/blog/</a></li> 
+<li> <a href="http://www.vertabelo.com/blog">http://www.vertabelo.com/blog</a></li> 
 </ul>
-<h2>hack</h2>
+<h2>Hack</h2>
 <ul>
-<li> <a>http://build-its-inprogress.blogspot.in/2018/03/the-rubiks-contraption.html</a></li> 
+<li> <a href="http://build-its-inprogress.blogspot.in/2018/03/the-rubiks-contraption.html">http://build-its-inprogress.blogspot.in/2018/03/the-rubiks-contraption.html</a></li> 
 </ul>
 <h2>Interview-prep</h2>
 <ul>
-<li> <a>https://www.rezi.ai/resume-templates?search=developer&resume-sample=programming</a></li> 
-<li> <a>https://www.reddit.com/r/Resume/wiki/jasons_resume_guide</a></li> 
-<li> <a>https://interviewing.io/?utm_source=quastordaily&utm_medium=newsletter&utm_campaign=may252021</a></li> 
-<li> <a>https://hemingwayapp.com/</a></li> 
-<li> <a>https://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html</a></li> 
-<li> <a>https://igotanoffer.com/blogs/tech/system-design-interviews</a></li> 
+<li> <a href="https://www.rezi.ai/resume-templates?search=developer&resume-sample=programming">https://www.rezi.ai/resume-templates?search=developer&resume-sample=programming</a></li> 
+<li> <a href="https://www.reddit.com/r/Resume/wiki/jasons_resume_guide">https://www.reddit.com/r/Resume/wiki/jasons_resume_guide</a></li> 
+<li> <a href="https://interviewing.io/?utm_source=quastordaily&utm_medium=newsletter&utm_campaign=may252021">https://interviewing.io/?utm_source=quastordaily&utm_medium=newsletter&utm_campaign=may252021</a></li> 
+<li> <a href="https://hemingwayapp.com/">https://hemingwayapp.com/</a></li> 
+<li> <a href="https://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html">https://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html</a></li> 
+<li> <a href="https://igotanoffer.com/blogs/tech/system-design-interviews">https://igotanoffer.com/blogs/tech/system-design-interviews</a></li> 
 </ul>
-<h2>leadership</h2>
+<h2>Leadership</h2>
 <ul>
-<li> <a>https://fs.blog/mental-models/</a></li> 
-<li> <a>https://fs.blog/great-talks/a-lesson-on-worldly-wisdom/</a></li> 
-<li> <a>https://fs.blog/great-talks/creative-thinking-claude-shannon/</a></li> 
-<li> <a>https://www.lesswrong.com/</a></li> 
-<li> <a>https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/</a></li> 
+<li> <a href="https://fs.blog/mental-models/">https://fs.blog/mental-models/</a></li> 
+<li> <a href="https://fs.blog/great-talks/a-lesson-on-worldly-wisdom/">https://fs.blog/great-talks/a-lesson-on-worldly-wisdom/</a></li> 
+<li> <a href="https://fs.blog/great-talks/creative-thinking-claude-shannon/">https://fs.blog/great-talks/creative-thinking-claude-shannon/</a></li> 
+<li> <a href="https://www.lesswrong.com/">https://www.lesswrong.com/</a></li> 
+<li> <a href="https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/">https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/</a></li> 
 </ul>
-<h2>machine-learning</h2>
+<h2>Machine-learning</h2>
 <ul>
-<li> <a>http://matpalm.com/blog/cool_machine_learning_books/</a></li> 
-<li> <a>https://www.geeksforgeeks.org/machine-learning/?ref=shm</a></li> 
-<li> <a>https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox</a></li> 
-<li> <a>https://github.com/commonsense/conceptnet-numberbatch</a></li> 
-<li> <a>http://proceedings.mlr.press/v97/tan19a.html</a></li> 
-<li> <a>https://dropbox.tech/machine-learning/using-machine-learning-to-index-text-from-billions-of-images</a></li> 
-<li> <a>https://dropbox.tech/infrastructure/firefly-instant-full-text-search-engine</a></li> 
-<li> <a>http://www.gaussianprocess.org/gpml/</a></li> 
-<li> <a>https://arxiv.org/abs/2108.07258</a></li> 
+<li> <a href="http://matpalm.com/blog/cool_machine_learning_books/">http://matpalm.com/blog/cool_machine_learning_books/</a></li> 
+<li> <a href="https://www.geeksforgeeks.org/machine-learning/?ref=shm">https://www.geeksforgeeks.org/machine-learning/?ref=shm</a></li> 
+<li> <a href="https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox">https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox</a></li> 
+<li> <a href="https://github.com/commonsense/conceptnet-numberbatch">https://github.com/commonsense/conceptnet-numberbatch</a></li> 
+<li> <a href="http://proceedings.mlr.press/v97/tan19a.html">http://proceedings.mlr.press/v97/tan19a.html</a></li> 
+<li> <a href="https://dropbox.tech/machine-learning/using-machine-learning-to-index-text-from-billions-of-images">https://dropbox.tech/machine-learning/using-machine-learning-to-index-text-from-billions-of-images</a></li> 
+<li> <a href="https://dropbox.tech/infrastructure/firefly-instant-full-text-search-engine">https://dropbox.tech/infrastructure/firefly-instant-full-text-search-engine</a></li> 
+<li> <a href="http://www.gaussianprocess.org/gpml/">http://www.gaussianprocess.org/gpml/</a></li> 
+<li> <a href="https://arxiv.org/abs/2108.07258">https://arxiv.org/abs/2108.07258</a></li> 
 </ul>
-<h2>material-science</h2>
+<h2>Material-science</h2>
 <ul>
-<li> <a>https://www.mindat.org/</a></li> 
+<li> <a href="https://www.mindat.org/">https://www.mindat.org/</a></li> 
 </ul>
-<h2>math</h2>
+<h2>Math</h2>
 <ul>
-<li> <a>https://www.fxsolver.com/</a></li> 
-<li> <a>https://www.geogebra.org/materials</a></li> 
-<li> <a>http://calculusmadeeasy.org/</a></li> 
-<li> <a>http://blog.rogerluo.me/tags/automatic-differentiation/</a></li> 
-<li> <a>https://www.theatlantic.com/science/archive/2018/11/science-full-mavericks-like-my-grandfather-was-his-physics-theory-right/574573/?single_page=true</a></li> 
-<li> <a>https://www.nayuki.io/page/creating-a-qr-code-step-by-step</a></li> 
-<li> <a>http://vmls-book.stanford.edu/</a></li> 
-<li> <a>https://seeing-theory.brown.edu/index.html#4thPage</a></li> 
-<li> <a>https://lectures.quantecon.org/jl/</a></li> 
-<li> <a>https://www.cs.usfca.edu/~galles/visualization/Algorithms.html</a></li> 
-<li> <a>https://algorithms-tour.stitchfix.com/</a></li> 
-<li> <a>https://www.nature.com/articles/s41467-019-08678-0</a></li> 
-<li> <a>https://towardsdatascience.com/brief-introduction-to-markov-chains-2c8cab9c98ab</a></li> 
-<li> <a>https://auth0.com/blog/real-time-charts-using-angular-d3-and-socket-io/</a></li> 
-<li> <a>https://en.wikipedia.org/wiki/G%C3%B6del_machine</a></li> 
-<li> <a>https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8</a></li> 
-<li> <a>https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Logistic%20Regression%20balanced.ipynb</a></li> 
-<li> <a>https://distill.pub/</a></li> 
-<li> <a>https://betterexplained.com/archives/</a></li> 
-<li> <a>https://ourway.keybase.pub/mathematics_cheat_sheet.pdf</a></li> 
-<li> <a>http://mathman.biz/materials/Calculus%20By%20and%20For%20Young%20People%20Worksheets.pdf</a></li> 
+<li> <a href="https://www.fxsolver.com/">https://www.fxsolver.com/</a></li> 
+<li> <a href="https://www.geogebra.org/materials">https://www.geogebra.org/materials</a></li> 
+<li> <a href="http://calculusmadeeasy.org/">http://calculusmadeeasy.org/</a></li> 
+<li> <a href="http://blog.rogerluo.me/tags/automatic-differentiation/">http://blog.rogerluo.me/tags/automatic-differentiation/</a></li> 
+<li> <a href="https://www.theatlantic.com/science/archive/2018/11/science-full-mavericks-like-my-grandfather-was-his-physics-theory-right/574573/?single_page=true">https://www.theatlantic.com/science/archive/2018/11/science-full-mavericks-like-my-grandfather-was-his-physics-theory-right/574573/?single_page=true</a></li> 
+<li> <a href="https://www.nayuki.io/page/creating-a-qr-code-step-by-step">https://www.nayuki.io/page/creating-a-qr-code-step-by-step</a></li> 
+<li> <a href="http://vmls-book.stanford.edu/">http://vmls-book.stanford.edu/</a></li> 
+<li> <a href="https://seeing-theory.brown.edu/index.html#4thPage">https://seeing-theory.brown.edu/index.html#4thPage</a></li> 
+<li> <a href="https://lectures.quantecon.org/jl/">https://lectures.quantecon.org/jl/</a></li> 
+<li> <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html">https://www.cs.usfca.edu/~galles/visualization/Algorithms.html</a></li> 
+<li> <a href="https://algorithms-tour.stitchfix.com/">https://algorithms-tour.stitchfix.com/</a></li> 
+<li> <a href="https://www.nature.com/articles/s41467-019-08678-0">https://www.nature.com/articles/s41467-019-08678-0</a></li> 
+<li> <a href="https://towardsdatascience.com/brief-introduction-to-markov-chains-2c8cab9c98ab">https://towardsdatascience.com/brief-introduction-to-markov-chains-2c8cab9c98ab</a></li> 
+<li> <a href="https://auth0.com/blog/real-time-charts-using-angular-d3-and-socket-io/">https://auth0.com/blog/real-time-charts-using-angular-d3-and-socket-io/</a></li> 
+<li> <a href="https://en.wikipedia.org/wiki/G%C3%B6del_machine">https://en.wikipedia.org/wiki/G%C3%B6del_machine</a></li> 
+<li> <a href="https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8">https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8</a></li> 
+<li> <a href="https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Logistic%20Regression%20balanced.ipynb">https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Logistic%20Regression%20balanced.ipynb</a></li> 
+<li> <a href="https://distill.pub/">https://distill.pub/</a></li> 
+<li> <a href="https://betterexplained.com/archives/">https://betterexplained.com/archives/</a></li> 
+<li> <a href="https://ourway.keybase.pub/mathematics_cheat_sheet.pdf">https://ourway.keybase.pub/mathematics_cheat_sheet.pdf</a></li> 
+<li> <a href="http://mathman.biz/materials/Calculus%20By%20and%20For%20Young%20People%20Worksheets.pdf">http://mathman.biz/materials/Calculus%20By%20and%20For%20Young%20People%20Worksheets.pdf</a></li> 
 </ul>
-<h2>MATHS</h2>
+<h2>Maths</h2>
 <ul>
-<li> <a>https://betanalpha.github.io/assets/case_studies/probability_theory.html</a></li> 
-<li> <a>http://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html?href=</a></li> 
-<li> <a>http://chalkdustmagazine.com/black-mathematician-month/the-mathematics-of-black-panther/</a></li> 
+<li> <a href="https://betanalpha.github.io/assets/case_studies/probability_theory.html">https://betanalpha.github.io/assets/case_studies/probability_theory.html</a></li> 
+<li> <a href="http://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html?href=">http://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html?href=</a></li> 
+<li> <a href="http://chalkdustmagazine.com/black-mathematician-month/the-mathematics-of-black-panther/">http://chalkdustmagazine.com/black-mathematician-month/the-mathematics-of-black-panther/</a></li> 
 </ul>
-<h2>notes</h2>
+<h2>Notes</h2>
 <ul>
-<li> <a>https://choosealicense.com/</a></li> 
-<li> <a>https://cylonjs.com/</a></li> 
-<li> <a>https://developer.apple.com/swift/resources/</a></li> 
-<li> <a>http://www.instructables.com/id/Making-A-Customized-Circuit-Board-Made-Easy/</a></li> 
-<li> <a>http://cq.cx/pcb-router.pl</a></li> 
-<li> <a>https://www.udemy.com/complete-ios-10-developer-course/</a></li> 
-<li> <a>https://redditblog.com/2017/05/24/view-counting-at-reddit/</a></li> 
-<li> <a>https://exis.io/</a></li> 
-<li> <a>https://www.androidexperiments.com/experiment/autonomous-android-vehicle</a></li> 
-<li> <a>https://redditblog.com/2017/08/04/dynamically-routing-requests-across-different-stacks-with-vcl/</a></li> 
-<li> <a>https://redditblog.com/2017/09/07/the-search-for-better-search-at-reddit/</a></li> 
-<li> <a>https://redditblog.com/2018/02/28/the-evolution-of-data-at-reddit/</a></li> 
+<li> <a href="https://choosealicense.com/">https://choosealicense.com/</a></li> 
+<li> <a href="https://cylonjs.com/">https://cylonjs.com/</a></li> 
+<li> <a href="https://developer.apple.com/swift/resources/">https://developer.apple.com/swift/resources/</a></li> 
+<li> <a href="http://www.instructables.com/id/Making-A-Customized-Circuit-Board-Made-Easy/">http://www.instructables.com/id/Making-A-Customized-Circuit-Board-Made-Easy/</a></li> 
+<li> <a href="http://cq.cx/pcb-router.pl">http://cq.cx/pcb-router.pl</a></li> 
+<li> <a href="https://www.udemy.com/complete-ios-10-developer-course/">https://www.udemy.com/complete-ios-10-developer-course/</a></li> 
+<li> <a href="https://redditblog.com/2017/05/24/view-counting-at-reddit/">https://redditblog.com/2017/05/24/view-counting-at-reddit/</a></li> 
+<li> <a href="https://exis.io/">https://exis.io/</a></li> 
+<li> <a href="https://www.androidexperiments.com/experiment/autonomous-android-vehicle">https://www.androidexperiments.com/experiment/autonomous-android-vehicle</a></li> 
+<li> <a href="https://redditblog.com/2017/08/04/dynamically-routing-requests-across-different-stacks-with-vcl/">https://redditblog.com/2017/08/04/dynamically-routing-requests-across-different-stacks-with-vcl/</a></li> 
+<li> <a href="https://redditblog.com/2017/09/07/the-search-for-better-search-at-reddit/">https://redditblog.com/2017/09/07/the-search-for-better-search-at-reddit/</a></li> 
+<li> <a href="https://redditblog.com/2018/02/28/the-evolution-of-data-at-reddit/">https://redditblog.com/2018/02/28/the-evolution-of-data-at-reddit/</a></li> 
 </ul>
-<h2>os</h2>
+<h2>Os</h2>
 <ul>
-<li> <a>http://www.makelinux.net/kernel_map/</a></li> 
+<li> <a href="http://www.makelinux.net/kernel_map/">http://www.makelinux.net/kernel_map/</a></li> 
 </ul>
-<h2>philosopy</h2>
+<h2>Philosopy</h2>
 <ul>
-<li> <a>https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf</a></li> 
-<li> <a>https://zenmoments.org/</a></li> 
-<li> <a>https://www.ucl.ac.uk/laws/sites/laws/files/philosophy_of_work.pdf</a></li> 
-<li> <a>https://www.depauw.edu/sfs/backissues/5/lem5art.htm</a></li> 
-<li> <a>https://www.depauw.edu/sfs/index.htm</a></li> 
+<li> <a href="https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf">https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf</a></li> 
+<li> <a href="https://zenmoments.org/">https://zenmoments.org/</a></li> 
+<li> <a href="https://www.ucl.ac.uk/laws/sites/laws/files/philosophy_of_work.pdf">https://www.ucl.ac.uk/laws/sites/laws/files/philosophy_of_work.pdf</a></li> 
+<li> <a href="https://www.depauw.edu/sfs/backissues/5/lem5art.htm">https://www.depauw.edu/sfs/backissues/5/lem5art.htm</a></li> 
+<li> <a href="https://www.depauw.edu/sfs/index.htm">https://www.depauw.edu/sfs/index.htm</a></li> 
 </ul>
-<h2>physics</h2>
+<h2>Physics</h2>
 <ul>
-<li> <a>https://www.feynmanlectures.caltech.edu/flptapes.html</a></li> 
-<li> <a>https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F</a></li> 
-<li> <a>https://www.feynmanlectures.caltech.edu/</a></li> 
-<li> <a>https://www.privatdozent.co/p/the-golden-age-of-quantum-physics-ff7</a></li> 
-<li> <a>http://ramp-book.com/Relativity__A_Modern_Primer.pdf</a></li> 
-<li> <a>https://gravityandlevity.wordpress.com/</a></li> 
-<li> <a>https://physicsbaseddeeplearning.org/intro.html</a></li> 
+<li> <a href="https://www.feynmanlectures.caltech.edu/flptapes.html">https://www.feynmanlectures.caltech.edu/flptapes.html</a></li> 
+<li> <a href="https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F">https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F</a></li> 
+<li> <a href="https://www.feynmanlectures.caltech.edu/">https://www.feynmanlectures.caltech.edu/</a></li> 
+<li> <a href="https://www.privatdozent.co/p/the-golden-age-of-quantum-physics-ff7">https://www.privatdozent.co/p/the-golden-age-of-quantum-physics-ff7</a></li> 
+<li> <a href="http://ramp-book.com/Relativity__A_Modern_Primer.pdf">http://ramp-book.com/Relativity__A_Modern_Primer.pdf</a></li> 
+<li> <a href="https://gravityandlevity.wordpress.com/">https://gravityandlevity.wordpress.com/</a></li> 
+<li> <a href="https://physicsbaseddeeplearning.org/intro.html">https://physicsbaseddeeplearning.org/intro.html</a></li> 
 </ul>
-<h2>product-design</h2>
+<h2>Product-design</h2>
 <ul>
-<li> <a>https://digitalpsychology.io/</a></li> 
-<li> <a>https://daisyui.com/</a></li> 
+<li> <a href="https://digitalpsychology.io/">https://digitalpsychology.io/</a></li> 
+<li> <a href="https://daisyui.com/">https://daisyui.com/</a></li> 
 </ul>
-<h2>programming</h2>
+<h2>Programming</h2>
 <ul>
-<li> <a>https://www.mit.edu/~xela/tao.html</a></li> 
-<li> <a>https://nocomplexity.com/documents/arplaybook/index.html</a></li> 
-<li> <a>https://witestlab.poly.edu/</a></li> 
-<li> <a>https://witestlab.poly.edu/site/</a></li> 
-<li> <a>http://graphics.stanford.edu/~seander/bithacks.html</a></li> 
-<li> <a>http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf</a></li> 
-<li> <a>https://www.geeksforgeeks.org/data-structures/?ref=shm</a></li> 
-<li> <a>https://muhammadraza.me/2021/Oneliners/</a></li> 
-<li> <a>https://algorithmist.com/wiki/Main_Page</a></li> 
-<li> <a>https://en.wikipedia.org/wiki/Karp%27s_21_NP-complete_problems</a></li> 
-<li> <a>https://brilliant.org/</a></li> 
-<li> <a>https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf</a></li> 
-<li> <a>https://karpathy.github.io/2021/06/21/blockchain/</a></li> 
-<li> <a>https://softwarefoundations.cis.upenn.edu/</a></li> 
-<li> <a>https://algs4.cs.princeton.edu/30searching/</a></li> 
-<li> <a>https://medium.com/leetcode-patterns</a></li> 
-<li> <a>https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/</a></li> 
-<li> <a>https://jeffe.cs.illinois.edu/teaching/algorithms/book/03-dynprog.pdf</a></li> 
-<li> <a>https://people.cs.clemson.edu/~bcdean/dp_practice/</a></li> 
-<li> <a>https://stackoverflow.com/</a></li> 
-<li> <a>http://bayes.cs.ucla.edu/jp_home.html</a></li> 
-<li> <a>https://github.com/agavrel/42_CheatSheet</a></li> 
-<li> <a>https://teachyourselfcs.com/</a></li> 
-<li> <a>https://cs.stanford.edu/~knuth/taocp.html</a></li> 
-<li> <a>https://idlecoding.com/</a></li> 
-<li> <a>https://gigamonkeys.com/book/</a></li> 
-<li> <a>https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf</a></li> 
-<li> <a>http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf</a></li> 
-<li> <a>http://twistedoakstudios.com/blog/</a></li> 
-<li> <a>https://danluu.com/input-lag/</a></li> 
-<li> <a>https://massivealgorithms.blogspot.com/2019/06/archives.html</a></li> 
-<li> <a>http://www.fmwconcepts.com/imagemagick/draganeffect/index.php</a></li> 
-<li> <a>https://en.algorithmica.org/hpc/</a></li> 
-<li> <a>https://journal.stuffwithstuff.com/archive/</a></li> 
+<li> <a href="https://www.mit.edu/~xela/tao.html">https://www.mit.edu/~xela/tao.html</a></li> 
+<li> <a href="https://nocomplexity.com/documents/arplaybook/index.html">https://nocomplexity.com/documents/arplaybook/index.html</a></li> 
+<li> <a href="https://witestlab.poly.edu/">https://witestlab.poly.edu/</a></li> 
+<li> <a href="https://witestlab.poly.edu/site/">https://witestlab.poly.edu/site/</a></li> 
+<li> <a href="http://graphics.stanford.edu/~seander/bithacks.html">http://graphics.stanford.edu/~seander/bithacks.html</a></li> 
+<li> <a href="http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf">http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf</a></li> 
+<li> <a href="https://www.geeksforgeeks.org/data-structures/?ref=shm">https://www.geeksforgeeks.org/data-structures/?ref=shm</a></li> 
+<li> <a href="https://muhammadraza.me/2021/Oneliners/">https://muhammadraza.me/2021/Oneliners/</a></li> 
+<li> <a href="https://algorithmist.com/wiki/Main_Page">https://algorithmist.com/wiki/Main_Page</a></li> 
+<li> <a href="https://en.wikipedia.org/wiki/Karp%27s_21_NP-complete_problems">https://en.wikipedia.org/wiki/Karp%27s_21_NP-complete_problems</a></li> 
+<li> <a href="https://brilliant.org/">https://brilliant.org/</a></li> 
+<li> <a href="https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf">https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf</a></li> 
+<li> <a href="https://karpathy.github.io/2021/06/21/blockchain/">https://karpathy.github.io/2021/06/21/blockchain/</a></li> 
+<li> <a href="https://softwarefoundations.cis.upenn.edu/">https://softwarefoundations.cis.upenn.edu/</a></li> 
+<li> <a href="https://algs4.cs.princeton.edu/30searching/">https://algs4.cs.princeton.edu/30searching/</a></li> 
+<li> <a href="https://medium.com/leetcode-patterns">https://medium.com/leetcode-patterns</a></li> 
+<li> <a href="https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/">https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/</a></li> 
+<li> <a href="https://jeffe.cs.illinois.edu/teaching/algorithms/book/03-dynprog.pdf">https://jeffe.cs.illinois.edu/teaching/algorithms/book/03-dynprog.pdf</a></li> 
+<li> <a href="https://people.cs.clemson.edu/~bcdean/dp_practice/">https://people.cs.clemson.edu/~bcdean/dp_practice/</a></li> 
+<li> <a href="https://stackoverflow.com/">https://stackoverflow.com/</a></li> 
+<li> <a href="http://bayes.cs.ucla.edu/jp_home.html">http://bayes.cs.ucla.edu/jp_home.html</a></li> 
+<li> <a href="https://github.com/agavrel/42_CheatSheet">https://github.com/agavrel/42_CheatSheet</a></li> 
+<li> <a href="https://teachyourselfcs.com/">https://teachyourselfcs.com/</a></li> 
+<li> <a href="https://cs.stanford.edu/~knuth/taocp.html">https://cs.stanford.edu/~knuth/taocp.html</a></li> 
+<li> <a href="https://idlecoding.com/">https://idlecoding.com/</a></li> 
+<li> <a href="https://gigamonkeys.com/book/">https://gigamonkeys.com/book/</a></li> 
+<li> <a href="https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf">https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf</a></li> 
+<li> <a href="http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf">http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf</a></li> 
+<li> <a href="http://twistedoakstudios.com/blog/">http://twistedoakstudios.com/blog/</a></li> 
+<li> <a href="https://danluu.com/input-lag/">https://danluu.com/input-lag/</a></li> 
+<li> <a href="https://massivealgorithms.blogspot.com/2019/06/archives.html">https://massivealgorithms.blogspot.com/2019/06/archives.html</a></li> 
+<li> <a href="http://www.fmwconcepts.com/imagemagick/draganeffect/index.php">http://www.fmwconcepts.com/imagemagick/draganeffect/index.php</a></li> 
+<li> <a href="https://en.algorithmica.org/hpc/">https://en.algorithmica.org/hpc/</a></li> 
+<li> <a href="https://journal.stuffwithstuff.com/archive/">https://journal.stuffwithstuff.com/archive/</a></li> 
 </ul>
-<h2>quantumcomputing</h2>
+<h2>Quantumcomputing</h2>
 <ul>
-<li> <a>https://arxiv.org/abs/1603.08675</a></li> 
-<li> <a>https://arxiv.org/pdf/1807.04271.pdf</a></li> 
-<li> <a>https://arxiv.org/pdf/1603.08675.pdf</a></li> 
-<li> <a>https://www.quantamagazine.org/job-one-for-quantum-computers-boost-artificial-intelligence-20180129/</a></li> 
-<li> <a>https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/</a></li> 
+<li> <a href="https://arxiv.org/abs/1603.08675">https://arxiv.org/abs/1603.08675</a></li> 
+<li> <a href="https://arxiv.org/pdf/1807.04271.pdf">https://arxiv.org/pdf/1807.04271.pdf</a></li> 
+<li> <a href="https://arxiv.org/pdf/1603.08675.pdf">https://arxiv.org/pdf/1603.08675.pdf</a></li> 
+<li> <a href="https://www.quantamagazine.org/job-one-for-quantum-computers-boost-artificial-intelligence-20180129/">https://www.quantamagazine.org/job-one-for-quantum-computers-boost-artificial-intelligence-20180129/</a></li> 
+<li> <a href="https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/">https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/</a></li> 
 </ul>
-<h2>readingLIST</h2>
+<h2>Readinglist</h2>
 <ul>
-<li> <a>https://fermatslibrary.com/s/judgment-under-uncertainty-heuristics-and-biases</a></li> 
-<li> <a>https://dcgross.com/decide-what-to-work-on/</a></li> 
-<li> <a>http://www.jsoftware.com/papers/tot.htm</a></li> 
-<li> <a>https://blockgeeks.com/guides/best-bitcoin-script-guide/</a></li> 
-<li> <a>https://tic.computer/play?cat=0</a></li> 
-<li> <a>http://nullprogram.com/blog/2017/11/03/</a></li> 
-<li> <a>https://www.enlightenment.org/docs/c/start</a></li> 
-<li> <a>https://oneraynyday.github.io/</a></li> 
-<li> <a>https://www.requestforsocialnetworks.com/#form</a></li> 
-<li> <a>https://github.com/danistefanovic/build-your-own-x</a></li> 
-<li> <a>http://lodev.org/logicemu/#id=nor_logic</a></li> 
-<li> <a>https://github.com/MinhasKamal/CreepyCodeCollection</a></li> 
-<li> <a>https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d</a></li> 
-<li> <a>https://codeburst.io/async-patterns-in-node-js-only-4-different-ways-to-do-it-70186ee83250</a></li> 
-<li> <a>https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d</a></li> 
-<li> <a>https://mondaynote.com/intels-toxic-culture-1b79905adf45</a></li> 
-<li> <a>https://medium.com/acing-ai/how-i-build-an-ai-to-play-dino-run-e37f37bdf153</a></li> 
-<li> <a>https://medium.com/the-mission/modern-polymath-81f882ce52db</a></li> 
-<li> <a>https://meaningness.com/metablog/artificial-intelligence-progress</a></li> 
-<li> <a>https://blog.ycombinator.com/ycs-2018-summer-reading-list/</a></li> 
-<li> <a>https://blog.nobugware.com/post/2018/my_own_car_system_raspberry_pi_offline_mapping/</a></li> 
-<li> <a>https://zen-of-programming.com/kickass-portfolio/</a></li> 
-<li> <a>https://www.geogebra.org/materials</a></li> 
-<li> <a>https://www.geogebra.org/materials</a></li> 
-<li> <a>https://www.geogebra.org/materials</a></li> 
-<li> <a>https://github.com/trimstray/test-your-sysadmin-skills</a></li> 
-<li> <a>https://frontendian.co/service-workers</a></li> 
-<li> <a>https://www.prospectmagazine.co.uk/magazine/kurt-godel-and-the-romance-of-logic</a></li> 
-<li> <a>https://hn.academy/</a></li> 
-<li> <a>https://hacker-tools.github.io/</a></li> 
-<li> <a>https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices</a></li> 
-<li> <a>https://github.com/albert100121/360SD-Net/commits/master</a></li> 
-<li> <a>https://my.freenom.com/clientarea.php?action=domaindetails&id=1044127938</a></li> 
-<li> <a>https://news.ycombinator.com/item?id=27302195</a></li> 
-<li> <a>https://jvns.ca/</a></li> 
-<li> <a>https://acoup.blog/</a></li> 
-<li> <a>https://danluu.com/programming-books/</a></li> 
-<li> <a>https://danluu.com/</a></li> 
-<li> <a>https://marginalrevolution.com/</a></li> 
-<li> <a>https://unherd.com/</a></li> 
+<li> <a href="https://fermatslibrary.com/s/judgment-under-uncertainty-heuristics-and-biases">https://fermatslibrary.com/s/judgment-under-uncertainty-heuristics-and-biases</a></li> 
+<li> <a href="https://dcgross.com/decide-what-to-work-on/">https://dcgross.com/decide-what-to-work-on/</a></li> 
+<li> <a href="http://www.jsoftware.com/papers/tot.htm">http://www.jsoftware.com/papers/tot.htm</a></li> 
+<li> <a href="https://blockgeeks.com/guides/best-bitcoin-script-guide/">https://blockgeeks.com/guides/best-bitcoin-script-guide/</a></li> 
+<li> <a href="https://tic.computer/play?cat=0">https://tic.computer/play?cat=0</a></li> 
+<li> <a href="http://nullprogram.com/blog/2017/11/03/">http://nullprogram.com/blog/2017/11/03/</a></li> 
+<li> <a href="https://www.enlightenment.org/docs/c/start">https://www.enlightenment.org/docs/c/start</a></li> 
+<li> <a href="https://oneraynyday.github.io/">https://oneraynyday.github.io/</a></li> 
+<li> <a href="https://www.requestforsocialnetworks.com/#form">https://www.requestforsocialnetworks.com/#form</a></li> 
+<li> <a href="https://github.com/danistefanovic/build-your-own-x">https://github.com/danistefanovic/build-your-own-x</a></li> 
+<li> <a href="http://lodev.org/logicemu/#id=nor_logic">http://lodev.org/logicemu/#id=nor_logic</a></li> 
+<li> <a href="https://github.com/MinhasKamal/CreepyCodeCollection">https://github.com/MinhasKamal/CreepyCodeCollection</a></li> 
+<li> <a href="https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d">https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d</a></li> 
+<li> <a href="https://codeburst.io/async-patterns-in-node-js-only-4-different-ways-to-do-it-70186ee83250">https://codeburst.io/async-patterns-in-node-js-only-4-different-ways-to-do-it-70186ee83250</a></li> 
+<li> <a href="https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d">https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d</a></li> 
+<li> <a href="https://mondaynote.com/intels-toxic-culture-1b79905adf45">https://mondaynote.com/intels-toxic-culture-1b79905adf45</a></li> 
+<li> <a href="https://medium.com/acing-ai/how-i-build-an-ai-to-play-dino-run-e37f37bdf153">https://medium.com/acing-ai/how-i-build-an-ai-to-play-dino-run-e37f37bdf153</a></li> 
+<li> <a href="https://medium.com/the-mission/modern-polymath-81f882ce52db">https://medium.com/the-mission/modern-polymath-81f882ce52db</a></li> 
+<li> <a href="https://meaningness.com/metablog/artificial-intelligence-progress">https://meaningness.com/metablog/artificial-intelligence-progress</a></li> 
+<li> <a href="https://blog.ycombinator.com/ycs-2018-summer-reading-list/">https://blog.ycombinator.com/ycs-2018-summer-reading-list/</a></li> 
+<li> <a href="https://blog.nobugware.com/post/2018/my_own_car_system_raspberry_pi_offline_mapping/">https://blog.nobugware.com/post/2018/my_own_car_system_raspberry_pi_offline_mapping/</a></li> 
+<li> <a href="https://zen-of-programming.com/kickass-portfolio/">https://zen-of-programming.com/kickass-portfolio/</a></li> 
+<li> <a href="https://www.geogebra.org/materials">https://www.geogebra.org/materials</a></li> 
+<li> <a href="https://www.geogebra.org/materials">https://www.geogebra.org/materials</a></li> 
+<li> <a href="https://www.geogebra.org/materials">https://www.geogebra.org/materials</a></li> 
+<li> <a href="https://github.com/trimstray/test-your-sysadmin-skills">https://github.com/trimstray/test-your-sysadmin-skills</a></li> 
+<li> <a href="https://frontendian.co/service-workers">https://frontendian.co/service-workers</a></li> 
+<li> <a href="https://www.prospectmagazine.co.uk/magazine/kurt-godel-and-the-romance-of-logic">https://www.prospectmagazine.co.uk/magazine/kurt-godel-and-the-romance-of-logic</a></li> 
+<li> <a href="https://hn.academy/">https://hn.academy/</a></li> 
+<li> <a href="https://hacker-tools.github.io/">https://hacker-tools.github.io/</a></li> 
+<li> <a href="https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices">https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices</a></li> 
+<li> <a href="https://github.com/albert100121/360SD-Net/commits/master">https://github.com/albert100121/360SD-Net/commits/master</a></li> 
+<li> <a href="https://my.freenom.com/clientarea.php?action=domaindetails&id=1044127938">https://my.freenom.com/clientarea.php?action=domaindetails&id=1044127938</a></li> 
+<li> <a href="https://news.ycombinator.com/item?id=27302195">https://news.ycombinator.com/item?id=27302195</a></li> 
+<li> <a href="https://jvns.ca/">https://jvns.ca/</a></li> 
+<li> <a href="https://acoup.blog/">https://acoup.blog/</a></li> 
+<li> <a href="https://danluu.com/programming-books/">https://danluu.com/programming-books/</a></li> 
+<li> <a href="https://danluu.com/">https://danluu.com/</a></li> 
+<li> <a href="https://marginalrevolution.com/">https://marginalrevolution.com/</a></li> 
+<li> <a href="https://unherd.com/">https://unherd.com/</a></li> 
 </ul>
-<h2>researchPaperSites</h2>
+<h2>Researchpapersites</h2>
 <ul>
-<li> <a>https://jeffhuang.com/best_paper_awards.html</a></li> 
-<li> <a>http://paperscape.org/</a></li> 
+<li> <a href="https://jeffhuang.com/best_paper_awards.html">https://jeffhuang.com/best_paper_awards.html</a></li> 
+<li> <a href="http://paperscape.org/">http://paperscape.org/</a></li> 
 </ul>
-<h2>server</h2>
+<h2>Server</h2>
 <ul>
-<li> <a>https://github.com/oatpp/oatpp</a></li> 
-<li> <a>https://codemirror.net/</a></li> 
-<li> <a>https://blog.angularindepth.com/becoming-an-angular-environmentalist-45a48f7c20d8</a></li> 
-<li> <a>https://github.com/leonardomso/33-js-concepts</a></li> 
-<li> <a>https://github.com/k88hudson/git-flight-rules#i-wrote-the-wrong-thing-in-a-commit-message</a></li> 
-<li> <a>http://www.lighterra.com/papers/modernmicroprocessors/</a></li> 
-<li> <a>https://statusgator.com/services/firebase</a></li> 
-<li> <a>http://aosabook.org/en/index.html</a></li> 
-<li> <a>https://rustwasm.github.io/2018/10/24/multithreading-rust-and-wasm.html</a></li> 
-<li> <a>https://blog.twitter.com/engineering/en_us/topics/insights/2018/twitters-kafka-adoption-story.html</a></li> 
-<li> <a>http://ufldl.stanford.edu/tutorial/</a></li> 
-<li> <a>https://github.com/sahat/megaboilerplate</a></li> 
-<li> <a>https://s3.console.aws.amazon.com/s3/object/gal-gadot-wonder-woman/hello_world.txt?region=ap-south-1&tab=overview</a></li> 
+<li> <a href="https://github.com/oatpp/oatpp">https://github.com/oatpp/oatpp</a></li> 
+<li> <a href="https://codemirror.net/">https://codemirror.net/</a></li> 
+<li> <a href="https://blog.angularindepth.com/becoming-an-angular-environmentalist-45a48f7c20d8">https://blog.angularindepth.com/becoming-an-angular-environmentalist-45a48f7c20d8</a></li> 
+<li> <a href="https://github.com/leonardomso/33-js-concepts">https://github.com/leonardomso/33-js-concepts</a></li> 
+<li> <a href="https://github.com/k88hudson/git-flight-rules#i-wrote-the-wrong-thing-in-a-commit-message">https://github.com/k88hudson/git-flight-rules#i-wrote-the-wrong-thing-in-a-commit-message</a></li> 
+<li> <a href="http://www.lighterra.com/papers/modernmicroprocessors/">http://www.lighterra.com/papers/modernmicroprocessors/</a></li> 
+<li> <a href="https://statusgator.com/services/firebase">https://statusgator.com/services/firebase</a></li> 
+<li> <a href="http://aosabook.org/en/index.html">http://aosabook.org/en/index.html</a></li> 
+<li> <a href="https://rustwasm.github.io/2018/10/24/multithreading-rust-and-wasm.html">https://rustwasm.github.io/2018/10/24/multithreading-rust-and-wasm.html</a></li> 
+<li> <a href="https://blog.twitter.com/engineering/en_us/topics/insights/2018/twitters-kafka-adoption-story.html">https://blog.twitter.com/engineering/en_us/topics/insights/2018/twitters-kafka-adoption-story.html</a></li> 
+<li> <a href="http://ufldl.stanford.edu/tutorial/">http://ufldl.stanford.edu/tutorial/</a></li> 
+<li> <a href="https://github.com/sahat/megaboilerplate">https://github.com/sahat/megaboilerplate</a></li> 
+<li> <a href="https://s3.console.aws.amazon.com/s3/object/gal-gadot-wonder-woman/hello_world.txt?region=ap-south-1&tab=overview">https://s3.console.aws.amazon.com/s3/object/gal-gadot-wonder-woman/hello_world.txt?region=ap-south-1&tab=overview</a></li> 
 </ul>
-<h2>sites</h2>
+<h2>Sites</h2>
 <ul>
-<li> <a>https://github.com/nasa-jpl/open-source-rover</a></li> 
-<li> <a>https://www.sslforfree.com/</a></li> 
-<li> <a>https://2018.stateofjs.com/</a></li> 
-<li> <a>http://gen.lib.rus.ec/</a></li> 
-<li> <a>https://www.ieee.org/index.html</a></li> 
-<li> <a>http://ieeexplore.ieee.org/Xplore/home.jsp</a></li> 
-<li> <a>https://www.google.co.in/</a></li> 
-<li> <a>http://ai2.appinventor.mit.edu/</a></li> 
-<li> <a>https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118170923#</a></li> 
-<li> <a>https://github.com/mit-racecar/hardware</a></li> 
-<li> <a>https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/</a></li> 
-<li> <a>http://spacedemo.chaoscollective.org/?project=SandboxApp</a></li> 
-<li> <a>http://selfdrivingcars.mit.edu/</a></li> 
-<li> <a>https://home-assistant.io/docs/backend/database/</a></li> 
-<li> <a>https://datawhatnow.com/introduction-web-scraping-python/</a></li> 
-<li> <a>https://github.com/Microsoft/AirSim?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more</a></li> 
-<li> <a>https://motherboard.vice.com/en_us/topic/hacking</a></li> 
-<li> <a>https://dir.friendica.social/servers</a></li> 
-<li> <a>https://honestcoffeeguide.com/</a></li> 
+<li> <a href="https://github.com/nasa-jpl/open-source-rover">https://github.com/nasa-jpl/open-source-rover</a></li> 
+<li> <a href="https://www.sslforfree.com/">https://www.sslforfree.com/</a></li> 
+<li> <a href="https://2018.stateofjs.com/">https://2018.stateofjs.com/</a></li> 
+<li> <a href="http://gen.lib.rus.ec/">http://gen.lib.rus.ec/</a></li> 
+<li> <a href="https://www.ieee.org/index.html">https://www.ieee.org/index.html</a></li> 
+<li> <a href="http://ieeexplore.ieee.org/Xplore/home.jsp">http://ieeexplore.ieee.org/Xplore/home.jsp</a></li> 
+<li> <a href="https://www.google.co.in/">https://www.google.co.in/</a></li> 
+<li> <a href="http://ai2.appinventor.mit.edu/">http://ai2.appinventor.mit.edu/</a></li> 
+<li> <a href="https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118170923#">https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118170923#</a></li> 
+<li> <a href="https://github.com/mit-racecar/hardware">https://github.com/mit-racecar/hardware</a></li> 
+<li> <a href="https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/">https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/</a></li> 
+<li> <a href="http://spacedemo.chaoscollective.org/?project=SandboxApp">http://spacedemo.chaoscollective.org/?project=SandboxApp</a></li> 
+<li> <a href="http://selfdrivingcars.mit.edu/">http://selfdrivingcars.mit.edu/</a></li> 
+<li> <a href="https://home-assistant.io/docs/backend/database/">https://home-assistant.io/docs/backend/database/</a></li> 
+<li> <a href="https://datawhatnow.com/introduction-web-scraping-python/">https://datawhatnow.com/introduction-web-scraping-python/</a></li> 
+<li> <a href="https://github.com/Microsoft/AirSim?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">https://github.com/Microsoft/AirSim?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more</a></li> 
+<li> <a href="https://motherboard.vice.com/en_us/topic/hacking">https://motherboard.vice.com/en_us/topic/hacking</a></li> 
+<li> <a href="https://dir.friendica.social/servers">https://dir.friendica.social/servers</a></li> 
+<li> <a href="https://honestcoffeeguide.com/">https://honestcoffeeguide.com/</a></li> 
 </ul>
-<h2>sites</h2>
+<h2>Sites</h2>
 <ul>
-<li> <a>https://pudding.cool/</a></li> 
-<li> <a>https://github.com/anaibol/awesome-serverless#ecommerce</a></li> 
-<li> <a>https://www.pentestpartners.com/security-blog/hacking-an-assault-tank-a-nerf-one/</a></li> 
-<li> <a>http://hedonometer.org/index.html?from=2017-09-06&to=2019-03-06</a></li> 
-<li> <a>https://www.bostonglobe.com/metro/2019/03/04/the-backyard-mechanic-who-taking-tesla/Sv1l8q2sxpQvTFMp13VFwM/story.html</a></li> 
-<li> <a>https://rust-lang-nursery.github.io/rust-cookbook/</a></li> 
-<li> <a>https://github.com/adeshpande3/March-Madness-ML</a></li> 
-<li> <a>https://education.github.com/pack/offers</a></li> 
-<li> <a>https://github.com/marcelstoer/nodemcu-pyflasher</a></li> 
+<li> <a href="https://pudding.cool/">https://pudding.cool/</a></li> 
+<li> <a href="https://github.com/anaibol/awesome-serverless#ecommerce">https://github.com/anaibol/awesome-serverless#ecommerce</a></li> 
+<li> <a href="https://www.pentestpartners.com/security-blog/hacking-an-assault-tank-a-nerf-one/">https://www.pentestpartners.com/security-blog/hacking-an-assault-tank-a-nerf-one/</a></li> 
+<li> <a href="http://hedonometer.org/index.html?from=2017-09-06&to=2019-03-06">http://hedonometer.org/index.html?from=2017-09-06&to=2019-03-06</a></li> 
+<li> <a href="https://www.bostonglobe.com/metro/2019/03/04/the-backyard-mechanic-who-taking-tesla/Sv1l8q2sxpQvTFMp13VFwM/story.html">https://www.bostonglobe.com/metro/2019/03/04/the-backyard-mechanic-who-taking-tesla/Sv1l8q2sxpQvTFMp13VFwM/story.html</a></li> 
+<li> <a href="https://rust-lang-nursery.github.io/rust-cookbook/">https://rust-lang-nursery.github.io/rust-cookbook/</a></li> 
+<li> <a href="https://github.com/adeshpande3/March-Madness-ML">https://github.com/adeshpande3/March-Madness-ML</a></li> 
+<li> <a href="https://education.github.com/pack/offers">https://education.github.com/pack/offers</a></li> 
+<li> <a href="https://github.com/marcelstoer/nodemcu-pyflasher">https://github.com/marcelstoer/nodemcu-pyflasher</a></li> 
 </ul>
-<h2>social</h2>
+<h2>Social</h2>
 <ul>
-<li> <a>https://m.facebook.com/home.php</a></li> 
-<li> <a>https://www.linkedin.com/home?trk=nav_responsive_tab_home</a></li> 
-<li> <a>https://www.netflix.com/browse</a></li> 
-<li> <a>https://twitter.com/</a></li> 
-<li> <a>https://www.youtube.com/?gl=IN</a></li> 
-<li> <a>https://www.facebook.com/</a></li> 
-<li> <a>https://medium.com/</a></li> 
+<li> <a href="https://m.facebook.com/home.php">https://m.facebook.com/home.php</a></li> 
+<li> <a href="https://www.linkedin.com/home?trk=nav_responsive_tab_home">https://www.linkedin.com/home?trk=nav_responsive_tab_home</a></li> 
+<li> <a href="https://www.netflix.com/browse">https://www.netflix.com/browse</a></li> 
+<li> <a href="https://twitter.com/">https://twitter.com/</a></li> 
+<li> <a href="https://www.youtube.com/?gl=IN">https://www.youtube.com/?gl=IN</a></li> 
+<li> <a href="https://www.facebook.com/">https://www.facebook.com/</a></li> 
+<li> <a href="https://medium.com/">https://medium.com/</a></li> 
 </ul>
-<h2>softwareStack</h2>
+<h2>Softwarestack</h2>
 <ul>
-<li> <a>https://www.cybrary.it/</a></li> 
-<li> <a>https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel</a></li> 
-<li> <a>https://exupero.org/</a></li> 
-<li> <a>https://news.ycombinator.com/item?id=24901244</a></li> 
-<li> <a>https://us-east-2.console.aws.amazon.com/sagemaker/groundtruth#/labeling-datasets</a></li> 
-<li> <a>https://free-for.dev/#/?id=testing</a></li> 
+<li> <a href="https://www.cybrary.it/">https://www.cybrary.it/</a></li> 
+<li> <a href="https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel">https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel</a></li> 
+<li> <a href="https://exupero.org/">https://exupero.org/</a></li> 
+<li> <a href="https://news.ycombinator.com/item?id=24901244">https://news.ycombinator.com/item?id=24901244</a></li> 
+<li> <a href="https://us-east-2.console.aws.amazon.com/sagemaker/groundtruth#/labeling-datasets">https://us-east-2.console.aws.amazon.com/sagemaker/groundtruth#/labeling-datasets</a></li> 
+<li> <a href="https://free-for.dev/#/?id=testing">https://free-for.dev/#/?id=testing</a></li> 
 </ul>
-<h2>startup</h2>
+<h2>Startup</h2>
 <ul>
-<li> <a>https://playbook.samaltman.com/</a></li> 
-<li> <a>http://paulgraham.com/earnest.html</a></li> 
-<li> <a>https://www.avodocs.com/</a></li> 
-<li> <a>https://github.com/255kb/stack-on-a-budget</a></li> 
-<li> <a>https://gist.github.com/harperreed/3201887</a></li> 
+<li> <a href="https://playbook.samaltman.com/">https://playbook.samaltman.com/</a></li> 
+<li> <a href="http://paulgraham.com/earnest.html">http://paulgraham.com/earnest.html</a></li> 
+<li> <a href="https://www.avodocs.com/">https://www.avodocs.com/</a></li> 
+<li> <a href="https://github.com/255kb/stack-on-a-budget">https://github.com/255kb/stack-on-a-budget</a></li> 
+<li> <a href="https://gist.github.com/harperreed/3201887">https://gist.github.com/harperreed/3201887</a></li> 
 </ul>
-<h2>statistics</h2>
+<h2>Statistics</h2>
 <ul>
-<li> <a>https://www.itl.nist.gov/div898/handbook/index.htm</a></li> 
-<li> <a>https://www.evanmiller.org/index.html</a></li> 
+<li> <a href="https://www.itl.nist.gov/div898/handbook/index.htm">https://www.itl.nist.gov/div898/handbook/index.htm</a></li> 
+<li> <a href="https://www.evanmiller.org/index.html">https://www.evanmiller.org/index.html</a></li> 
 </ul>
-<h2>design</h2>
+<h2>Design</h2>
 <ul>
-<li> <a>http://roughjs.com/</a></li> 
-<li> <a>https://github.com/russellgoldenberg/scrollama?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more</a></li> 
-<li> <a>https://github.com/antvis/g2?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more</a></li> 
-<li> <a>https://github.com/ramon82/zuck.js?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more</a></li> 
-<li> <a>http://localhost:4200/admin/products/new</a></li> 
-<li> <a>https://html5up.net/</a></li> 
-<li> <a>https://www.creative-tim.com/product/material-dashboard-angular2</a></li> 
-<li> <a>chrome://newtab/</a></li> 
-<li> <a>https://medium.com/@nsmirnova/creating-pwa-with-angular-5-part-2-progressifying-the-application-449e3a706129</a></li> 
-<li> <a>https://ap.www.namecheap.com/domains/dcp/share/prakashsellathurai.me/rights</a></li> 
-<li> <a>https://plot.ly/ipython-notebooks/bicycle-control-design/#open-loop-bicycle-model</a></li> 
-<li> <a>https://github.com/chenqingspring/ng-lottie#installation</a></li> 
+<li> <a href="http://roughjs.com/">http://roughjs.com/</a></li> 
+<li> <a href="https://github.com/russellgoldenberg/scrollama?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">https://github.com/russellgoldenberg/scrollama?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more</a></li> 
+<li> <a href="https://github.com/antvis/g2?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">https://github.com/antvis/g2?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more</a></li> 
+<li> <a href="https://github.com/ramon82/zuck.js?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">https://github.com/ramon82/zuck.js?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more</a></li> 
+<li> <a href="http://localhost:4200/admin/products/new">http://localhost:4200/admin/products/new</a></li> 
+<li> <a href="https://html5up.net/">https://html5up.net/</a></li> 
+<li> <a href="https://www.creative-tim.com/product/material-dashboard-angular2">https://www.creative-tim.com/product/material-dashboard-angular2</a></li> 
+<li> <a href="chrome://newtab/">chrome://newtab/</a></li> 
+<li> <a href="https://medium.com/@nsmirnova/creating-pwa-with-angular-5-part-2-progressifying-the-application-449e3a706129">https://medium.com/@nsmirnova/creating-pwa-with-angular-5-part-2-progressifying-the-application-449e3a706129</a></li> 
+<li> <a href="https://ap.www.namecheap.com/domains/dcp/share/prakashsellathurai.me/rights">https://ap.www.namecheap.com/domains/dcp/share/prakashsellathurai.me/rights</a></li> 
+<li> <a href="https://plot.ly/ipython-notebooks/bicycle-control-design/#open-loop-bicycle-model">https://plot.ly/ipython-notebooks/bicycle-control-design/#open-loop-bicycle-model</a></li> 
+<li> <a href="https://github.com/chenqingspring/ng-lottie#installation">https://github.com/chenqingspring/ng-lottie#installation</a></li> 
 </ul>
-<li> <a>https://fermatslibrary.com/s/prediction-and-entropy-of-printed-english-2#email-newsletter</a></li> 
-<li> <a>https://goldenaudiobooks.com/robert-cialdini-pre-suasion-audiobook-free-online/</a></li> 
-<li> <a>https://hbr.org/2018/07/how-to-improve-your-business-english?utm_source=linkedin&utm_medium=social&utm_campaign=hbr</a></li> 
-<li> <a>https://trib.al/GqR4oJI</a></li> 
-<li> <a>https://trib.al/96mWhnC</a></li> 
-<li> <a>https://www.forbes.com/sites/jonyoushaei/2017/11/08/how-to-get-an-amazing-job-without-much-experience/?utm_source=LINKEDIN_COMPANY&utm_medium=social&utm_content=3068577546&utm_campaign=sprinklrForbesMainLI#7af26a55141c</a></li> 
-<li> <a>https://www.thebalancecareers.com/what-makes-a-work-environment-hostile-1919363?utm_source=linkedin&utm_medium=social&utm_campaign=shareurlbuttons</a></li> 
-<li> <a>https://www.forbes.com/sites/chuckswoboda/2020/02/03/to-hire-talent-wired-for-innovation-focus-on-mindsetnot-skill-set/amp/</a></li> 
-<li> <a>https://www.influenceatwork.com/principles-of-persuasion/</a></li> 
-<li> <a>https://hbr.org/2018/08/5-things-to-do-when-you-feel-overwhelmed-by-your-workload?utm_campaign=hbr&utm_source=linkedin&utm_medium=social</a></li> 
-<li> <a>https://hbr.org/2017/11/how-to-excel-at-both-strategy-and-execution?utm_medium=social&utm_campaign=hbr&utm_source=linkedin</a></li> 
-<li> <a>https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2019/04/5-myths-about-strategy</a></li> 
-<li> <a>https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/03/productive-conversations-take-real-empathy</a></li> 
-<li> <a>https://yourstory.com/2020/03/doctor-healthtech-startup-agile-healthcare-medi-junction?utm_source=WhatsApp&utm_medium=Messages</a></li> 
-<li> <a>https://techcrunch.com/2020/03/12/the-7-deadly-sins-of-startups/</a></li> 
-<li> <a>http://sde.b-u.ac.in/sss/studinfo.aspx</a></li> 
-<li> <a>https://waifu.lofiu.com/</a></li> 
-<li> <a>https://www.notredameonline.com/resources/leadership-and-management/leadership-certificate-programs/</a></li> 
-<li> <a>http://www.startupmentors.in/</a></li> 
-<li> <a>https://www.technologyreview.com/2020/08/14/1006780/ai-gpt-3-fake-blog-reached-top-of-hacker-news/</a></li> 
-<li> <a>https://www.google.com/amp/s/techvidvan.com/tutorials/mapreduce-job-optimization-techniques/amp/</a></li> 
-<li> <a>https://github.com/aksnzhy/bitcoin-bubble-index</a></li> 
-<li> <a>https://t.co/NazSY8JSzV?amp=1</a></li> 
-<li> <a>https://arxiv.org/abs/2105.04026</a></li> 
-<li> <a>https://tedgioia.substack.com/p/how-i-became-the-honest-broker</a></li> 
-<li> <a>https://huyenchip.com/ml-interviews-book/</a></li> 
+<li> <a href="https://fermatslibrary.com/s/prediction-and-entropy-of-printed-english-2#email-newsletter">https://fermatslibrary.com/s/prediction-and-entropy-of-printed-english-2#email-newsletter</a></li> 
+<li> <a href="https://goldenaudiobooks.com/robert-cialdini-pre-suasion-audiobook-free-online/">https://goldenaudiobooks.com/robert-cialdini-pre-suasion-audiobook-free-online/</a></li> 
+<li> <a href="https://hbr.org/2018/07/how-to-improve-your-business-english?utm_source=linkedin&utm_medium=social&utm_campaign=hbr">https://hbr.org/2018/07/how-to-improve-your-business-english?utm_source=linkedin&utm_medium=social&utm_campaign=hbr</a></li> 
+<li> <a href="https://trib.al/GqR4oJI">https://trib.al/GqR4oJI</a></li> 
+<li> <a href="https://trib.al/96mWhnC">https://trib.al/96mWhnC</a></li> 
+<li> <a href="https://www.forbes.com/sites/jonyoushaei/2017/11/08/how-to-get-an-amazing-job-without-much-experience/?utm_source=LINKEDIN_COMPANY&utm_medium=social&utm_content=3068577546&utm_campaign=sprinklrForbesMainLI#7af26a55141c">https://www.forbes.com/sites/jonyoushaei/2017/11/08/how-to-get-an-amazing-job-without-much-experience/?utm_source=LINKEDIN_COMPANY&utm_medium=social&utm_content=3068577546&utm_campaign=sprinklrForbesMainLI#7af26a55141c</a></li> 
+<li> <a href="https://www.thebalancecareers.com/what-makes-a-work-environment-hostile-1919363?utm_source=linkedin&utm_medium=social&utm_campaign=shareurlbuttons">https://www.thebalancecareers.com/what-makes-a-work-environment-hostile-1919363?utm_source=linkedin&utm_medium=social&utm_campaign=shareurlbuttons</a></li> 
+<li> <a href="https://www.forbes.com/sites/chuckswoboda/2020/02/03/to-hire-talent-wired-for-innovation-focus-on-mindsetnot-skill-set/amp/">https://www.forbes.com/sites/chuckswoboda/2020/02/03/to-hire-talent-wired-for-innovation-focus-on-mindsetnot-skill-set/amp/</a></li> 
+<li> <a href="https://www.influenceatwork.com/principles-of-persuasion/">https://www.influenceatwork.com/principles-of-persuasion/</a></li> 
+<li> <a href="https://hbr.org/2018/08/5-things-to-do-when-you-feel-overwhelmed-by-your-workload?utm_campaign=hbr&utm_source=linkedin&utm_medium=social">https://hbr.org/2018/08/5-things-to-do-when-you-feel-overwhelmed-by-your-workload?utm_campaign=hbr&utm_source=linkedin&utm_medium=social</a></li> 
+<li> <a href="https://hbr.org/2017/11/how-to-excel-at-both-strategy-and-execution?utm_medium=social&utm_campaign=hbr&utm_source=linkedin">https://hbr.org/2017/11/how-to-excel-at-both-strategy-and-execution?utm_medium=social&utm_campaign=hbr&utm_source=linkedin</a></li> 
+<li> <a href="https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2019/04/5-myths-about-strategy">https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2019/04/5-myths-about-strategy</a></li> 
+<li> <a href="https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/03/productive-conversations-take-real-empathy">https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/03/productive-conversations-take-real-empathy</a></li> 
+<li> <a href="https://yourstory.com/2020/03/doctor-healthtech-startup-agile-healthcare-medi-junction?utm_source=WhatsApp&utm_medium=Messages">https://yourstory.com/2020/03/doctor-healthtech-startup-agile-healthcare-medi-junction?utm_source=WhatsApp&utm_medium=Messages</a></li> 
+<li> <a href="https://techcrunch.com/2020/03/12/the-7-deadly-sins-of-startups/">https://techcrunch.com/2020/03/12/the-7-deadly-sins-of-startups/</a></li> 
+<li> <a href="http://sde.b-u.ac.in/sss/studinfo.aspx">http://sde.b-u.ac.in/sss/studinfo.aspx</a></li> 
+<li> <a href="https://waifu.lofiu.com/">https://waifu.lofiu.com/</a></li> 
+<li> <a href="https://www.notredameonline.com/resources/leadership-and-management/leadership-certificate-programs/">https://www.notredameonline.com/resources/leadership-and-management/leadership-certificate-programs/</a></li> 
+<li> <a href="http://www.startupmentors.in/">http://www.startupmentors.in/</a></li> 
+<li> <a href="https://www.technologyreview.com/2020/08/14/1006780/ai-gpt-3-fake-blog-reached-top-of-hacker-news/">https://www.technologyreview.com/2020/08/14/1006780/ai-gpt-3-fake-blog-reached-top-of-hacker-news/</a></li> 
+<li> <a href="https://www.google.com/amp/s/techvidvan.com/tutorials/mapreduce-job-optimization-techniques/amp/">https://www.google.com/amp/s/techvidvan.com/tutorials/mapreduce-job-optimization-techniques/amp/</a></li> 
+<li> <a href="https://github.com/aksnzhy/bitcoin-bubble-index">https://github.com/aksnzhy/bitcoin-bubble-index</a></li> 
+<li> <a href="https://t.co/NazSY8JSzV?amp=1">https://t.co/NazSY8JSzV?amp=1</a></li> 
+<li> <a href="https://arxiv.org/abs/2105.04026">https://arxiv.org/abs/2105.04026</a></li> 
+<li> <a href="https://tedgioia.substack.com/p/how-i-became-the-honest-broker">https://tedgioia.substack.com/p/how-i-became-the-honest-broker</a></li> 
+<li> <a href="https://huyenchip.com/ml-interviews-book/">https://huyenchip.com/ml-interviews-book/</a></li> 

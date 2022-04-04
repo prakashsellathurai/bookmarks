@@ -20,13 +20,13 @@ def recursive_traversal(prefix,bookmarks,result,level=0):
         
         if item['type'] == "folder":
             
-            result.append(prefix+"<h2>"+item['title']+"</h2>")
+            result.append(prefix+"<h2>"+str(item['title']).capitalize()+"</h2>")
             if item['children'] != None:
                 result.append("<ul>")
                 recursive_traversal(prefix+str(""*(level+1)),item,result,level=level+1)
                 result.append("</ul>")
         elif item['type'] == "url":
-            result.append(prefix+"<li> <a>"+item['url']+"</a></li> ")
+            result.append(prefix+"<li> <a href=\""+item['url']+"\">"+item['url']+"</a></li> ")
 
             
 
