@@ -12,6 +12,7 @@ netscape-bookmarks-file-parser = {git = "https://github.com/FlyingWolFox/Netscap
 lxml = "*"
 html5lib = "*"
 nebooman = "*"
+tqdm = "*"
 
 [requires]
 python_version = "3.8"

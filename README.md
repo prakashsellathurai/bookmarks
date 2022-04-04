@@ -1,5 +1,1096 @@
-[//]: # (TOCSTART)
-
- <h2>blogs</h2> &nbsp; - &nbsp; <a>https://www.benkuhn.net/</a> <br> &nbsp; - &nbsp; <a>https://huyenchip.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://www.chrisfenton.com/</a> <br> &nbsp; - &nbsp; <a>https://eli.thegreenplace.net/archives/all</a> <br> &nbsp; - &nbsp; <a>https://mcfunley.com/</a> <br> &nbsp; - &nbsp; <a>https://ericsink.com/index.html</a> <br> &nbsp; - &nbsp; <a>https://fgiesen.wordpress.com/</a> <br> &nbsp; - &nbsp; <a>https://fabiensanglard.net/</a> <br> &nbsp; - &nbsp; <a>https://bellard.org/</a> <br> &nbsp; - &nbsp; <a>https://www.akalin.com/</a> <br> &nbsp; - &nbsp; <a>http://blogs.whitman.edu/countingfromzero/</a> <br> &nbsp; - &nbsp; <a>https://preshing.com/</a> <br> &nbsp; - &nbsp; <a>http://pvk.ca/</a> <br> &nbsp; - &nbsp; <a>https://subconscious.substack.com/</a> <br> &nbsp; - &nbsp; <a>https://3quarksdaily.com/</a> <br> &nbsp; - &nbsp; <a>https://ralphammer.com/</a> <br> &nbsp; - &nbsp; <a>https://www.gwern.net/index</a> <br> &nbsp; - &nbsp; <a>https://publicdomainreview.org/</a> <br> &nbsp; - &nbsp; <a>https://urbigenous.net/library/</a> <br> &nbsp; - &nbsp; <a>https://bartoszmilewski.com/</a> <br> &nbsp; - &nbsp; <a>https://phoboslab.org/</a> <br> &nbsp; - &nbsp; <a>https://www.yudkowsky.net/</a> <br> &nbsp; - &nbsp; <a>https://adactio.com/</a> <br> &nbsp; - &nbsp; <a>http://www.randomhacks.net/</a> <br> &nbsp; - &nbsp; <a>https://dreamsongs.com/index.html</a> <br> &nbsp; - &nbsp; <a>https://terrytao.wordpress.com/</a> <br> &nbsp; - &nbsp; <a>https://kk.org/</a> <br> &nbsp; - &nbsp; <a>https://www.ribbonfarm.com/</a> <br> &nbsp; - &nbsp; <a>https://meltingasphalt.com/</a> <br> &nbsp; - &nbsp; <a>https://statmodeling.stat.columbia.edu/blogs-i-read/</a> <br> &nbsp; - &nbsp; <a>https://cp4space.hatsya.com/</a> <br> &nbsp; - &nbsp; <a>https://www.lowtechmagazine.com/</a> <br> &nbsp; - &nbsp; <a>https://moralunderstanding.substack.com/</a> <br> &nbsp; - &nbsp; <a>https://scottaaronson.blog/</a> <br> &nbsp; - &nbsp; <a>https://johncarlosbaez.wordpress.com/</a> <br> &nbsp; - &nbsp; <a>https://mathwithbaddrawings.com/</a> <br> &nbsp; - &nbsp; <a>https://www.math.columbia.edu/~dejong/wordpress/</a> <br> &nbsp; - &nbsp; <a>https://pointersgonewild.com/</a> <br> &nbsp; - &nbsp; <a>https://www.themarginalian.org/</a> <br> &nbsp; - &nbsp; <a>https://fiftytwo.in/</a> <br> &nbsp; - &nbsp; <a>https://blog.regehr.org/</a> <br> &nbsp; - &nbsp; <a>https://www.hillelwayne.com/post/</a> <br> &nbsp; - &nbsp; <a>https://tinyprojects.dev/blog</a> <br> &nbsp; - &nbsp; <a>https://blog.codinghorror.com/</a> <br> &nbsp; - &nbsp; <a>https://notes.eatonphil.com/</a> <br> &nbsp; - &nbsp; <a>https://ruslanspivak.com/archives.html</a> <br> &nbsp; - &nbsp; <a>https://99percentinvisible.org/episode/wait-wait-tell-me/</a> <br> &nbsp; - &nbsp; <a>https://slatestarcodex.com/</a> <br> &nbsp; - &nbsp; <a>https://yoshuabengio.org/</a> <br> <h2>books</h2> &nbsp; - &nbsp; <a>https://www.anthropic-principle.com/q=book/table_of_contents/</a> <br> &nbsp; - &nbsp; <a>https://www.gutenberg.org/</a> <br> &nbsp; - &nbsp; <a>https://bayesoptbook.com//book/bayesoptbook.pdf</a> <br> &nbsp; - &nbsp; <a>https://joyofcryptography.com/pdf/book.pdf</a> <br> &nbsp; - &nbsp; <a>https://www.tug.org/texshowcase/cheat.pdf</a> <br> &nbsp; - &nbsp; <a>https://hudsonreview.com/</a> <br> &nbsp; - &nbsp; <a>https://www.globalgreyebooks.com/index.html</a> <br> &nbsp; - &nbsp; <a>https://mitpress.mit.edu/sites/default/files/sicp/index.html</a> <br> <h2>business</h2> &nbsp; - &nbsp; <a>https://hbr.org/2020/03/a-more-sustainable-supply-chain?utm_source=linkedin&utm_medium=social&utm_campaign=hbr</a> <br> &nbsp; - &nbsp; <a>https://thoughtlytics.substack.com/p/10-strategies-work-only-to-the-extent</a> <br> &nbsp; - &nbsp; <a>https://www.newyorker.com/culture/culture-desk/a-brief-history-of-the-hedge-fund</a> <br> <h2>coursera</h2> &nbsp; - &nbsp; <a>https://github.com/shenweichen/Coursera/tree/master/Specialization_Advanced_Machine_Learning_Higher_School_of_Economics/Course1_Introduction%20to%20Deep%20Learning/week4_Unsupervised%20representation%20learning</a> <br> &nbsp; - &nbsp; <a>https://github.com/hse-aml/intro-to-dl</a> <br> &nbsp; - &nbsp; <a>https://colab.research.google.com/github/hse-aml/intro-to-dl/blob/master/week3/week3_task2_fine_tuning_clean.ipynb#scrollTo=pNX56MGQGVee</a> <br> &nbsp; - &nbsp; <a>https://www.coursera.org/learn/intro-to-deep-learning/home/week/4?</a> <br> &nbsp; - &nbsp; <a>https://github.com/hse-aml/intro-to-dl/blob/master/README.md</a> <br> &nbsp; - &nbsp; <a>https://github.com/jiadaizhao/Advanced-Machine-Learning-Specialization/blob/master/Introduction%20to%20Deep%20Learning/Week6/week6_final_project_image_captioning_clean.ipynb</a> <br> &nbsp; - &nbsp; <a>https://onlinecourses.nptel.ac.in/explorer</a> <br> &nbsp; - &nbsp; <a>http://spoken-tutorial.org/create_cd_content/</a> <br> <h2>cryptography</h2> &nbsp; - &nbsp; <a>https://zkp.science/</a> <br> <h2>dataScience</h2> &nbsp; - &nbsp; <a>https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists</a> <br> &nbsp; - &nbsp; <a>https://github.com/manjunath5496/Data-Technology-Books</a> <br> &nbsp; - &nbsp; <a>https://ourworldindata.org/problems-and-progress</a> <br> &nbsp; - &nbsp; <a>https://ourworldindata.org/</a> <br> &nbsp; - &nbsp; <a>https://sqlbolt.com/</a> <br> <h2>deeplearning</h2> &nbsp; - &nbsp; <a>https://ai.intel.com/ngraph-a-new-open-source-compiler-for-deep-learning-systems/</a> <br> &nbsp; - &nbsp; <a>https://www.eggradients.com/</a> <br> &nbsp; - &nbsp; <a>http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html</a> <br> &nbsp; - &nbsp; <a>http://www.wildml.com/deep-learning-glossary/</a> <br> &nbsp; - &nbsp; <a>http://www.r2d3.us/visual-intro-to-machine-learning-part-2/</a> <br> &nbsp; - &nbsp; <a>http://cs230.stanford.edu/proj-spring-2018.html</a> <br> &nbsp; - &nbsp; <a>https://towardsdatascience.com/how-bayesian-statistics-convinced-me-to-hit-the-gym-fa737b0a7ac</a> <br> &nbsp; - &nbsp; <a>http://explained.ai/matrix-calculus/index.html</a> <br> &nbsp; - &nbsp; <a>https://deepmind.com/blog/neural-scene-representation-and-rendering/</a> <br> &nbsp; - &nbsp; <a>https://nealcaren.github.io/python-tutorials/</a> <br> &nbsp; - &nbsp; <a>https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html</a> <br> &nbsp; - &nbsp; <a>https://spandan-madan.github.io/DeepLearningProject/docs/Deep_Learning_Project-Pytorch.html</a> <br> &nbsp; - &nbsp; <a>https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11</a> <br> &nbsp; - &nbsp; <a>https://github.com/Spandan-Madan/Me_Bot</a> <br> &nbsp; - &nbsp; <a>http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html</a> <br> &nbsp; - &nbsp; <a>https://en.wikipedia.org/wiki/Boltzmann_distribution</a> <br> &nbsp; - &nbsp; <a>https://scrimba.com/g/gneuralnetworks</a> <br> &nbsp; - &nbsp; <a>https://github.com/aimacode/aima-python</a> <br> &nbsp; - &nbsp; <a>https://github.com/akanazawa/hmr</a> <br> &nbsp; - &nbsp; <a>https://github.com/albert100121/360SD-Net</a> <br> &nbsp; - &nbsp; <a>https://www.nvidia.co.uk/deep-learning-ai/education/</a> <br> &nbsp; - &nbsp; <a>https://nvidia.qwiklab.com/focuses/5866</a> <br> &nbsp; - &nbsp; <a>https://rltheorybook.github.io/rltheorybook_AJKS.pdf</a> <br> &nbsp; - &nbsp; <a>https://nlp.seas.harvard.edu/code/</a> <br> <h2>design</h2> &nbsp; - &nbsp; <a>https://nodesign.dev/</a> <br> &nbsp; - &nbsp; <a>https://practicaltypography.com/</a> <br> &nbsp; - &nbsp; <a>https://every-layout.dev/</a> <br> &nbsp; - &nbsp; <a>https://stephaniewalter.design/blog/</a> <br> &nbsp; - &nbsp; <a>https://www.photopea.com/</a> <br> &nbsp; - &nbsp; <a>https://cleanup.pictures/?ref=producthunt</a> <br> <h2>Economics</h2> &nbsp; - &nbsp; <a>http://matt-clancy.com/economics-of-innovation-detailed-reading-list/</a> <br> <h2>Engineering</h2> &nbsp; - &nbsp; <a>https://endless-sphere.com/forums/</a> <br> <h2>Enginnering Blogs</h2> &nbsp; - &nbsp; <a>https://developers.500px.com/</a> <br> &nbsp; - &nbsp; <a>https://8thlight.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://99designs.com/tech-blog/</a> <br> &nbsp; - &nbsp; <a>http://tech.adroll.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/build-addepar</a> <br> &nbsp; - &nbsp; <a>https://build.affinity.co/</a> <br> &nbsp; - &nbsp; <a>https://airbrake.io/blog/</a> <br> &nbsp; - &nbsp; <a>https://www.airpair.com/software-experts</a> <br> &nbsp; - &nbsp; <a>https://advancedweb.hu/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/airbnb-engineering</a> <br> &nbsp; - &nbsp; <a>https://airtame.engineering/</a> <br> &nbsp; - &nbsp; <a>https://blog.algolia.com/</a> <br> &nbsp; - &nbsp; <a>https://allegro.tech/</a> <br> &nbsp; - &nbsp; <a>https://techblog.appnexus.com/</a> <br> &nbsp; - &nbsp; <a>http://blog.arkency.com/</a> <br> &nbsp; - &nbsp; <a>http://artsy.github.io/</a> <br> &nbsp; - &nbsp; <a>https://blog.asana.com/category/eng/</a> <br> &nbsp; - &nbsp; <a>https://developer.atlassian.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://spin.atomicobject.com/</a> <br> &nbsp; - &nbsp; <a>https://auth0.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://blog.avenuecode.com/</a> <br> &nbsp; - &nbsp; <a>https://aws.amazon.com/blogs/aws/</a> <br> &nbsp; - &nbsp; <a>https://www.azavea.com/blog/category/software-development/</a> <br> &nbsp; - &nbsp; <a>https://bytes.babbel.com/en/</a> <br> &nbsp; - &nbsp; <a>https://backtrace.io/blog/</a> <br> &nbsp; - &nbsp; <a>https://techblog.badoo.com/</a> <br> &nbsp; - &nbsp; <a>https://bandcamptech.wordpress.com/</a> <br> &nbsp; - &nbsp; <a>https://lab.getbase.com/category/engineering/</a> <br> &nbsp; - &nbsp; <a>https://blog.developer.bazaarvoice.com/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/bbc-design-engineering/</a> <br> &nbsp; - &nbsp; <a>https://benchling.engineering/</a> <br> &nbsp; - &nbsp; <a>https://www.benefitfocus.com/blogs/design-engineering</a> <br> &nbsp; - &nbsp; <a>http://www.bigeng.io/</a> <br> &nbsp; - &nbsp; <a>https://binary-studio.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://word.bitly.com/</a> <br> &nbsp; - &nbsp; <a>http://engineering.bittorrent.com/</a> <br> &nbsp; - &nbsp; <a>http://blablatech.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://rockthecode.io/</a> <br> &nbsp; - &nbsp; <a>https://code.blender.org/</a> <br> &nbsp; - &nbsp; <a>http://engineering.blogfoster.com/</a> <br> &nbsp; - &nbsp; <a>http://www.boxever.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://engineering.brandwatch.com/</a> <br> &nbsp; - &nbsp; <a>https://www.buzzfeed.com/techblog</a> <br> &nbsp; - &nbsp; <a>https://engineering.canva.com/</a> <br> &nbsp; - &nbsp; <a>https://capgemini.github.io/</a> <br> &nbsp; - &nbsp; <a>https://www.ctl.io/developers/blog</a> <br> &nbsp; - &nbsp; <a>http://engineering.cerner.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.chaps.io/</a> <br> &nbsp; - &nbsp; <a>http://engineering.chartbeat.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.chef.io/</a> <br> &nbsp; - &nbsp; <a>https://engineering.clever.com/</a> <br> &nbsp; - &nbsp; <a>https://clevertap.com/blog/tag/engineering/</a> <br> &nbsp; - &nbsp; <a>https://www.previous.cloudbees.com/blog</a> <br> &nbsp; - &nbsp; <a>https://blog.cloudera.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.cloudflare.com/</a> <br> &nbsp; - &nbsp; <a>https://www.cockroachlabs.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://codebetter.com/</a> <br> &nbsp; - &nbsp; <a>https://www.codelitt.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://crypt.codemancers.com/</a> <br> &nbsp; - &nbsp; <a>https://www.codementor.io/tutorial</a> <br> &nbsp; - &nbsp; <a>http://www.codenameone.com/blog.html</a> <br> &nbsp; - &nbsp; <a>https://blog.codeship.com/</a> <br> &nbsp; - &nbsp; <a>https://engineering.coinbase.com/</a> <br> &nbsp; - &nbsp; <a>https://collectiveidea.com/blog</a> <br> &nbsp; - &nbsp; <a>https://techblog.commercetools.com/</a> <br> &nbsp; - &nbsp; <a>https://technology.condenast.com/</a> <br> &nbsp; - &nbsp; <a>https://www.confluent.io/blog</a> <br> &nbsp; - &nbsp; <a>https://convox.com/blog</a> <br> &nbsp; - &nbsp; <a>http://devblog.coolblue.nl/</a> <br> &nbsp; - &nbsp; <a>https://engineering.creditkarma.com/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/criteo-labs</a> <br> &nbsp; - &nbsp; <a>https://crowdfire.engineering/</a> <br> &nbsp; - &nbsp; <a>https://cloud.blog.csc.fi/</a> <br> &nbsp; - &nbsp; <a>http://engineering.curalate.com/</a> <br> &nbsp; - &nbsp; <a>https://data-artisans.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://databricks.com/blog</a> <br> &nbsp; - &nbsp; <a>http://eng.datafox.co/</a> <br> &nbsp; - &nbsp; <a>https://deezer.io/</a> <br> &nbsp; - &nbsp; <a>https://deferpanic.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://deliveroo.engineering/</a> <br> &nbsp; - &nbsp; <a>https://blog.digitalocean.com/tag/engineering/</a> <br> &nbsp; - &nbsp; <a>https://blog.discordapp.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.docker.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.doordash.com/tagged/engineering</a> <br> &nbsp; - &nbsp; <a>https://engineering.doximity.com/</a> <br> &nbsp; - &nbsp; <a>https://drivy.engineering/</a> <br> &nbsp; - &nbsp; <a>https://blogs.dropbox.com/tech/</a> <br> &nbsp; - &nbsp; <a>https://www.ebayinc.com/stories/blogs/tech/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/unexpected-token</a> <br> &nbsp; - &nbsp; <a>http://www.eharmony.com/engineering/</a> <br> &nbsp; - &nbsp; <a>https://www.elastic.co/blog/category/engineering</a> <br> &nbsp; - &nbsp; <a>https://blog.engineyard.com/</a> <br> &nbsp; - &nbsp; <a>https://sourcecode.entelo.com/</a> <br> &nbsp; - &nbsp; <a>https://webuild.envato.com/</a> <br> &nbsp; - &nbsp; <a>https://envoy.engineering/</a> <br> &nbsp; - &nbsp; <a>https://www.erlang-solutions.com/blog.html</a> <br> &nbsp; - &nbsp; <a>https://codeascraft.com/</a> <br> &nbsp; - &nbsp; <a>https://www.eventbrite.com/engineering/</a> <br> &nbsp; - &nbsp; <a>https://evernote.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://evilmartians.com/chronicles/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/expedia-group-tech</a> <br> &nbsp; - &nbsp; <a>https://code.facebook.com/posts/</a> <br> &nbsp; - &nbsp; <a>https://engineering.fb.com/category/ai-research/</a> <br> &nbsp; - &nbsp; <a>http://blog.faraday.io/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/feedzaitech</a> <br> &nbsp; - &nbsp; <a>http://making.fiftythree.com/</a> <br> &nbsp; - &nbsp; <a>http://tech.findmypast.com/</a> <br> &nbsp; - &nbsp; <a>http://tech.finn.no/</a> <br> &nbsp; - &nbsp; <a>https://dev.firmafon.dk/blog/</a> <br> &nbsp; - &nbsp; <a>http://code.flickr.net/</a> <br> &nbsp; - &nbsp; <a>http://engineering.flipboard.com/</a> <br> &nbsp; - &nbsp; <a>https://engineering.foursquare.com/</a> <br> &nbsp; - &nbsp; <a>https://freeletics.engineering/</a> <br> &nbsp; - &nbsp; <a>https://engineering.fundingcircle.com/</a> <br> &nbsp; - &nbsp; <a>https://www.future-processing.pl/technical-blog/</a> <br> &nbsp; - &nbsp; <a>https://galois.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://tech.gc.com/</a> <br> &nbsp; - &nbsp; <a>https://tech.geoblink.com/</a> <br> &nbsp; - &nbsp; <a>http://tech.gilt.com/</a> <br> &nbsp; - &nbsp; <a>https://engineering.giphy.com/</a> <br> &nbsp; - &nbsp; <a>https://githubengineering.com/</a> <br> &nbsp; - &nbsp; <a>https://github.com/blog/category/engineering</a> <br> &nbsp; - &nbsp; <a>https://gocardless.com/blog/tagged/engineering/</a> <br> &nbsp; - &nbsp; <a>https://team.goodeggs.com/</a> <br> &nbsp; - &nbsp; <a>https://security.googleblog.com/</a> <br> &nbsp; - &nbsp; <a>https://research.googleblog.com/</a> <br> &nbsp; - &nbsp; <a>https://engineering.gosquared.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.gojekengineering.com/</a> <br> &nbsp; - &nbsp; <a>http://engineering.grab.com/</a> <br> &nbsp; - &nbsp; <a>https://grafana.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://tech.grammarly.com/blog/index.html</a> <br> &nbsp; - &nbsp; <a>https://lambda.grofers.com/</a> <br> &nbsp; - &nbsp; <a>http://blog.joingrouper.com/</a> <br> &nbsp; - &nbsp; <a>https://engineering.groupon.com/</a> <br> &nbsp; - &nbsp; <a>https://www.theguardian.com/info/developer-blog</a> <br> &nbsp; - &nbsp; <a>http://engineering.gusto.com/</a> <br> &nbsp; - &nbsp; <a>http://engineering.hackerearth.com/</a> <br> &nbsp; - &nbsp; <a>https://haptik.ai/tech/</a> <br> &nbsp; - &nbsp; <a>http://engineering.harrys.com/</a> <br> &nbsp; - &nbsp; <a>https://www.hashicorp.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://engineering.hashnode.com/</a> <br> &nbsp; - &nbsp; <a>https://hashrocket.com/blog</a> <br> &nbsp; - &nbsp; <a>https://blog.hasura.io/</a> <br> &nbsp; - &nbsp; <a>https://engineering.haus.com/</a> <br> &nbsp; - &nbsp; <a>https://heap.engineering/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/helpshift-engineering/</a> <br> &nbsp; - &nbsp; <a>https://developer.here.com/blog</a> <br> &nbsp; - &nbsp; <a>https://blog.heroku.com/engineering</a> <br> &nbsp; - &nbsp; <a>http://code.hireart.com/</a> <br> &nbsp; - &nbsp; <a>https://tech.homeaway.com/</a> <br> &nbsp; - &nbsp; <a>http://blog.honeybadger.io/</a> <br> &nbsp; - &nbsp; <a>http://code.hootsuite.com/</a> <br> &nbsp; - &nbsp; <a>https://www.hostinger.com/blog/engineering/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/engineering-housing</a> <br> &nbsp; - &nbsp; <a>http://product.hubspot.com/blog/topic/engineering</a> <br> &nbsp; - &nbsp; <a>https://developer.ibm.com/dwblog/</a> <br> &nbsp; - &nbsp; <a>http://engineering.ifttt.com/</a> <br> &nbsp; - &nbsp; <a>https://engineering.imvu.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.imaginea.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.imgur.com/category/eng/</a> <br> &nbsp; - &nbsp; <a>http://engineering.indeedblog.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://tech.instacart.com/</a> <br> &nbsp; - &nbsp; <a>https://engineering.instagram.com/</a> <br> &nbsp; - &nbsp; <a>https://software.intel.com/en-us/blogs/</a> <br> &nbsp; - &nbsp; <a>http://engineering.intenthq.com/</a> <br> &nbsp; - &nbsp; <a>http://intentmedia.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://engineering.intercom.io/</a> <br> &nbsp; - &nbsp; <a>https://quickbooks-engineering.intuit.com/</a> <br> &nbsp; - &nbsp; <a>http://engineering.invisionapp.com/</a> <br> &nbsp; - &nbsp; <a>https://blogs.janestreet.com/category/ocaml/</a> <br> &nbsp; - &nbsp; <a>https://tech.jet.com/</a> <br> &nbsp; - &nbsp; <a>https://jobandtalent.engineering/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/jobteaser-dev-team/</a> <br> &nbsp; - &nbsp; <a>https://jollygoodcode.github.io/</a> <br> &nbsp; - &nbsp; <a>https://tech.just-eat.com/</a> <br> &nbsp; - &nbsp; <a>http://engineering.khanacademy.org/</a> <br> &nbsp; - &nbsp; <a>https://www.kickstarter.com/backing-and-hacking</a> <br> &nbsp; - &nbsp; <a>https://techblog.king.com/</a> <br> &nbsp; - &nbsp; <a>https://kinvolk.io/blog/</a> <br> &nbsp; - &nbsp; <a>https://devblog.kogan.com/</a> <br> &nbsp; - &nbsp; <a>https://kolosek.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://latacora.singles/</a> <br> &nbsp; - &nbsp; <a>http://engineering.laterooms.com/</a> <br> &nbsp; - &nbsp; <a>https://tech.lendinghome.com/</a> <br> &nbsp; - &nbsp; <a>https://engineering.linecorp.com/en/blog</a> <br> &nbsp; - &nbsp; <a>https://developers.livechatinc.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://liveramp.com/engineering/</a> <br> &nbsp; - &nbsp; <a>http://eng.localytics.com/</a> <br> &nbsp; - &nbsp; <a>https://eng.lyft.com/</a> <br> &nbsp; - &nbsp; <a>https://www.madetech.com/blog</a> <br> &nbsp; - &nbsp; <a>http://blog.mallow-tech.com/</a> <br> &nbsp; - &nbsp; <a>http://blog.mandrill.com/</a> <br> &nbsp; - &nbsp; <a>https://www.maptiler.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/medium-eng</a> <br> &nbsp; - &nbsp; <a>http://blog.memsql.com/content/engineering/</a> <br> &nbsp; - &nbsp; <a>https://mesosphere.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://blogs.msdn.microsoft.com/pythonengineering/</a> <br> &nbsp; - &nbsp; <a>https://engineering.mixmax.com/</a> <br> &nbsp; - &nbsp; <a>https://code.mixpanel.com/</a> <br> &nbsp; - &nbsp; <a>https://engineering.mongodb.com/</a> <br> &nbsp; - &nbsp; <a>http://engineering.monsanto.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.moove-it.com/</a> <br> &nbsp; - &nbsp; <a>https://planet.mozilla.org/ateam/</a> <br> &nbsp; - &nbsp; <a>https://hacks.mozilla.org/</a> <br> &nbsp; - &nbsp; <a>https://planet.mozilla.org/releng/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/myntra-engineering</a> <br> &nbsp; - &nbsp; <a>https://medium.com/myntra-engineering/tagged/data-science</a> <br> &nbsp; - &nbsp; <a>https://medium.com/netflix-techblog</a> <br> &nbsp; - &nbsp; <a>https://open.blogs.nytimes.com/</a> <br> &nbsp; - &nbsp; <a>https://engblog.nextdoor.com/</a> <br> &nbsp; - &nbsp; <a>https://nordicapis.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://www.novoda.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://blog.apps.npr.org/</a> <br> &nbsp; - &nbsp; <a>https://blogs.nvidia.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.octo.com/en/</a> <br> &nbsp; - &nbsp; <a>https://developer.okta.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://tech.olx.com/</a> <br> &nbsp; - &nbsp; <a>https://engineering.opendns.com/</a> <br> &nbsp; - &nbsp; <a>http://tech.opentable.com/</a> <br> &nbsp; - &nbsp; <a>http://tech.opentable.co.uk/</a> <br> &nbsp; - &nbsp; <a>https://code.oursky.com/</a> <br> &nbsp; - &nbsp; <a>http://tech.oyster.com/</a> <br> &nbsp; - &nbsp; <a>http://engineering.opensooq.com/</a> <br> &nbsp; - &nbsp; <a>http://engineering.panoramaed.com/</a> <br> &nbsp; - &nbsp; <a>https://www.paypal-engineering.com/</a> <br> &nbsp; - &nbsp; <a>https://www.periscopedata.com/blog</a> <br> &nbsp; - &nbsp; <a>https://tech.pic-collage.com/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/@Pinterest_Engineering</a> <br> &nbsp; - &nbsp; <a>https://engineering.pivotal.io/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/better-practices</a> <br> &nbsp; - &nbsp; <a>https://postmarkapp.com/blog</a> <br> &nbsp; - &nbsp; <a>https://blog.postmates.com/tagged/engineering</a> <br> &nbsp; - &nbsp; <a>https://medium.com/prezi-engineering</a> <br> &nbsp; - &nbsp; <a>https://www.pubnub.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://blog.8thcolor.com/</a> <br> &nbsp; - &nbsp; <a>https://making.pusher.com/</a> <br> &nbsp; - &nbsp; <a>https://www.raizlabs.com/dev/</a> <br> &nbsp; - &nbsp; <a>http://blog.rapidapi.com/</a> <br> &nbsp; - &nbsp; <a>https://www.rea-group.com/category/tech/</a> <br> &nbsp; - &nbsp; <a>https://realm.io/news/</a> <br> &nbsp; - &nbsp; <a>http://artplustech.com/</a> <br> &nbsp; - &nbsp; <a>http://redino.net/blog/</a> <br> &nbsp; - &nbsp; <a>https://developers.redhat.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://engineering.remind.com/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/retailmenot-engineering/</a> <br> &nbsp; - &nbsp; <a>http://eng.rightscale.com/</a> <br> &nbsp; - &nbsp; <a>https://engineering.riotgames.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.risingstack.com/</a> <br> &nbsp; - &nbsp; <a>https://www.rosehosting.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://www.runtastic.com/blog/en/category/tech/</a> <br> &nbsp; - &nbsp; <a>https://developer.salesforce.com/blogs/engineering/</a> <br> &nbsp; - &nbsp; <a>http://www.schibsted.pl/blog/</a> <br> &nbsp; - &nbsp; <a>https://blog.scrapinghub.com/</a> <br> &nbsp; - &nbsp; <a>https://tech.scrunch.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://tech.secretescapes.com/</a> <br> &nbsp; - &nbsp; <a>https://segment.com/blog/categories/engineering/</a> <br> &nbsp; - &nbsp; <a>https://engineering.semantics3.com/</a> <br> &nbsp; - &nbsp; <a>https://semaphoreci.com/community</a> <br> &nbsp; - &nbsp; <a>http://semaphoreci.com/blog/tags/engineering.html</a> <br> &nbsp; - &nbsp; <a>http://blog.sensible.io/</a> <br> &nbsp; - &nbsp; <a>https://serverless.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://engineroom.settled.co.uk/</a> <br> &nbsp; - &nbsp; <a>http://engineering.shapesecurity.com/</a> <br> &nbsp; - &nbsp; <a>https://www.sharethis.com/category/engineering/</a> <br> &nbsp; - &nbsp; <a>https://blog.shazam.com/</a> <br> &nbsp; - &nbsp; <a>https://engineering.shopify.com/</a> <br> &nbsp; - &nbsp; <a>https://tech.showmax.com/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/shyp-engineering</a> <br> &nbsp; - &nbsp; <a>https://blog.siftscience.com/?category=Engineering</a> <br> &nbsp; - &nbsp; <a>https://sitepoint.com/</a> <br> &nbsp; - &nbsp; <a>http://engineering.skybettingandgaming.com/</a> <br> &nbsp; - &nbsp; <a>http://codevoyagers.com/</a> <br> &nbsp; - &nbsp; <a>https://slack.engineering/</a> <br> &nbsp; - &nbsp; <a>https://tech.small-improvements.com/</a> <br> &nbsp; - &nbsp; <a>https://up.smartrecruiters.com/</a> <br> &nbsp; - &nbsp; <a>https://snyk.io/blog</a> <br> &nbsp; - &nbsp; <a>https://devblog.songkick.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.soshace.com/en/</a> <br> &nbsp; - &nbsp; <a>https://developers.soundcloud.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://engineering.speedledger.com/</a> <br> &nbsp; - &nbsp; <a>https://labs.spotify.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.sqreen.io/</a> <br> &nbsp; - &nbsp; <a>https://corner.squareup.com/</a> <br> &nbsp; - &nbsp; <a>https://engineering.squarespace.com/</a> <br> &nbsp; - &nbsp; <a>https://stackoverflow.blog/engineering/</a> <br> &nbsp; - &nbsp; <a>https://stackshare.io/feed</a> <br> &nbsp; - &nbsp; <a>http://multithreaded.stitchfix.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://stormpath.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/strava-engineering/</a> <br> &nbsp; - &nbsp; <a>https://blog.stridenyc.com/</a> <br> &nbsp; - &nbsp; <a>https://stripe.com/blog</a> <br> &nbsp; - &nbsp; <a>https://engineering.surveymonkey.com/</a> <br> &nbsp; - &nbsp; <a>https://bytes.swiggy.com/</a> <br> &nbsp; - &nbsp; <a>http://blog.takipi.com/</a> <br> &nbsp; - &nbsp; <a>https://target.github.io/</a> <br> &nbsp; - &nbsp; <a>http://tech.taskrabbit.com/</a> <br> &nbsp; - &nbsp; <a>https://engineroom.teamwork.com/</a> <br> &nbsp; - &nbsp; <a>http://teespring.engineering/</a> <br> &nbsp; - &nbsp; <a>http://techblog.thescore.com/</a> <br> &nbsp; - &nbsp; <a>https://robots.thoughtbot.com/</a> <br> &nbsp; - &nbsp; <a>https://www.thoughtworks.com/insights</a> <br> &nbsp; - &nbsp; <a>https://www.thumbtack.com/engineering/</a> <br> &nbsp; - &nbsp; <a>https://tech.ticketmaster.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.timescale.com/</a> <br> &nbsp; - &nbsp; <a>https://tech.gotinder.com/</a> <br> &nbsp; - &nbsp; <a>https://www.toptal.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://engineroom.trackmaven.com/</a> <br> &nbsp; - &nbsp; <a>http://tech.transferwise.com/</a> <br> &nbsp; - &nbsp; <a>https://tech.trello.com/</a> <br> &nbsp; - &nbsp; <a>http://engineering.tripadvisor.com/</a> <br> &nbsp; - &nbsp; <a>http://tech.trivago.com/</a> <br> &nbsp; - &nbsp; <a>https://www.drivenbycode.com/</a> <br> &nbsp; - &nbsp; <a>https://engineering.tumblr.com/</a> <br> &nbsp; - &nbsp; <a>https://www.twilio.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://blog.twitter.com/engineering</a> <br> &nbsp; - &nbsp; <a>https://blog.twitch.tv/tagged/engineering</a> <br> &nbsp; - &nbsp; <a>http://eng.uber.com/</a> <br> &nbsp; - &nbsp; <a>https://engineering.universe.com/</a> <br> &nbsp; - &nbsp; <a>https://upday.github.io/</a> <br> &nbsp; - &nbsp; <a>https://engineering.upgrad.com/</a> <br> &nbsp; - &nbsp; <a>https://engineering.vena.io/</a> <br> &nbsp; - &nbsp; <a>http://blog.venmo.com/?category=Engineering</a> <br> &nbsp; - &nbsp; <a>https://blog.versioneye.com/</a> <br> &nbsp; - &nbsp; <a>http://blog.vevo.com/</a> <br> &nbsp; - &nbsp; <a>http://engineering.vine.co/</a> <br> &nbsp; - &nbsp; <a>http://engineering.vinted.com/</a> <br> &nbsp; - &nbsp; <a>http://blog.vngrs.com/</a> <br> &nbsp; - &nbsp; <a>https://buildingvts.com/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/walmartlabs/</a> <br> &nbsp; - &nbsp; <a>http://engineering.wattpad.com/</a> <br> &nbsp; - &nbsp; <a>http://engineering.wayfair.com/</a> <br> &nbsp; - &nbsp; <a>http://eng.wealthfront.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.wearewizards.io/</a> <br> &nbsp; - &nbsp; <a>http://engineering.webengage.com/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/wemake-services</a> <br> &nbsp; - &nbsp; <a>https://wecode.wepay.com/</a> <br> &nbsp; - &nbsp; <a>http://tech.wimdu.com/</a> <br> &nbsp; - &nbsp; <a>http://engineering.wingify.com/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/@WoloxEngineering/</a> <br> &nbsp; - &nbsp; <a>http://development.wombatsecurity.com/</a> <br> &nbsp; - &nbsp; <a>http://tech.wonga.com/</a> <br> &nbsp; - &nbsp; <a>https://wyeworks.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://tech.xing.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.xmartlabs.com/</a> <br> &nbsp; - &nbsp; <a>https://yahooeng.tumblr.com/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/yammer-engineering</a> <br> &nbsp; - &nbsp; <a>https://engineeringblog.yelp.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.yld.io/</a> <br> &nbsp; - &nbsp; <a>https://zeemee.engineering/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/zendesk-engineering</a> <br> &nbsp; - &nbsp; <a>https://developer.zendesk.com/blog</a> <br> &nbsp; - &nbsp; <a>https://engineering.zenefits.com/posts/</a> <br> &nbsp; - &nbsp; <a>https://www.zillow.com/engineering/</a> <br> &nbsp; - &nbsp; <a>https://engineering.zomato.com/</a> <br> &nbsp; - &nbsp; <a>https://about.zoosk.com/en/engineering-blog/</a> <br> &nbsp; - &nbsp; <a>https://engineering.zulily.com/</a> <br> &nbsp; - &nbsp; <a>http://tech.zumba.com/</a> <br> &nbsp; - &nbsp; <a>https://0xadada.pub/</a> <br> &nbsp; - &nbsp; <a>http://tenderlovemaking.com/</a> <br> &nbsp; - &nbsp; <a>https://blogs.msdn.com/b/abhinaba/</a> <br> &nbsp; - &nbsp; <a>http://masnun.com/</a> <br> &nbsp; - &nbsp; <a>https://adambard.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://dtrace.org/blogs/ahl/</a> <br> &nbsp; - &nbsp; <a>http://www.adamtuliper.com/</a> <br> &nbsp; - &nbsp; <a>https://addyosmani.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://blog.acolyer.org/</a> <br> &nbsp; - &nbsp; <a>http://alanstorm.com/</a> <br> &nbsp; - &nbsp; <a>https://arogozhnikov.github.io/</a> <br> &nbsp; - &nbsp; <a>https://infrequently.org/</a> <br> &nbsp; - &nbsp; <a>http://akaptur.com/</a> <br> &nbsp; - &nbsp; <a>https://www.amitmerchant.com/</a> <br> &nbsp; - &nbsp; <a>http://aarvik.dk/</a> <br> &nbsp; - &nbsp; <a>https://computer.forensikblog.de/en/</a> <br> &nbsp; - &nbsp; <a>http://www.andrewcbancroft.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.bramp.net/</a> <br> &nbsp; - &nbsp; <a>https://blog.andrewray.me/</a> <br> &nbsp; - &nbsp; <a>http://aakinshin.net/blog/</a> <br> &nbsp; - &nbsp; <a>http://antirez.com/latest/0</a> <br> &nbsp; - &nbsp; <a>https://ariejan.net/</a> <br> &nbsp; - &nbsp; <a>https://ariya.io/</a> <br> &nbsp; - &nbsp; <a>http://lucumr.pocoo.org/</a> <br> &nbsp; - &nbsp; <a>http://www.2ality.com/</a> <br> &nbsp; - &nbsp; <a>http://bad-concurrency.blogspot.com/</a> <br> &nbsp; - &nbsp; <a>https://www.wefearchange.org/</a> <br> &nbsp; - &nbsp; <a>http://www.bfilipek.com/</a> <br> &nbsp; - &nbsp; <a>https://benmccormick.org/</a> <br> &nbsp; - &nbsp; <a>http://www.billthelizard.com/</a> <br> &nbsp; - &nbsp; <a>https://bjornjohansen.no/</a> <br> &nbsp; - &nbsp; <a>https://blog.blakeerickson.com/</a> <br> &nbsp; - &nbsp; <a>http://blog.blundellapps.co.uk/</a> <br> &nbsp; - &nbsp; <a>https://bohops.com/</a> <br> &nbsp; - &nbsp; <a>http://rhodesmill.org/brandon/</a> <br> &nbsp; - &nbsp; <a>https://brendaneich.com/</a> <br> &nbsp; - &nbsp; <a>http://www.brendangregg.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/@elbrujohalcon</a> <br> &nbsp; - &nbsp; <a>http://dtrace.org/blogs/bmc/</a> <br> &nbsp; - &nbsp; <a>https://carlosbecker.com/</a> <br> &nbsp; - &nbsp; <a>https://www.chenhuijing.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://thelazylog.com/</a> <br> &nbsp; - &nbsp; <a>https://www.metachris.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://nullprogram.com/</a> <br> &nbsp; - &nbsp; <a>http://blog.claymcleod.io/</a> <br> &nbsp; - &nbsp; <a>http://www.cimgf.com/</a> <br> &nbsp; - &nbsp; <a>https://codewithstyle.info/</a> <br> &nbsp; - &nbsp; <a>https://tympanus.net/codrops/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/dailyjs</a> <br> &nbsp; - &nbsp; <a>http://dailytechvideo.com/</a> <br> &nbsp; - &nbsp; <a>https://danluu.com/</a> <br> &nbsp; - &nbsp; <a>http://code.dblock.org/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/@dschmidt1992</a> <br> &nbsp; - &nbsp; <a>http://www.datchley.name/</a> <br> &nbsp; - &nbsp; <a>https://dave.cheney.net/</a> <br> &nbsp; - &nbsp; <a>https://davidwalsh.name/</a> <br> &nbsp; - &nbsp; <a>http://deanhume.com/</a> <br> &nbsp; - &nbsp; <a>http://deborah-digges.github.io/</a> <br> &nbsp; - &nbsp; <a>https://hookrace.net/</a> <br> &nbsp; - &nbsp; <a>https://yurichev.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://www.dereuromark.de/</a> <br> &nbsp; - &nbsp; <a>https://www.discovermeteor.com/blog</a> <br> &nbsp; - &nbsp; <a>https://domenicoluciani.com/</a> <br> &nbsp; - &nbsp; <a>https://dotdev.co/</a> <br> &nbsp; - &nbsp; <a>http://dragan.rocks/</a> <br> &nbsp; - &nbsp; <a>http://www.gajotres.net/</a> <br> &nbsp; - &nbsp; <a>https://drewdevault.com/</a> <br> &nbsp; - &nbsp; <a>http://www.practicallyefficient.com/</a> <br> &nbsp; - &nbsp; <a>https://hyegar.com/</a> <br> &nbsp; - &nbsp; <a>https://eaf4.com/</a> <br> &nbsp; - &nbsp; <a>http://elegantcode.com/</a> <br> &nbsp; - &nbsp; <a>http://eli.thegreenplace.net/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/javascript-scene/</a> <br> &nbsp; - &nbsp; <a>https://ericlippert.com/</a> <br> &nbsp; - &nbsp; <a>https://erikrunyon.com/</a> <br> &nbsp; - &nbsp; <a>http://evanhahn.com/</a> <br> &nbsp; - &nbsp; <a>http://www.evanjones.ca/chronological.html</a> <br> &nbsp; - &nbsp; <a>http://www.evanmiller.org/</a> <br> &nbsp; - &nbsp; <a>https://blog.evantahler.com/</a> <br> &nbsp; - &nbsp; <a>http://fbrnc.net/</a> <br> &nbsp; - &nbsp; <a>https://blog.fedecarg.com/</a> <br> &nbsp; - &nbsp; <a>https://tomassetti.me/</a> <br> &nbsp; - &nbsp; <a>https://blog.filippo.io/</a> <br> &nbsp; - &nbsp; <a>https://murze.be/</a> <br> &nbsp; - &nbsp; <a>https://glebbahmutov.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://glennengstrand.info/</a> <br> &nbsp; - &nbsp; <a>https://www.darkcoding.net/</a> <br> &nbsp; - &nbsp; <a>http://neopythonic.blogspot.com/</a> <br> &nbsp; - &nbsp; <a>https://firstdoit.com/</a> <br> &nbsp; - &nbsp; <a>https://haydenjames.io/</a> <br> &nbsp; - &nbsp; <a>https://conductofcode.io/</a> <br> &nbsp; - &nbsp; <a>https://henrikwarne.com/</a> <br> &nbsp; - &nbsp; <a>http://highscalability.com/</a> <br> &nbsp; - &nbsp; <a>http://huonw.github.io/</a> <br> &nbsp; - &nbsp; <a>http://blog.hypriot.com/</a> <br> &nbsp; - &nbsp; <a>https://themodernlife.github.io/</a> <br> &nbsp; - &nbsp; <a>http://iansommerville.com/systems-software-and-technology/</a> <br> &nbsp; - &nbsp; <a>https://idontgetoutmuch.wordpress.com/</a> <br> &nbsp; - &nbsp; <a>http://stdout.in/</a> <br> &nbsp; - &nbsp; <a>http://ieftimov.com/</a> <br> &nbsp; - &nbsp; <a>https://www.igvita.com/</a> <br> &nbsp; - &nbsp; <a>https://codewithoutrules.com/</a> <br> &nbsp; - &nbsp; <a>https://ivanursul.com/</a> <br> &nbsp; - &nbsp; <a>https://jack.ofspades.com/</a> <br> &nbsp; - &nbsp; <a>https://jaketrent.com/</a> <br> &nbsp; - &nbsp; <a>http://jakewharton.com/blog</a> <br> &nbsp; - &nbsp; <a>http://jakeyesbeck.com/</a> <br> &nbsp; - &nbsp; <a>http://prog21.dadgum.com/</a> <br> &nbsp; - &nbsp; <a>http://jlongster.com/archive</a> <br> &nbsp; - &nbsp; <a>http://weblog.jamisbuck.org/</a> <br> &nbsp; - &nbsp; <a>https://idiosyncratic-ruby.com/</a> <br> &nbsp; - &nbsp; <a>http://blog.jayfields.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.codinghorror.com/</a> <br> &nbsp; - &nbsp; <a>http://preshing.com/</a> <br> &nbsp; - &nbsp; <a>https://jeremykun.com/</a> <br> &nbsp; - &nbsp; <a>https://jerrygamblin.com/</a> <br> &nbsp; - &nbsp; <a>https://jes.al/</a> <br> &nbsp; - &nbsp; <a>https://blog.jessfraz.com/</a> <br> &nbsp; - &nbsp; <a>http://www.blackbytes.info/</a> <br> &nbsp; - &nbsp; <a>https://begriffs.com/</a> <br> &nbsp; - &nbsp; <a>https://www.joelonsoftware.com/</a> <br> &nbsp; - &nbsp; <a>http://johannesbrodwall.com/</a> <br> &nbsp; - &nbsp; <a>https://johnresig.com/category/blog/</a> <br> &nbsp; - &nbsp; <a>http://www.johnwittenauer.net/</a> <br> &nbsp; - &nbsp; <a>http://www.jonkensy.com/</a> <br> &nbsp; - &nbsp; <a>https://codeblog.jonskeet.uk/</a> <br> &nbsp; - &nbsp; <a>https://blog.cugu.eu/</a> <br> &nbsp; - &nbsp; <a>http://www.born2data.com/</a> <br> &nbsp; - &nbsp; <a>https://snook.ca/</a> <br> &nbsp; - &nbsp; <a>http://blog.reverberate.org/</a> <br> &nbsp; - &nbsp; <a>https://joshtronic.com/</a> <br> &nbsp; - &nbsp; <a>https://jtreminio.com/</a> <br> &nbsp; - &nbsp; <a>https://jvns.ca/</a> <br> &nbsp; - &nbsp; <a>https://blog.jgrossi.com/</a> <br> &nbsp; - &nbsp; <a>https://www.justinweiss.com/articles/archives/</a> <br> &nbsp; - &nbsp; <a>https://juristr.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://useyourloaf.com/</a> <br> &nbsp; - &nbsp; <a>https://kev.inburke.com/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/@kirill_shevch</a> <br> &nbsp; - &nbsp; <a>https://aphyr.com/</a> <br> &nbsp; - &nbsp; <a>http://lambda-the-ultimate.org/</a> <br> &nbsp; - &nbsp; <a>https://lg.io/</a> <br> &nbsp; - &nbsp; <a>https://iridakos.com/</a> <br> &nbsp; - &nbsp; <a>http://lea.verou.me/</a> <br> &nbsp; - &nbsp; <a>http://blog.lerner.co.il/</a> <br> &nbsp; - &nbsp; <a>http://lifepluslinux.blogspot.in/</a> <br> &nbsp; - &nbsp; <a>https://loige.co/</a> <br> &nbsp; - &nbsp; <a>http://manu.sporny.org/</a> <br> &nbsp; - &nbsp; <a>https://enoent.fr/</a> <br> &nbsp; - &nbsp; <a>https://blog.rinesi.com/</a> <br> &nbsp; - &nbsp; <a>http://ocramius.github.io/</a> <br> &nbsp; - &nbsp; <a>https://idea.popcount.org/</a> <br> &nbsp; - &nbsp; <a>http://lackingrhoticity.blogspot.de/</a> <br> &nbsp; - &nbsp; <a>https://martinfowler.com/</a> <br> &nbsp; - &nbsp; <a>https://maryrosecook.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://matt.aimonetti.net/</a> <br> &nbsp; - &nbsp; <a>https://www.mattcutts.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://matt.might.net/articles/</a> <br> &nbsp; - &nbsp; <a>http://mattwarren.org/</a> <br> &nbsp; - &nbsp; <a>https://blog.cryptographyengineering.com/</a> <br> &nbsp; - &nbsp; <a>https://michaelcrump.net/</a> <br> &nbsp; - &nbsp; <a>http://www.michaelgallego.fr/articles/</a> <br> &nbsp; - &nbsp; <a>http://mherman.org/</a> <br> &nbsp; - &nbsp; <a>https://www.miqu.me/</a> <br> &nbsp; - &nbsp; <a>https://www.mikeash.com/pyblog/</a> <br> &nbsp; - &nbsp; <a>http://blog.fogus.me/</a> <br> &nbsp; - &nbsp; <a>https://blog.sleeplessbeastie.eu/</a> <br> &nbsp; - &nbsp; <a>https://mirocupak.com/</a> <br> &nbsp; - &nbsp; <a>https://meowni.ca/</a> <br> &nbsp; - &nbsp; <a>https://blog.monstermuffin.org/</a> <br> &nbsp; - &nbsp; <a>http://mishadoff.com/</a> <br> &nbsp; - &nbsp; <a>https://natashatherobot.com/</a> <br> &nbsp; - &nbsp; <a>https://blog.nelhage.com/</a> <br> &nbsp; - &nbsp; <a>https://www.thepolyglotdeveloper.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://nickcraver.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://nickdesaulniers.github.io/</a> <br> &nbsp; - &nbsp; <a>http://www.client9.com/</a> <br> &nbsp; - &nbsp; <a>http://blog.thislongrun.com/</a> <br> &nbsp; - &nbsp; <a>http://codefx.org/</a> <br> &nbsp; - &nbsp; <a>http://www.nikola-breznjak.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://nikolay.rocks/</a> <br> &nbsp; - &nbsp; <a>http://nshipster.com/</a> <br> &nbsp; - &nbsp; <a>http://www.nateberkopec.com/</a> <br> &nbsp; - &nbsp; <a>https://fullstack.info/</a> <br> &nbsp; - &nbsp; <a>https://oleb.net/blog/</a> <br> &nbsp; - &nbsp; <a>http://www.windytan.com/</a> <br> &nbsp; - &nbsp; <a>http://blog.pamelafox.org/</a> <br> &nbsp; - &nbsp; <a>http://patshaughnessy.net/</a> <br> &nbsp; - &nbsp; <a>http://www.paulgraham.com/articles.html</a> <br> &nbsp; - &nbsp; <a>https://www.paulirish.com/</a> <br> &nbsp; - &nbsp; <a>https://aerotwist.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://blog.pchudzik.com/</a> <br> &nbsp; - &nbsp; <a>http://norvig.com/</a> <br> &nbsp; - &nbsp; <a>http://petersteinberger.com/</a> <br> &nbsp; - &nbsp; <a>http://www.catonmat.net/blog/</a> <br> &nbsp; - &nbsp; <a>http://petr-mitrichev.blogspot.com/</a> <br> &nbsp; - &nbsp; <a>https://philipwalton.com/</a> <br> &nbsp; - &nbsp; <a>https://os.phil-opp.com/</a> <br> &nbsp; - &nbsp; <a>https://ponyfoo.com/</a> <br> &nbsp; - &nbsp; <a>http://piotrpasich.com/</a> <br> &nbsp; - &nbsp; <a>http://blog.wittchen.biz.pl/</a> <br> &nbsp; - &nbsp; <a>https://rachelbythebay.com/w/</a> <br> &nbsp; - &nbsp; <a>http://radek.io/</a> <br> &nbsp; - &nbsp; <a>https://radimrehurek.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://nativeguru.wordpress.com/</a> <br> &nbsp; - &nbsp; <a>https://www.raywenderlich.com/</a> <br> &nbsp; - &nbsp; <a>https://blogs.msdn.microsoft.com/oldnewthing/</a> <br> &nbsp; - &nbsp; <a>https://rhettinger.wordpress.com/</a> <br> &nbsp; - &nbsp; <a>https://reactjsnews.com/</a> <br> &nbsp; - &nbsp; <a>https://realpython.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://raganwald.com/#essays</a> <br> &nbsp; - &nbsp; <a>http://regulargeek.com/</a> <br> &nbsp; - &nbsp; <a>https://akrabat.com/</a> <br> &nbsp; - &nbsp; <a>http://blog.cleancoder.com/</a> <br> &nbsp; - &nbsp; <a>https://eviltrout.com/</a> <br> &nbsp; - &nbsp; <a>http://blog.rtwilson.com/</a> <br> &nbsp; - &nbsp; <a>http://www.rudyhuyn.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://neverfriday.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://ruslanspivak.com/</a> <br> &nbsp; - &nbsp; <a>https://www.sakib.ninja/</a> <br> &nbsp; - &nbsp; <a>https://samsaffron.com/</a> <br> &nbsp; - &nbsp; <a>http://sergeyzhuk.me/</a> <br> &nbsp; - &nbsp; <a>https://schakko.de/</a> <br> &nbsp; - &nbsp; <a>http://www.hanselman.com/blog/</a> <br> &nbsp; - &nbsp; <a>http://www.fuzzyblog.io/blog/</a> <br> &nbsp; - &nbsp; <a>https://devdactic.com/devblog/</a> <br> &nbsp; - &nbsp; <a>https://www.9lessons.info/</a> <br> &nbsp; - &nbsp; <a>http://www.stackabuse.com/</a> <br> &nbsp; - &nbsp; <a>https://muffinman.io/</a> <br> &nbsp; - &nbsp; <a>http://codebeforethehorse.tumblr.com/</a> <br> &nbsp; - &nbsp; <a>http://blog.joda.org/</a> <br> &nbsp; - &nbsp; <a>https://www.cs.columbia.edu/~smb/blog/control/</a> <br> &nbsp; - &nbsp; <a>https://steve-yegge.blogspot.com/</a> <br> &nbsp; - &nbsp; <a>http://sudhagar.com/</a> <br> &nbsp; - &nbsp; <a>https://swizec.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://tania.dev/</a> <br> &nbsp; - &nbsp; <a>http://teropa.info/</a> <br> &nbsp; - &nbsp; <a>https://thatthinginswift.com/</a> <br> &nbsp; - &nbsp; <a>http://www.thecodedself.com/</a> <br> &nbsp; - &nbsp; <a>http://thedailywtf.com/</a> <br> &nbsp; - &nbsp; <a>http://upcoder.com/</a> <br> &nbsp; - &nbsp; <a>http://jelv.is/blog/</a> <br> &nbsp; - &nbsp; <a>https://toddmotto.com/</a> <br> &nbsp; - &nbsp; <a>http://adventuresinautomation.blogspot.com/</a> <br> &nbsp; - &nbsp; <a>https://una.im/</a> <br> &nbsp; - &nbsp; <a>http://undocumentedmatlab.com/</a> <br> &nbsp; - &nbsp; <a>http://vanillajava.blogspot.com/</a> <br> &nbsp; - &nbsp; <a>https://vladmihalcea.com/</a> <br> &nbsp; - &nbsp; <a>http://www.wilfred.me.uk/</a> <br> &nbsp; - &nbsp; <a>https://www.goinggo.net/</a> <br> &nbsp; - &nbsp; <a>http://www.afronski.pl/</a> <br> &nbsp; - &nbsp; <a>http://www.yegor256.com/</a> <br> &nbsp; - &nbsp; <a>http://yifan.lu/</a> <br> &nbsp; - &nbsp; <a>https://zachholman.com/</a> <br> &nbsp; - &nbsp; <a>https://zolmeister.com/</a> <br> &nbsp; - &nbsp; <a>https://android-developers.blogspot.com/</a> <br> &nbsp; - &nbsp; <a>http://blog.atom.io/</a> <br> &nbsp; - &nbsp; <a>https://blog.getbootstrap.com/</a> <br> &nbsp; - &nbsp; <a>https://crystal-lang.org/</a> <br> &nbsp; - &nbsp; <a>https://blog.golang.org/</a> <br> &nbsp; - &nbsp; <a>https://ipfs.io/blog/</a> <br> &nbsp; - &nbsp; <a>https://blog.jooq.org/</a> <br> &nbsp; - &nbsp; <a>http://blog.klipse.tech/</a> <br> &nbsp; - &nbsp; <a>https://blog.jetbrains.com/kotlin/</a> <br> &nbsp; - &nbsp; <a>https://laravel-news.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://blogs.windows.com/msedgedev/</a> <br> &nbsp; - &nbsp; <a>https://blogs.msdn.microsoft.com/dotnet/</a> <br> &nbsp; - &nbsp; <a>https://reactjs.org/blog/</a> <br> &nbsp; - &nbsp; <a>http://facebook.github.io/react-native/blog/</a> <br> &nbsp; - &nbsp; <a>http://www.red-lang.org/</a> <br> &nbsp; - &nbsp; <a>http://rocksdb.org/blog</a> <br> &nbsp; - &nbsp; <a>https://blog.rust-lang.org/</a> <br> &nbsp; - &nbsp; <a>https://blog.sketchapp.com/</a> <br> &nbsp; - &nbsp; <a>https://developer.apple.com/swift/blog/</a> <br> &nbsp; - &nbsp; <a>http://www.vertabelo.com/blog</a> <br> <h2>hack</h2> &nbsp; - &nbsp; <a>http://build-its-inprogress.blogspot.in/2018/03/the-rubiks-contraption.html</a> <br> <h2>Imported From Firefox</h2> &nbsp;<h2>Mozilla Firefox</h2> &nbsp;&nbsp;&nbsp; - &nbsp; <a>https://support.mozilla.org/en-US/products/firefox</a> <br> &nbsp;&nbsp;&nbsp; - &nbsp; <a>https://www.mozilla.org/en-US/firefox/customize/</a> <br> &nbsp;&nbsp;&nbsp; - &nbsp; <a>https://www.mozilla.org/en-US/contribute/</a> <br> &nbsp;&nbsp;&nbsp; - &nbsp; <a>https://www.mozilla.org/en-US/about/</a> <br> &nbsp;<h2>Ubuntu and Free Software links</h2> &nbsp;&nbsp;&nbsp; - &nbsp; <a>http://www.ubuntu.com/</a> <br> &nbsp;&nbsp;&nbsp; - &nbsp; <a>http://wiki.ubuntu.com/</a> <br> &nbsp;&nbsp;&nbsp; - &nbsp; <a>https://answers.launchpad.net/ubuntu/+addquestion</a> <br> &nbsp;&nbsp;&nbsp; - &nbsp; <a>http://www.debian.org/</a> <br> &nbsp; - &nbsp; <a>https://www.productlessons.xyz/article/product-manager-resume-with-examples-keywords</a> <br> <h2>Interview-prep</h2> &nbsp; - &nbsp; <a>https://www.rezi.ai/resume-templates?search=developer&resume-sample=programming</a> <br> &nbsp; - &nbsp; <a>https://www.reddit.com/r/Resume/wiki/jasons_resume_guide</a> <br> &nbsp; - &nbsp; <a>https://interviewing.io/?utm_source=quastordaily&utm_medium=newsletter&utm_campaign=may252021</a> <br> &nbsp; - &nbsp; <a>https://hemingwayapp.com/</a> <br> &nbsp; - &nbsp; <a>https://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html</a> <br> &nbsp;<h2>New folder</h2> &nbsp; - &nbsp; <a>https://igotanoffer.com/blogs/tech/system-design-interviews</a> <br> <h2>leadership</h2> &nbsp; - &nbsp; <a>https://fs.blog/mental-models/</a> <br> &nbsp; - &nbsp; <a>https://fs.blog/great-talks/a-lesson-on-worldly-wisdom/</a> <br> &nbsp; - &nbsp; <a>https://fs.blog/great-talks/creative-thinking-claude-shannon/</a> <br> &nbsp; - &nbsp; <a>https://www.lesswrong.com/</a> <br> &nbsp; - &nbsp; <a>https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/</a> <br> <h2>machine-learning</h2> &nbsp; - &nbsp; <a>http://matpalm.com/blog/cool_machine_learning_books/</a> <br> &nbsp; - &nbsp; <a>https://www.geeksforgeeks.org/machine-learning/?ref=shm</a> <br> &nbsp; - &nbsp; <a>https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox</a> <br> &nbsp; - &nbsp; <a>https://github.com/commonsense/conceptnet-numberbatch</a> <br> &nbsp; - &nbsp; <a>http://proceedings.mlr.press/v97/tan19a.html</a> <br> &nbsp; - &nbsp; <a>https://dropbox.tech/machine-learning/using-machine-learning-to-index-text-from-billions-of-images</a> <br> &nbsp; - &nbsp; <a>https://dropbox.tech/infrastructure/firefly-instant-full-text-search-engine</a> <br> &nbsp; - &nbsp; <a>http://www.gaussianprocess.org/gpml/</a> <br> &nbsp; - &nbsp; <a>https://arxiv.org/abs/2108.07258</a> <br> <h2>material-science</h2> &nbsp; - &nbsp; <a>https://www.mindat.org/</a> <br> <h2>math</h2> &nbsp; - &nbsp; <a>https://www.fxsolver.com/</a> <br> &nbsp; - &nbsp; <a>https://www.geogebra.org/materials</a> <br> &nbsp; - &nbsp; <a>http://calculusmadeeasy.org/</a> <br> &nbsp; - &nbsp; <a>http://blog.rogerluo.me/tags/automatic-differentiation/</a> <br> &nbsp; - &nbsp; <a>https://www.theatlantic.com/science/archive/2018/11/science-full-mavericks-like-my-grandfather-was-his-physics-theory-right/574573/?single_page=true</a> <br> &nbsp; - &nbsp; <a>https://www.nayuki.io/page/creating-a-qr-code-step-by-step</a> <br> &nbsp; - &nbsp; <a>http://vmls-book.stanford.edu/</a> <br> &nbsp; - &nbsp; <a>https://seeing-theory.brown.edu/index.html#4thPage</a> <br> &nbsp; - &nbsp; <a>https://lectures.quantecon.org/jl/</a> <br> &nbsp; - &nbsp; <a>https://www.cs.usfca.edu/~galles/visualization/Algorithms.html</a> <br> &nbsp; - &nbsp; <a>https://algorithms-tour.stitchfix.com/</a> <br> &nbsp; - &nbsp; <a>https://www.nature.com/articles/s41467-019-08678-0</a> <br> &nbsp; - &nbsp; <a>https://towardsdatascience.com/brief-introduction-to-markov-chains-2c8cab9c98ab</a> <br> &nbsp; - &nbsp; <a>https://auth0.com/blog/real-time-charts-using-angular-d3-and-socket-io/</a> <br> &nbsp; - &nbsp; <a>https://en.wikipedia.org/wiki/G%C3%B6del_machine</a> <br> &nbsp; - &nbsp; <a>https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8</a> <br> &nbsp; - &nbsp; <a>https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Logistic%20Regression%20balanced.ipynb</a> <br> &nbsp; - &nbsp; <a>https://distill.pub/</a> <br> &nbsp; - &nbsp; <a>https://betterexplained.com/archives/</a> <br> &nbsp; - &nbsp; <a>https://ourway.keybase.pub/mathematics_cheat_sheet.pdf</a> <br> &nbsp; - &nbsp; <a>http://mathman.biz/materials/Calculus%20By%20and%20For%20Young%20People%20Worksheets.pdf</a> <br> <h2>MATHS</h2> &nbsp; - &nbsp; <a>https://betanalpha.github.io/assets/case_studies/probability_theory.html</a> <br> &nbsp; - &nbsp; <a>http://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html?href=</a> <br> &nbsp; - &nbsp; <a>http://chalkdustmagazine.com/black-mathematician-month/the-mathematics-of-black-panther/</a> <br> <h2>notes</h2> &nbsp; - &nbsp; <a>https://choosealicense.com/</a> <br> &nbsp; - &nbsp; <a>https://cylonjs.com/</a> <br> &nbsp; - &nbsp; <a>https://developer.apple.com/swift/resources/</a> <br> &nbsp; - &nbsp; <a>http://www.instructables.com/id/Making-A-Customized-Circuit-Board-Made-Easy/</a> <br> &nbsp; - &nbsp; <a>http://cq.cx/pcb-router.pl</a> <br> &nbsp; - &nbsp; <a>https://www.udemy.com/complete-ios-10-developer-course/</a> <br> &nbsp; - &nbsp; <a>https://redditblog.com/2017/05/24/view-counting-at-reddit/</a> <br> &nbsp; - &nbsp; <a>https://exis.io/</a> <br> &nbsp; - &nbsp; <a>https://www.androidexperiments.com/experiment/autonomous-android-vehicle</a> <br> &nbsp; - &nbsp; <a>https://redditblog.com/2017/08/04/dynamically-routing-requests-across-different-stacks-with-vcl/</a> <br> &nbsp; - &nbsp; <a>https://redditblog.com/2017/09/07/the-search-for-better-search-at-reddit/</a> <br> &nbsp; - &nbsp; <a>https://redditblog.com/2018/02/28/the-evolution-of-data-at-reddit/</a> <br> <h2>os</h2> &nbsp; - &nbsp; <a>http://www.makelinux.net/kernel_map/</a> <br> <h2>philosophy</h2> &nbsp; - &nbsp; <a>https://www.depauw.edu/sfs/backissues/5/lem5art.htm</a> <br> &nbsp; - &nbsp; <a>https://www.depauw.edu/sfs/index.htm</a> <br> <h2>philosopy</h2> &nbsp; - &nbsp; <a>https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf</a> <br> &nbsp; - &nbsp; <a>https://zenmoments.org/</a> <br> &nbsp; - &nbsp; <a>https://www.ucl.ac.uk/laws/sites/laws/files/philosophy_of_work.pdf</a> <br> <h2>physics</h2> &nbsp; - &nbsp; <a>https://www.feynmanlectures.caltech.edu/flptapes.html</a> <br> &nbsp; - &nbsp; <a>https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F</a> <br> &nbsp; - &nbsp; <a>https://www.feynmanlectures.caltech.edu/</a> <br> &nbsp; - &nbsp; <a>https://www.privatdozent.co/p/the-golden-age-of-quantum-physics-ff7</a> <br> &nbsp; - &nbsp; <a>http://ramp-book.com/Relativity__A_Modern_Primer.pdf</a> <br> &nbsp; - &nbsp; <a>https://gravityandlevity.wordpress.com/</a> <br> &nbsp; - &nbsp; <a>https://physicsbaseddeeplearning.org/intro.html</a> <br> <h2>product-design</h2> &nbsp; - &nbsp; <a>https://digitalpsychology.io/</a> <br> &nbsp; - &nbsp; <a>https://daisyui.com/</a> <br> <h2>programming</h2> &nbsp; - &nbsp; <a>https://www.mit.edu/~xela/tao.html</a> <br> &nbsp; - &nbsp; <a>https://nocomplexity.com/documents/arplaybook/index.html</a> <br> &nbsp; - &nbsp; <a>https://witestlab.poly.edu/</a> <br> &nbsp; - &nbsp; <a>https://witestlab.poly.edu/site/</a> <br> &nbsp; - &nbsp; <a>http://graphics.stanford.edu/~seander/bithacks.html</a> <br> &nbsp; - &nbsp; <a>http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf</a> <br> &nbsp; - &nbsp; <a>https://www.geeksforgeeks.org/data-structures/?ref=shm</a> <br> &nbsp; - &nbsp; <a>https://muhammadraza.me/2021/Oneliners/</a> <br> &nbsp; - &nbsp; <a>https://algorithmist.com/wiki/Main_Page</a> <br> &nbsp; - &nbsp; <a>https://en.wikipedia.org/wiki/Karp%27s_21_NP-complete_problems</a> <br> &nbsp; - &nbsp; <a>https://brilliant.org/</a> <br> &nbsp; - &nbsp; <a>https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf</a> <br> &nbsp; - &nbsp; <a>https://karpathy.github.io/2021/06/21/blockchain/</a> <br> &nbsp; - &nbsp; <a>https://softwarefoundations.cis.upenn.edu/</a> <br> &nbsp; - &nbsp; <a>https://algs4.cs.princeton.edu/30searching/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/leetcode-patterns</a> <br> &nbsp; - &nbsp; <a>https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/</a> <br> &nbsp; - &nbsp; <a>https://jeffe.cs.illinois.edu/teaching/algorithms/book/03-dynprog.pdf</a> <br> &nbsp; - &nbsp; <a>https://people.cs.clemson.edu/~bcdean/dp_practice/</a> <br> &nbsp; - &nbsp; <a>https://stackoverflow.com/</a> <br> &nbsp; - &nbsp; <a>http://bayes.cs.ucla.edu/jp_home.html</a> <br> &nbsp; - &nbsp; <a>https://github.com/agavrel/42_CheatSheet</a> <br> &nbsp; - &nbsp; <a>https://teachyourselfcs.com/</a> <br> &nbsp; - &nbsp; <a>https://cs.stanford.edu/~knuth/taocp.html</a> <br> &nbsp; - &nbsp; <a>https://idlecoding.com/</a> <br> &nbsp; - &nbsp; <a>https://gigamonkeys.com/book/</a> <br> &nbsp; - &nbsp; <a>https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf</a> <br> &nbsp; - &nbsp; <a>http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf</a> <br> &nbsp; - &nbsp; <a>http://twistedoakstudios.com/blog/</a> <br> &nbsp; - &nbsp; <a>https://danluu.com/input-lag/</a> <br> &nbsp; - &nbsp; <a>https://massivealgorithms.blogspot.com/2019/06/archives.html</a> <br> &nbsp; - &nbsp; <a>http://www.fmwconcepts.com/imagemagick/draganeffect/index.php</a> <br> &nbsp; - &nbsp; <a>https://en.algorithmica.org/hpc/</a> <br> &nbsp; - &nbsp; <a>https://journal.stuffwithstuff.com/archive/</a> <br> <h2>quantumcomputing</h2> &nbsp; - &nbsp; <a>https://arxiv.org/abs/1603.08675</a> <br> &nbsp; - &nbsp; <a>https://arxiv.org/pdf/1807.04271.pdf</a> <br> &nbsp; - &nbsp; <a>https://arxiv.org/pdf/1603.08675.pdf</a> <br> &nbsp; - &nbsp; <a>https://www.quantamagazine.org/job-one-for-quantum-computers-boost-artificial-intelligence-20180129/</a> <br> &nbsp; - &nbsp; <a>https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/</a> <br> <h2>readingLIST</h2> &nbsp; - &nbsp; <a>https://fermatslibrary.com/s/judgment-under-uncertainty-heuristics-and-biases</a> <br> &nbsp; - &nbsp; <a>https://dcgross.com/decide-what-to-work-on/</a> <br> &nbsp; - &nbsp; <a>http://www.jsoftware.com/papers/tot.htm</a> <br> &nbsp; - &nbsp; <a>https://blockgeeks.com/guides/best-bitcoin-script-guide/</a> <br> &nbsp; - &nbsp; <a>https://tic.computer/play?cat=0</a> <br> &nbsp; - &nbsp; <a>http://nullprogram.com/blog/2017/11/03/</a> <br> &nbsp; - &nbsp; <a>https://www.enlightenment.org/docs/c/start</a> <br> &nbsp; - &nbsp; <a>https://oneraynyday.github.io/</a> <br> &nbsp; - &nbsp; <a>https://www.requestforsocialnetworks.com/#form</a> <br> &nbsp; - &nbsp; <a>https://github.com/danistefanovic/build-your-own-x</a> <br> &nbsp; - &nbsp; <a>http://lodev.org/logicemu/#id=nor_logic</a> <br> &nbsp; - &nbsp; <a>https://github.com/MinhasKamal/CreepyCodeCollection</a> <br> &nbsp; - &nbsp; <a>https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d</a> <br> &nbsp; - &nbsp; <a>https://codeburst.io/async-patterns-in-node-js-only-4-different-ways-to-do-it-70186ee83250</a> <br> &nbsp; - &nbsp; <a>https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d</a> <br> &nbsp; - &nbsp; <a>https://mondaynote.com/intels-toxic-culture-1b79905adf45</a> <br> &nbsp; - &nbsp; <a>https://medium.com/acing-ai/how-i-build-an-ai-to-play-dino-run-e37f37bdf153</a> <br> &nbsp; - &nbsp; <a>https://medium.com/the-mission/modern-polymath-81f882ce52db</a> <br> &nbsp; - &nbsp; <a>https://meaningness.com/metablog/artificial-intelligence-progress</a> <br> &nbsp; - &nbsp; <a>https://blog.ycombinator.com/ycs-2018-summer-reading-list/</a> <br> &nbsp; - &nbsp; <a>https://blog.nobugware.com/post/2018/my_own_car_system_raspberry_pi_offline_mapping/</a> <br> &nbsp; - &nbsp; <a>https://zen-of-programming.com/kickass-portfolio/</a> <br> &nbsp; - &nbsp; <a>https://www.geogebra.org/materials</a> <br> &nbsp; - &nbsp; <a>https://www.geogebra.org/materials</a> <br> &nbsp; - &nbsp; <a>https://www.geogebra.org/materials</a> <br> &nbsp; - &nbsp; <a>https://github.com/trimstray/test-your-sysadmin-skills</a> <br> &nbsp; - &nbsp; <a>https://frontendian.co/service-workers</a> <br> &nbsp; - &nbsp; <a>https://www.prospectmagazine.co.uk/magazine/kurt-godel-and-the-romance-of-logic</a> <br> &nbsp; - &nbsp; <a>https://hn.academy/</a> <br> &nbsp; - &nbsp; <a>https://hacker-tools.github.io/</a> <br> &nbsp; - &nbsp; <a>https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices</a> <br> &nbsp; - &nbsp; <a>https://github.com/albert100121/360SD-Net/commits/master</a> <br> &nbsp; - &nbsp; <a>https://my.freenom.com/clientarea.php?action=domaindetails&id=1044127938</a> <br> &nbsp; - &nbsp; <a>https://news.ycombinator.com/item?id=27302195</a> <br> &nbsp; - &nbsp; <a>https://jvns.ca/</a> <br> &nbsp; - &nbsp; <a>https://acoup.blog/</a> <br> &nbsp; - &nbsp; <a>https://danluu.com/programming-books/</a> <br> &nbsp; - &nbsp; <a>https://danluu.com/</a> <br> &nbsp; - &nbsp; <a>https://marginalrevolution.com/</a> <br> &nbsp; - &nbsp; <a>https://unherd.com/</a> <br> <h2>researchPaperSites</h2> &nbsp;<h2>best-OPENSOURCE</h2> &nbsp;&nbsp;&nbsp; - &nbsp; <a>http://paperscape.org/</a> <br> &nbsp; - &nbsp; <a>https://jeffhuang.com/best_paper_awards.html</a> <br> <h2>server</h2> &nbsp; - &nbsp; <a>https://github.com/oatpp/oatpp</a> <br> &nbsp; - &nbsp; <a>https://codemirror.net/</a> <br> &nbsp; - &nbsp; <a>https://blog.angularindepth.com/becoming-an-angular-environmentalist-45a48f7c20d8</a> <br> &nbsp; - &nbsp; <a>https://github.com/leonardomso/33-js-concepts</a> <br> &nbsp; - &nbsp; <a>https://github.com/k88hudson/git-flight-rules#i-wrote-the-wrong-thing-in-a-commit-message</a> <br> &nbsp; - &nbsp; <a>http://www.lighterra.com/papers/modernmicroprocessors/</a> <br> &nbsp; - &nbsp; <a>https://statusgator.com/services/firebase</a> <br> &nbsp; - &nbsp; <a>http://aosabook.org/en/index.html</a> <br> &nbsp; - &nbsp; <a>https://rustwasm.github.io/2018/10/24/multithreading-rust-and-wasm.html</a> <br> &nbsp; - &nbsp; <a>https://blog.twitter.com/engineering/en_us/topics/insights/2018/twitters-kafka-adoption-story.html</a> <br> &nbsp; - &nbsp; <a>http://ufldl.stanford.edu/tutorial/</a> <br> &nbsp; - &nbsp; <a>https://github.com/sahat/megaboilerplate</a> <br> &nbsp; - &nbsp; <a>https://s3.console.aws.amazon.com/s3/object/gal-gadot-wonder-woman/hello_world.txt?region=ap-south-1&tab=overview</a> <br> <h2>sites</h2> &nbsp; - &nbsp; <a>https://github.com/nasa-jpl/open-source-rover</a> <br> &nbsp; - &nbsp; <a>https://www.sslforfree.com/</a> <br> &nbsp; - &nbsp; <a>https://2018.stateofjs.com/</a> <br> &nbsp; - &nbsp; <a>http://gen.lib.rus.ec/</a> <br> &nbsp; - &nbsp; <a>https://www.ieee.org/index.html</a> <br> &nbsp; - &nbsp; <a>http://ieeexplore.ieee.org/Xplore/home.jsp</a> <br> &nbsp; - &nbsp; <a>https://www.google.co.in/</a> <br> &nbsp; - &nbsp; <a>http://ai2.appinventor.mit.edu/</a> <br> &nbsp; - &nbsp; <a>https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118170923#</a> <br> &nbsp; - &nbsp; <a>https://github.com/mit-racecar/hardware</a> <br> &nbsp; - &nbsp; <a>https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/</a> <br> &nbsp; - &nbsp; <a>http://spacedemo.chaoscollective.org/?project=SandboxApp</a> <br> &nbsp; - &nbsp; <a>http://selfdrivingcars.mit.edu/</a> <br> &nbsp; - &nbsp; <a>https://home-assistant.io/docs/backend/database/</a> <br> &nbsp; - &nbsp; <a>https://datawhatnow.com/introduction-web-scraping-python/</a> <br> &nbsp; - &nbsp; <a>https://github.com/Microsoft/AirSim?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more</a> <br> &nbsp; - &nbsp; <a>https://motherboard.vice.com/en_us/topic/hacking</a> <br> &nbsp; - &nbsp; <a>https://dir.friendica.social/servers</a> <br> &nbsp; - &nbsp; <a>https://honestcoffeeguide.com/</a> <br> <h2>sites</h2> &nbsp; - &nbsp; <a>https://pudding.cool/</a> <br> &nbsp; - &nbsp; <a>https://github.com/anaibol/awesome-serverless#ecommerce</a> <br> &nbsp; - &nbsp; <a>https://www.pentestpartners.com/security-blog/hacking-an-assault-tank-a-nerf-one/</a> <br> &nbsp; - &nbsp; <a>http://hedonometer.org/index.html?from=2017-09-06&to=2019-03-06</a> <br> &nbsp; - &nbsp; <a>https://www.bostonglobe.com/metro/2019/03/04/the-backyard-mechanic-who-taking-tesla/Sv1l8q2sxpQvTFMp13VFwM/story.html</a> <br> &nbsp; - &nbsp; <a>https://rust-lang-nursery.github.io/rust-cookbook/</a> <br> &nbsp; - &nbsp; <a>https://github.com/adeshpande3/March-Madness-ML</a> <br> &nbsp; - &nbsp; <a>https://education.github.com/pack/offers</a> <br> &nbsp; - &nbsp; <a>https://github.com/marcelstoer/nodemcu-pyflasher</a> <br> <h2>social</h2> &nbsp; - &nbsp; <a>https://m.facebook.com/home.php</a> <br> &nbsp; - &nbsp; <a>https://www.linkedin.com/home?trk=nav_responsive_tab_home</a> <br> &nbsp; - &nbsp; <a>https://www.netflix.com/browse</a> <br> &nbsp; - &nbsp; <a>https://twitter.com/</a> <br> &nbsp; - &nbsp; <a>https://www.youtube.com/?gl=IN</a> <br> &nbsp; - &nbsp; <a>https://www.facebook.com/</a> <br> &nbsp; - &nbsp; <a>https://medium.com/</a> <br> <h2>softwareStack</h2> &nbsp;<h2>js</h2> &nbsp;&nbsp;&nbsp;<h2>design</h2> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; <a>http://roughjs.com/</a> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; <a>https://github.com/russellgoldenberg/scrollama?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more</a> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; <a>https://github.com/antvis/g2?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more</a> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; <a>https://github.com/ramon82/zuck.js?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more</a> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; <a>http://localhost:4200/admin/products/new</a> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; <a>https://html5up.net/</a> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; <a>https://www.creative-tim.com/product/material-dashboard-angular2</a> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; <a>chrome://newtab/</a> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; <a>https://medium.com/@nsmirnova/creating-pwa-with-angular-5-part-2-progressifying-the-application-449e3a706129</a> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; <a>https://ap.www.namecheap.com/domains/dcp/share/prakashsellathurai.me/rights</a> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; <a>https://plot.ly/ipython-notebooks/bicycle-control-design/#open-loop-bicycle-model</a> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; <a>https://github.com/chenqingspring/ng-lottie#installation</a> <br> &nbsp; - &nbsp; <a>https://www.cybrary.it/</a> <br> &nbsp; - &nbsp; <a>https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel</a> <br> &nbsp; - &nbsp; <a>https://exupero.org/</a> <br> &nbsp; - &nbsp; <a>https://news.ycombinator.com/item?id=24901244</a> <br> &nbsp; - &nbsp; <a>https://us-east-2.console.aws.amazon.com/sagemaker/groundtruth#/labeling-datasets</a> <br> &nbsp; - &nbsp; <a>https://free-for.dev/#/?id=testing</a> <br> <h2>startup</h2> &nbsp; - &nbsp; <a>https://playbook.samaltman.com/</a> <br> &nbsp; - &nbsp; <a>http://paulgraham.com/earnest.html</a> <br> &nbsp; - &nbsp; <a>https://www.avodocs.com/</a> <br> &nbsp; - &nbsp; <a>https://github.com/255kb/stack-on-a-budget</a> <br> &nbsp; - &nbsp; <a>https://gist.github.com/harperreed/3201887</a> <br> <h2>statistics</h2> &nbsp; - &nbsp; <a>https://www.itl.nist.gov/div898/handbook/index.htm</a> <br> &nbsp; - &nbsp; <a>https://www.evanmiller.org/index.html</a> <br>  - &nbsp; <a>https://fermatslibrary.com/s/prediction-and-entropy-of-printed-english-2#email-newsletter</a> <br>  - &nbsp; <a>https://goldenaudiobooks.com/robert-cialdini-pre-suasion-audiobook-free-online/</a> <br>  - &nbsp; <a>https://hbr.org/2018/07/how-to-improve-your-business-english?utm_source=linkedin&utm_medium=social&utm_campaign=hbr</a> <br>  - &nbsp; <a>https://trib.al/GqR4oJI</a> <br>  - &nbsp; <a>https://trib.al/96mWhnC</a> <br>  - &nbsp; <a>https://www.forbes.com/sites/jonyoushaei/2017/11/08/how-to-get-an-amazing-job-without-much-experience/?utm_source=LINKEDIN_COMPANY&utm_medium=social&utm_content=3068577546&utm_campaign=sprinklrForbesMainLI#7af26a55141c</a> <br>  - &nbsp; <a>https://www.thebalancecareers.com/what-makes-a-work-environment-hostile-1919363?utm_source=linkedin&utm_medium=social&utm_campaign=shareurlbuttons</a> <br>  - &nbsp; <a>https://www.forbes.com/sites/chuckswoboda/2020/02/03/to-hire-talent-wired-for-innovation-focus-on-mindsetnot-skill-set/amp/</a> <br>  - &nbsp; <a>https://www.influenceatwork.com/principles-of-persuasion/</a> <br>  - &nbsp; <a>https://hbr.org/2018/08/5-things-to-do-when-you-feel-overwhelmed-by-your-workload?utm_campaign=hbr&utm_source=linkedin&utm_medium=social</a> <br>  - &nbsp; <a>https://hbr.org/2017/11/how-to-excel-at-both-strategy-and-execution?utm_medium=social&utm_campaign=hbr&utm_source=linkedin</a> <br>  - &nbsp; <a>https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2019/04/5-myths-about-strategy</a> <br>  - &nbsp; <a>https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/03/productive-conversations-take-real-empathy</a> <br>  - &nbsp; <a>https://yourstory.com/2020/03/doctor-healthtech-startup-agile-healthcare-medi-junction?utm_source=WhatsApp&utm_medium=Messages</a> <br>  - &nbsp; <a>https://techcrunch.com/2020/03/12/the-7-deadly-sins-of-startups/</a> <br>  - &nbsp; <a>http://sde.b-u.ac.in/sss/studinfo.aspx</a> <br>  - &nbsp; <a>https://waifu.lofiu.com/</a> <br>  - &nbsp; <a>https://www.notredameonline.com/resources/leadership-and-management/leadership-certificate-programs/</a> <br>  - &nbsp; <a>http://www.startupmentors.in/</a> <br>  - &nbsp; <a>https://www.technologyreview.com/2020/08/14/1006780/ai-gpt-3-fake-blog-reached-top-of-hacker-news/</a> <br>  - &nbsp; <a>https://www.google.com/amp/s/techvidvan.com/tutorials/mapreduce-job-optimization-techniques/amp/</a> <br>  - &nbsp; <a>https://github.com/aksnzhy/bitcoin-bubble-index</a> <br>  - &nbsp; <a>https://t.co/NazSY8JSzV?amp=1</a> <br>  - &nbsp; <a>https://arxiv.org/abs/2105.04026</a> <br>  - &nbsp; <a>https://tedgioia.substack.com/p/how-i-became-the-honest-broker</a> <br>  - &nbsp; <a>https://huyenchip.com/ml-interviews-book/</a> <br>
-
- 
+<h2>blogs</h2>
+<ul>
+<li> <a>https://www.benkuhn.net/</a></li> 
+<li> <a>https://huyenchip.com/blog/</a></li> 
+<li> <a>http://www.chrisfenton.com/</a></li> 
+<li> <a>https://eli.thegreenplace.net/archives/all</a></li> 
+<li> <a>https://mcfunley.com/</a></li> 
+<li> <a>https://ericsink.com/index.html</a></li> 
+<li> <a>https://fgiesen.wordpress.com/</a></li> 
+<li> <a>https://fabiensanglard.net/</a></li> 
+<li> <a>https://bellard.org/</a></li> 
+<li> <a>https://www.akalin.com/</a></li> 
+<li> <a>http://blogs.whitman.edu/countingfromzero/</a></li> 
+<li> <a>https://preshing.com/</a></li> 
+<li> <a>http://pvk.ca/</a></li> 
+<li> <a>https://subconscious.substack.com/</a></li> 
+<li> <a>https://3quarksdaily.com/</a></li> 
+<li> <a>https://ralphammer.com/</a></li> 
+<li> <a>https://www.gwern.net/index</a></li> 
+<li> <a>https://publicdomainreview.org/</a></li> 
+<li> <a>https://urbigenous.net/library/</a></li> 
+<li> <a>https://bartoszmilewski.com/</a></li> 
+<li> <a>https://phoboslab.org/</a></li> 
+<li> <a>https://www.yudkowsky.net/</a></li> 
+<li> <a>https://adactio.com/</a></li> 
+<li> <a>http://www.randomhacks.net/</a></li> 
+<li> <a>https://dreamsongs.com/index.html</a></li> 
+<li> <a>https://terrytao.wordpress.com/</a></li> 
+<li> <a>https://kk.org/</a></li> 
+<li> <a>https://www.ribbonfarm.com/</a></li> 
+<li> <a>https://meltingasphalt.com/</a></li> 
+<li> <a>https://statmodeling.stat.columbia.edu/blogs-i-read/</a></li> 
+<li> <a>https://cp4space.hatsya.com/</a></li> 
+<li> <a>https://www.lowtechmagazine.com/</a></li> 
+<li> <a>https://moralunderstanding.substack.com/</a></li> 
+<li> <a>https://scottaaronson.blog/</a></li> 
+<li> <a>https://johncarlosbaez.wordpress.com/</a></li> 
+<li> <a>https://mathwithbaddrawings.com/</a></li> 
+<li> <a>https://www.math.columbia.edu/~dejong/wordpress/</a></li> 
+<li> <a>https://pointersgonewild.com/</a></li> 
+<li> <a>https://www.themarginalian.org/</a></li> 
+<li> <a>https://fiftytwo.in/</a></li> 
+<li> <a>https://blog.regehr.org/</a></li> 
+<li> <a>https://www.hillelwayne.com/post/</a></li> 
+<li> <a>https://tinyprojects.dev/blog</a></li> 
+<li> <a>https://blog.codinghorror.com/</a></li> 
+<li> <a>https://notes.eatonphil.com/</a></li> 
+<li> <a>https://ruslanspivak.com/archives.html</a></li> 
+<li> <a>https://99percentinvisible.org/episode/wait-wait-tell-me/</a></li> 
+<li> <a>https://slatestarcodex.com/</a></li> 
+<li> <a>https://yoshuabengio.org/</a></li> 
+</ul>
+<h2>books</h2>
+<ul>
+<li> <a>https://www.anthropic-principle.com/q=book/table_of_contents/</a></li> 
+<li> <a>https://www.gutenberg.org/</a></li> 
+<li> <a>https://bayesoptbook.com//book/bayesoptbook.pdf</a></li> 
+<li> <a>https://joyofcryptography.com/pdf/book.pdf</a></li> 
+<li> <a>https://www.tug.org/texshowcase/cheat.pdf</a></li> 
+<li> <a>https://hudsonreview.com/</a></li> 
+<li> <a>https://www.globalgreyebooks.com/index.html</a></li> 
+<li> <a>https://mitpress.mit.edu/sites/default/files/sicp/index.html</a></li> 
+</ul>
+<h2>business</h2>
+<ul>
+<li> <a>https://hbr.org/2020/03/a-more-sustainable-supply-chain?utm_source=linkedin&utm_medium=social&utm_campaign=hbr</a></li> 
+<li> <a>https://thoughtlytics.substack.com/p/10-strategies-work-only-to-the-extent</a></li> 
+<li> <a>https://www.newyorker.com/culture/culture-desk/a-brief-history-of-the-hedge-fund</a></li> 
+</ul>
+<h2>coursera</h2>
+<ul>
+<li> <a>https://github.com/shenweichen/Coursera/tree/master/Specialization_Advanced_Machine_Learning_Higher_School_of_Economics/Course1_Introduction%20to%20Deep%20Learning/week4_Unsupervised%20representation%20learning</a></li> 
+<li> <a>https://github.com/hse-aml/intro-to-dl</a></li> 
+<li> <a>https://colab.research.google.com/github/hse-aml/intro-to-dl/blob/master/week3/week3_task2_fine_tuning_clean.ipynb#scrollTo=pNX56MGQGVee</a></li> 
+<li> <a>https://www.coursera.org/learn/intro-to-deep-learning/home/week/4?</a></li> 
+<li> <a>https://github.com/hse-aml/intro-to-dl/blob/master/README.md</a></li> 
+<li> <a>https://github.com/jiadaizhao/Advanced-Machine-Learning-Specialization/blob/master/Introduction%20to%20Deep%20Learning/Week6/week6_final_project_image_captioning_clean.ipynb</a></li> 
+<li> <a>https://onlinecourses.nptel.ac.in/explorer</a></li> 
+<li> <a>http://spoken-tutorial.org/create_cd_content/</a></li> 
+</ul>
+<h2>cryptography</h2>
+<ul>
+<li> <a>https://zkp.science/</a></li> 
+</ul>
+<h2>dataScience</h2>
+<ul>
+<li> <a>https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists</a></li> 
+<li> <a>https://github.com/manjunath5496/Data-Technology-Books</a></li> 
+<li> <a>https://ourworldindata.org/problems-and-progress</a></li> 
+<li> <a>https://ourworldindata.org/</a></li> 
+<li> <a>https://sqlbolt.com/</a></li> 
+</ul>
+<h2>deeplearning</h2>
+<ul>
+<li> <a>https://ai.intel.com/ngraph-a-new-open-source-compiler-for-deep-learning-systems/</a></li> 
+<li> <a>https://www.eggradients.com/</a></li> 
+<li> <a>http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html</a></li> 
+<li> <a>http://www.wildml.com/deep-learning-glossary/</a></li> 
+<li> <a>http://www.r2d3.us/visual-intro-to-machine-learning-part-2/</a></li> 
+<li> <a>http://cs230.stanford.edu/proj-spring-2018.html</a></li> 
+<li> <a>https://towardsdatascience.com/how-bayesian-statistics-convinced-me-to-hit-the-gym-fa737b0a7ac</a></li> 
+<li> <a>http://explained.ai/matrix-calculus/index.html</a></li> 
+<li> <a>https://deepmind.com/blog/neural-scene-representation-and-rendering/</a></li> 
+<li> <a>https://nealcaren.github.io/python-tutorials/</a></li> 
+<li> <a>https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html</a></li> 
+<li> <a>https://spandan-madan.github.io/DeepLearningProject/docs/Deep_Learning_Project-Pytorch.html</a></li> 
+<li> <a>https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11</a></li> 
+<li> <a>https://github.com/Spandan-Madan/Me_Bot</a></li> 
+<li> <a>http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html</a></li> 
+<li> <a>https://en.wikipedia.org/wiki/Boltzmann_distribution</a></li> 
+<li> <a>https://scrimba.com/g/gneuralnetworks</a></li> 
+<li> <a>https://github.com/aimacode/aima-python</a></li> 
+<li> <a>https://github.com/akanazawa/hmr</a></li> 
+<li> <a>https://github.com/albert100121/360SD-Net</a></li> 
+<li> <a>https://www.nvidia.co.uk/deep-learning-ai/education/</a></li> 
+<li> <a>https://nvidia.qwiklab.com/focuses/5866</a></li> 
+<li> <a>https://rltheorybook.github.io/rltheorybook_AJKS.pdf</a></li> 
+<li> <a>https://nlp.seas.harvard.edu/code/</a></li> 
+</ul>
+<h2>design</h2>
+<ul>
+<li> <a>https://nodesign.dev/</a></li> 
+<li> <a>https://practicaltypography.com/</a></li> 
+<li> <a>https://every-layout.dev/</a></li> 
+<li> <a>https://stephaniewalter.design/blog/</a></li> 
+<li> <a>https://www.photopea.com/</a></li> 
+<li> <a>https://cleanup.pictures/?ref=producthunt</a></li> 
+</ul>
+<h2>Economics</h2>
+<ul>
+<li> <a>http://matt-clancy.com/economics-of-innovation-detailed-reading-list/</a></li> 
+</ul>
+<h2>Engineering</h2>
+<ul>
+<li> <a>https://endless-sphere.com/forums/</a></li> 
+</ul>
+<h2>Enginnering Blogs</h2>
+<ul>
+<li> <a>https://developers.500px.com/</a></li> 
+<li> <a>https://8thlight.com/blog/</a></li> 
+<li> <a>https://99designs.com/tech-blog/</a></li> 
+<li> <a>http://tech.adroll.com/blog/</a></li> 
+<li> <a>https://medium.com/build-addepar</a></li> 
+<li> <a>https://build.affinity.co/</a></li> 
+<li> <a>https://airbrake.io/blog/</a></li> 
+<li> <a>https://www.airpair.com/software-experts</a></li> 
+<li> <a>https://advancedweb.hu/</a></li> 
+<li> <a>https://medium.com/airbnb-engineering</a></li> 
+<li> <a>https://airtame.engineering/</a></li> 
+<li> <a>https://blog.algolia.com/</a></li> 
+<li> <a>https://allegro.tech/</a></li> 
+<li> <a>https://techblog.appnexus.com/</a></li> 
+<li> <a>http://blog.arkency.com/</a></li> 
+<li> <a>http://artsy.github.io/</a></li> 
+<li> <a>https://blog.asana.com/category/eng/</a></li> 
+<li> <a>https://developer.atlassian.com/blog/</a></li> 
+<li> <a>https://spin.atomicobject.com/</a></li> 
+<li> <a>https://auth0.com/blog/</a></li> 
+<li> <a>http://blog.avenuecode.com/</a></li> 
+<li> <a>https://aws.amazon.com/blogs/aws/</a></li> 
+<li> <a>https://www.azavea.com/blog/category/software-development/</a></li> 
+<li> <a>https://bytes.babbel.com/en/</a></li> 
+<li> <a>https://backtrace.io/blog/</a></li> 
+<li> <a>https://techblog.badoo.com/</a></li> 
+<li> <a>https://bandcamptech.wordpress.com/</a></li> 
+<li> <a>https://lab.getbase.com/category/engineering/</a></li> 
+<li> <a>https://blog.developer.bazaarvoice.com/</a></li> 
+<li> <a>https://medium.com/bbc-design-engineering/</a></li> 
+<li> <a>https://benchling.engineering/</a></li> 
+<li> <a>https://www.benefitfocus.com/blogs/design-engineering</a></li> 
+<li> <a>http://www.bigeng.io/</a></li> 
+<li> <a>https://binary-studio.com/blog/</a></li> 
+<li> <a>http://word.bitly.com/</a></li> 
+<li> <a>http://engineering.bittorrent.com/</a></li> 
+<li> <a>http://blablatech.com/blog/</a></li> 
+<li> <a>http://rockthecode.io/</a></li> 
+<li> <a>https://code.blender.org/</a></li> 
+<li> <a>http://engineering.blogfoster.com/</a></li> 
+<li> <a>http://www.boxever.com/blog/</a></li> 
+<li> <a>http://engineering.brandwatch.com/</a></li> 
+<li> <a>https://www.buzzfeed.com/techblog</a></li> 
+<li> <a>https://engineering.canva.com/</a></li> 
+<li> <a>https://capgemini.github.io/</a></li> 
+<li> <a>https://www.ctl.io/developers/blog</a></li> 
+<li> <a>http://engineering.cerner.com/</a></li> 
+<li> <a>https://blog.chaps.io/</a></li> 
+<li> <a>http://engineering.chartbeat.com/</a></li> 
+<li> <a>https://blog.chef.io/</a></li> 
+<li> <a>https://engineering.clever.com/</a></li> 
+<li> <a>https://clevertap.com/blog/tag/engineering/</a></li> 
+<li> <a>https://www.previous.cloudbees.com/blog</a></li> 
+<li> <a>https://blog.cloudera.com/</a></li> 
+<li> <a>https://blog.cloudflare.com/</a></li> 
+<li> <a>https://www.cockroachlabs.com/blog/</a></li> 
+<li> <a>http://codebetter.com/</a></li> 
+<li> <a>https://www.codelitt.com/blog/</a></li> 
+<li> <a>https://crypt.codemancers.com/</a></li> 
+<li> <a>https://www.codementor.io/tutorial</a></li> 
+<li> <a>http://www.codenameone.com/blog.html</a></li> 
+<li> <a>https://blog.codeship.com/</a></li> 
+<li> <a>https://engineering.coinbase.com/</a></li> 
+<li> <a>https://collectiveidea.com/blog</a></li> 
+<li> <a>https://techblog.commercetools.com/</a></li> 
+<li> <a>https://technology.condenast.com/</a></li> 
+<li> <a>https://www.confluent.io/blog</a></li> 
+<li> <a>https://convox.com/blog</a></li> 
+<li> <a>http://devblog.coolblue.nl/</a></li> 
+<li> <a>https://engineering.creditkarma.com/</a></li> 
+<li> <a>https://medium.com/criteo-labs</a></li> 
+<li> <a>https://crowdfire.engineering/</a></li> 
+<li> <a>https://cloud.blog.csc.fi/</a></li> 
+<li> <a>http://engineering.curalate.com/</a></li> 
+<li> <a>https://data-artisans.com/blog/</a></li> 
+<li> <a>https://databricks.com/blog</a></li> 
+<li> <a>http://eng.datafox.co/</a></li> 
+<li> <a>https://deezer.io/</a></li> 
+<li> <a>https://deferpanic.com/blog/</a></li> 
+<li> <a>https://deliveroo.engineering/</a></li> 
+<li> <a>https://blog.digitalocean.com/tag/engineering/</a></li> 
+<li> <a>https://blog.discordapp.com/</a></li> 
+<li> <a>https://blog.docker.com/</a></li> 
+<li> <a>https://blog.doordash.com/tagged/engineering</a></li> 
+<li> <a>https://engineering.doximity.com/</a></li> 
+<li> <a>https://drivy.engineering/</a></li> 
+<li> <a>https://blogs.dropbox.com/tech/</a></li> 
+<li> <a>https://www.ebayinc.com/stories/blogs/tech/</a></li> 
+<li> <a>https://medium.com/unexpected-token</a></li> 
+<li> <a>http://www.eharmony.com/engineering/</a></li> 
+<li> <a>https://www.elastic.co/blog/category/engineering</a></li> 
+<li> <a>https://blog.engineyard.com/</a></li> 
+<li> <a>https://sourcecode.entelo.com/</a></li> 
+<li> <a>https://webuild.envato.com/</a></li> 
+<li> <a>https://envoy.engineering/</a></li> 
+<li> <a>https://www.erlang-solutions.com/blog.html</a></li> 
+<li> <a>https://codeascraft.com/</a></li> 
+<li> <a>https://www.eventbrite.com/engineering/</a></li> 
+<li> <a>https://evernote.com/blog/</a></li> 
+<li> <a>https://evilmartians.com/chronicles/</a></li> 
+<li> <a>https://medium.com/expedia-group-tech</a></li> 
+<li> <a>https://code.facebook.com/posts/</a></li> 
+<li> <a>https://engineering.fb.com/category/ai-research/</a></li> 
+<li> <a>http://blog.faraday.io/</a></li> 
+<li> <a>https://medium.com/feedzaitech</a></li> 
+<li> <a>http://making.fiftythree.com/</a></li> 
+<li> <a>http://tech.findmypast.com/</a></li> 
+<li> <a>http://tech.finn.no/</a></li> 
+<li> <a>https://dev.firmafon.dk/blog/</a></li> 
+<li> <a>http://code.flickr.net/</a></li> 
+<li> <a>http://engineering.flipboard.com/</a></li> 
+<li> <a>https://engineering.foursquare.com/</a></li> 
+<li> <a>https://freeletics.engineering/</a></li> 
+<li> <a>https://engineering.fundingcircle.com/</a></li> 
+<li> <a>https://www.future-processing.pl/technical-blog/</a></li> 
+<li> <a>https://galois.com/blog/</a></li> 
+<li> <a>http://tech.gc.com/</a></li> 
+<li> <a>https://tech.geoblink.com/</a></li> 
+<li> <a>http://tech.gilt.com/</a></li> 
+<li> <a>https://engineering.giphy.com/</a></li> 
+<li> <a>https://githubengineering.com/</a></li> 
+<li> <a>https://github.com/blog/category/engineering</a></li> 
+<li> <a>https://gocardless.com/blog/tagged/engineering/</a></li> 
+<li> <a>https://team.goodeggs.com/</a></li> 
+<li> <a>https://security.googleblog.com/</a></li> 
+<li> <a>https://research.googleblog.com/</a></li> 
+<li> <a>https://engineering.gosquared.com/</a></li> 
+<li> <a>https://blog.gojekengineering.com/</a></li> 
+<li> <a>http://engineering.grab.com/</a></li> 
+<li> <a>https://grafana.com/blog/</a></li> 
+<li> <a>https://tech.grammarly.com/blog/index.html</a></li> 
+<li> <a>https://lambda.grofers.com/</a></li> 
+<li> <a>http://blog.joingrouper.com/</a></li> 
+<li> <a>https://engineering.groupon.com/</a></li> 
+<li> <a>https://www.theguardian.com/info/developer-blog</a></li> 
+<li> <a>http://engineering.gusto.com/</a></li> 
+<li> <a>http://engineering.hackerearth.com/</a></li> 
+<li> <a>https://haptik.ai/tech/</a></li> 
+<li> <a>http://engineering.harrys.com/</a></li> 
+<li> <a>https://www.hashicorp.com/blog/</a></li> 
+<li> <a>https://engineering.hashnode.com/</a></li> 
+<li> <a>https://hashrocket.com/blog</a></li> 
+<li> <a>https://blog.hasura.io/</a></li> 
+<li> <a>https://engineering.haus.com/</a></li> 
+<li> <a>https://heap.engineering/</a></li> 
+<li> <a>https://medium.com/helpshift-engineering/</a></li> 
+<li> <a>https://developer.here.com/blog</a></li> 
+<li> <a>https://blog.heroku.com/engineering</a></li> 
+<li> <a>http://code.hireart.com/</a></li> 
+<li> <a>https://tech.homeaway.com/</a></li> 
+<li> <a>http://blog.honeybadger.io/</a></li> 
+<li> <a>http://code.hootsuite.com/</a></li> 
+<li> <a>https://www.hostinger.com/blog/engineering/</a></li> 
+<li> <a>https://medium.com/engineering-housing</a></li> 
+<li> <a>http://product.hubspot.com/blog/topic/engineering</a></li> 
+<li> <a>https://developer.ibm.com/dwblog/</a></li> 
+<li> <a>http://engineering.ifttt.com/</a></li> 
+<li> <a>https://engineering.imvu.com/</a></li> 
+<li> <a>https://blog.imaginea.com/</a></li> 
+<li> <a>https://blog.imgur.com/category/eng/</a></li> 
+<li> <a>http://engineering.indeedblog.com/blog/</a></li> 
+<li> <a>https://tech.instacart.com/</a></li> 
+<li> <a>https://engineering.instagram.com/</a></li> 
+<li> <a>https://software.intel.com/en-us/blogs/</a></li> 
+<li> <a>http://engineering.intenthq.com/</a></li> 
+<li> <a>http://intentmedia.com/blog/</a></li> 
+<li> <a>https://engineering.intercom.io/</a></li> 
+<li> <a>https://quickbooks-engineering.intuit.com/</a></li> 
+<li> <a>http://engineering.invisionapp.com/</a></li> 
+<li> <a>https://blogs.janestreet.com/category/ocaml/</a></li> 
+<li> <a>https://tech.jet.com/</a></li> 
+<li> <a>https://jobandtalent.engineering/</a></li> 
+<li> <a>https://medium.com/jobteaser-dev-team/</a></li> 
+<li> <a>https://jollygoodcode.github.io/</a></li> 
+<li> <a>https://tech.just-eat.com/</a></li> 
+<li> <a>http://engineering.khanacademy.org/</a></li> 
+<li> <a>https://www.kickstarter.com/backing-and-hacking</a></li> 
+<li> <a>https://techblog.king.com/</a></li> 
+<li> <a>https://kinvolk.io/blog/</a></li> 
+<li> <a>https://devblog.kogan.com/</a></li> 
+<li> <a>https://kolosek.com/blog/</a></li> 
+<li> <a>https://latacora.singles/</a></li> 
+<li> <a>http://engineering.laterooms.com/</a></li> 
+<li> <a>https://tech.lendinghome.com/</a></li> 
+<li> <a>https://engineering.linecorp.com/en/blog</a></li> 
+<li> <a>https://developers.livechatinc.com/blog/</a></li> 
+<li> <a>https://liveramp.com/engineering/</a></li> 
+<li> <a>http://eng.localytics.com/</a></li> 
+<li> <a>https://eng.lyft.com/</a></li> 
+<li> <a>https://www.madetech.com/blog</a></li> 
+<li> <a>http://blog.mallow-tech.com/</a></li> 
+<li> <a>http://blog.mandrill.com/</a></li> 
+<li> <a>https://www.maptiler.com/blog/</a></li> 
+<li> <a>https://medium.com/medium-eng</a></li> 
+<li> <a>http://blog.memsql.com/content/engineering/</a></li> 
+<li> <a>https://mesosphere.com/blog/</a></li> 
+<li> <a>https://blogs.msdn.microsoft.com/pythonengineering/</a></li> 
+<li> <a>https://engineering.mixmax.com/</a></li> 
+<li> <a>https://code.mixpanel.com/</a></li> 
+<li> <a>https://engineering.mongodb.com/</a></li> 
+<li> <a>http://engineering.monsanto.com/</a></li> 
+<li> <a>https://blog.moove-it.com/</a></li> 
+<li> <a>https://planet.mozilla.org/ateam/</a></li> 
+<li> <a>https://hacks.mozilla.org/</a></li> 
+<li> <a>https://planet.mozilla.org/releng/</a></li> 
+<li> <a>https://medium.com/myntra-engineering</a></li> 
+<li> <a>https://medium.com/myntra-engineering/tagged/data-science</a></li> 
+<li> <a>https://medium.com/netflix-techblog</a></li> 
+<li> <a>https://open.blogs.nytimes.com/</a></li> 
+<li> <a>https://engblog.nextdoor.com/</a></li> 
+<li> <a>https://nordicapis.com/blog/</a></li> 
+<li> <a>https://www.novoda.com/blog/</a></li> 
+<li> <a>http://blog.apps.npr.org/</a></li> 
+<li> <a>https://blogs.nvidia.com/</a></li> 
+<li> <a>https://blog.octo.com/en/</a></li> 
+<li> <a>https://developer.okta.com/blog/</a></li> 
+<li> <a>https://tech.olx.com/</a></li> 
+<li> <a>https://engineering.opendns.com/</a></li> 
+<li> <a>http://tech.opentable.com/</a></li> 
+<li> <a>http://tech.opentable.co.uk/</a></li> 
+<li> <a>https://code.oursky.com/</a></li> 
+<li> <a>http://tech.oyster.com/</a></li> 
+<li> <a>http://engineering.opensooq.com/</a></li> 
+<li> <a>http://engineering.panoramaed.com/</a></li> 
+<li> <a>https://www.paypal-engineering.com/</a></li> 
+<li> <a>https://www.periscopedata.com/blog</a></li> 
+<li> <a>https://tech.pic-collage.com/</a></li> 
+<li> <a>https://medium.com/@Pinterest_Engineering</a></li> 
+<li> <a>https://engineering.pivotal.io/</a></li> 
+<li> <a>https://medium.com/better-practices</a></li> 
+<li> <a>https://postmarkapp.com/blog</a></li> 
+<li> <a>https://blog.postmates.com/tagged/engineering</a></li> 
+<li> <a>https://medium.com/prezi-engineering</a></li> 
+<li> <a>https://www.pubnub.com/blog/</a></li> 
+<li> <a>http://blog.8thcolor.com/</a></li> 
+<li> <a>https://making.pusher.com/</a></li> 
+<li> <a>https://www.raizlabs.com/dev/</a></li> 
+<li> <a>http://blog.rapidapi.com/</a></li> 
+<li> <a>https://www.rea-group.com/category/tech/</a></li> 
+<li> <a>https://realm.io/news/</a></li> 
+<li> <a>http://artplustech.com/</a></li> 
+<li> <a>http://redino.net/blog/</a></li> 
+<li> <a>https://developers.redhat.com/blog/</a></li> 
+<li> <a>http://engineering.remind.com/</a></li> 
+<li> <a>https://medium.com/retailmenot-engineering/</a></li> 
+<li> <a>http://eng.rightscale.com/</a></li> 
+<li> <a>https://engineering.riotgames.com/</a></li> 
+<li> <a>https://blog.risingstack.com/</a></li> 
+<li> <a>https://www.rosehosting.com/blog/</a></li> 
+<li> <a>https://www.runtastic.com/blog/en/category/tech/</a></li> 
+<li> <a>https://developer.salesforce.com/blogs/engineering/</a></li> 
+<li> <a>http://www.schibsted.pl/blog/</a></li> 
+<li> <a>https://blog.scrapinghub.com/</a></li> 
+<li> <a>https://tech.scrunch.com/blog/</a></li> 
+<li> <a>http://tech.secretescapes.com/</a></li> 
+<li> <a>https://segment.com/blog/categories/engineering/</a></li> 
+<li> <a>https://engineering.semantics3.com/</a></li> 
+<li> <a>https://semaphoreci.com/community</a></li> 
+<li> <a>http://semaphoreci.com/blog/tags/engineering.html</a></li> 
+<li> <a>http://blog.sensible.io/</a></li> 
+<li> <a>https://serverless.com/blog/</a></li> 
+<li> <a>https://engineroom.settled.co.uk/</a></li> 
+<li> <a>http://engineering.shapesecurity.com/</a></li> 
+<li> <a>https://www.sharethis.com/category/engineering/</a></li> 
+<li> <a>https://blog.shazam.com/</a></li> 
+<li> <a>https://engineering.shopify.com/</a></li> 
+<li> <a>https://tech.showmax.com/</a></li> 
+<li> <a>https://medium.com/shyp-engineering</a></li> 
+<li> <a>https://blog.siftscience.com/?category=Engineering</a></li> 
+<li> <a>https://sitepoint.com/</a></li> 
+<li> <a>http://engineering.skybettingandgaming.com/</a></li> 
+<li> <a>http://codevoyagers.com/</a></li> 
+<li> <a>https://slack.engineering/</a></li> 
+<li> <a>https://tech.small-improvements.com/</a></li> 
+<li> <a>https://up.smartrecruiters.com/</a></li> 
+<li> <a>https://snyk.io/blog</a></li> 
+<li> <a>https://devblog.songkick.com/</a></li> 
+<li> <a>https://blog.soshace.com/en/</a></li> 
+<li> <a>https://developers.soundcloud.com/blog/</a></li> 
+<li> <a>http://engineering.speedledger.com/</a></li> 
+<li> <a>https://labs.spotify.com/</a></li> 
+<li> <a>https://blog.sqreen.io/</a></li> 
+<li> <a>https://corner.squareup.com/</a></li> 
+<li> <a>https://engineering.squarespace.com/</a></li> 
+<li> <a>https://stackoverflow.blog/engineering/</a></li> 
+<li> <a>https://stackshare.io/feed</a></li> 
+<li> <a>http://multithreaded.stitchfix.com/blog/</a></li> 
+<li> <a>https://stormpath.com/blog/</a></li> 
+<li> <a>https://medium.com/strava-engineering/</a></li> 
+<li> <a>https://blog.stridenyc.com/</a></li> 
+<li> <a>https://stripe.com/blog</a></li> 
+<li> <a>https://engineering.surveymonkey.com/</a></li> 
+<li> <a>https://bytes.swiggy.com/</a></li> 
+<li> <a>http://blog.takipi.com/</a></li> 
+<li> <a>https://target.github.io/</a></li> 
+<li> <a>http://tech.taskrabbit.com/</a></li> 
+<li> <a>https://engineroom.teamwork.com/</a></li> 
+<li> <a>http://teespring.engineering/</a></li> 
+<li> <a>http://techblog.thescore.com/</a></li> 
+<li> <a>https://robots.thoughtbot.com/</a></li> 
+<li> <a>https://www.thoughtworks.com/insights</a></li> 
+<li> <a>https://www.thumbtack.com/engineering/</a></li> 
+<li> <a>https://tech.ticketmaster.com/</a></li> 
+<li> <a>https://blog.timescale.com/</a></li> 
+<li> <a>https://tech.gotinder.com/</a></li> 
+<li> <a>https://www.toptal.com/blog/</a></li> 
+<li> <a>http://engineroom.trackmaven.com/</a></li> 
+<li> <a>http://tech.transferwise.com/</a></li> 
+<li> <a>https://tech.trello.com/</a></li> 
+<li> <a>http://engineering.tripadvisor.com/</a></li> 
+<li> <a>http://tech.trivago.com/</a></li> 
+<li> <a>https://www.drivenbycode.com/</a></li> 
+<li> <a>https://engineering.tumblr.com/</a></li> 
+<li> <a>https://www.twilio.com/blog/</a></li> 
+<li> <a>https://blog.twitter.com/engineering</a></li> 
+<li> <a>https://blog.twitch.tv/tagged/engineering</a></li> 
+<li> <a>http://eng.uber.com/</a></li> 
+<li> <a>https://engineering.universe.com/</a></li> 
+<li> <a>https://upday.github.io/</a></li> 
+<li> <a>https://engineering.upgrad.com/</a></li> 
+<li> <a>https://engineering.vena.io/</a></li> 
+<li> <a>http://blog.venmo.com/?category=Engineering</a></li> 
+<li> <a>https://blog.versioneye.com/</a></li> 
+<li> <a>http://blog.vevo.com/</a></li> 
+<li> <a>http://engineering.vine.co/</a></li> 
+<li> <a>http://engineering.vinted.com/</a></li> 
+<li> <a>http://blog.vngrs.com/</a></li> 
+<li> <a>https://buildingvts.com/</a></li> 
+<li> <a>https://medium.com/walmartlabs/</a></li> 
+<li> <a>http://engineering.wattpad.com/</a></li> 
+<li> <a>http://engineering.wayfair.com/</a></li> 
+<li> <a>http://eng.wealthfront.com/</a></li> 
+<li> <a>https://blog.wearewizards.io/</a></li> 
+<li> <a>http://engineering.webengage.com/</a></li> 
+<li> <a>https://medium.com/wemake-services</a></li> 
+<li> <a>https://wecode.wepay.com/</a></li> 
+<li> <a>http://tech.wimdu.com/</a></li> 
+<li> <a>http://engineering.wingify.com/</a></li> 
+<li> <a>https://medium.com/@WoloxEngineering/</a></li> 
+<li> <a>http://development.wombatsecurity.com/</a></li> 
+<li> <a>http://tech.wonga.com/</a></li> 
+<li> <a>https://wyeworks.com/blog/</a></li> 
+<li> <a>https://tech.xing.com/</a></li> 
+<li> <a>https://blog.xmartlabs.com/</a></li> 
+<li> <a>https://yahooeng.tumblr.com/</a></li> 
+<li> <a>https://medium.com/yammer-engineering</a></li> 
+<li> <a>https://engineeringblog.yelp.com/</a></li> 
+<li> <a>https://blog.yld.io/</a></li> 
+<li> <a>https://zeemee.engineering/</a></li> 
+<li> <a>https://medium.com/zendesk-engineering</a></li> 
+<li> <a>https://developer.zendesk.com/blog</a></li> 
+<li> <a>https://engineering.zenefits.com/posts/</a></li> 
+<li> <a>https://www.zillow.com/engineering/</a></li> 
+<li> <a>https://engineering.zomato.com/</a></li> 
+<li> <a>https://about.zoosk.com/en/engineering-blog/</a></li> 
+<li> <a>https://engineering.zulily.com/</a></li> 
+<li> <a>http://tech.zumba.com/</a></li> 
+<li> <a>https://0xadada.pub/</a></li> 
+<li> <a>http://tenderlovemaking.com/</a></li> 
+<li> <a>https://blogs.msdn.com/b/abhinaba/</a></li> 
+<li> <a>http://masnun.com/</a></li> 
+<li> <a>https://adambard.com/blog/</a></li> 
+<li> <a>http://dtrace.org/blogs/ahl/</a></li> 
+<li> <a>http://www.adamtuliper.com/</a></li> 
+<li> <a>https://addyosmani.com/blog/</a></li> 
+<li> <a>https://blog.acolyer.org/</a></li> 
+<li> <a>http://alanstorm.com/</a></li> 
+<li> <a>https://arogozhnikov.github.io/</a></li> 
+<li> <a>https://infrequently.org/</a></li> 
+<li> <a>http://akaptur.com/</a></li> 
+<li> <a>https://www.amitmerchant.com/</a></li> 
+<li> <a>http://aarvik.dk/</a></li> 
+<li> <a>https://computer.forensikblog.de/en/</a></li> 
+<li> <a>http://www.andrewcbancroft.com/</a></li> 
+<li> <a>https://blog.bramp.net/</a></li> 
+<li> <a>https://blog.andrewray.me/</a></li> 
+<li> <a>http://aakinshin.net/blog/</a></li> 
+<li> <a>http://antirez.com/latest/0</a></li> 
+<li> <a>https://ariejan.net/</a></li> 
+<li> <a>https://ariya.io/</a></li> 
+<li> <a>http://lucumr.pocoo.org/</a></li> 
+<li> <a>http://www.2ality.com/</a></li> 
+<li> <a>http://bad-concurrency.blogspot.com/</a></li> 
+<li> <a>https://www.wefearchange.org/</a></li> 
+<li> <a>http://www.bfilipek.com/</a></li> 
+<li> <a>https://benmccormick.org/</a></li> 
+<li> <a>http://www.billthelizard.com/</a></li> 
+<li> <a>https://bjornjohansen.no/</a></li> 
+<li> <a>https://blog.blakeerickson.com/</a></li> 
+<li> <a>http://blog.blundellapps.co.uk/</a></li> 
+<li> <a>https://bohops.com/</a></li> 
+<li> <a>http://rhodesmill.org/brandon/</a></li> 
+<li> <a>https://brendaneich.com/</a></li> 
+<li> <a>http://www.brendangregg.com/blog/</a></li> 
+<li> <a>https://medium.com/@elbrujohalcon</a></li> 
+<li> <a>http://dtrace.org/blogs/bmc/</a></li> 
+<li> <a>https://carlosbecker.com/</a></li> 
+<li> <a>https://www.chenhuijing.com/blog/</a></li> 
+<li> <a>http://thelazylog.com/</a></li> 
+<li> <a>https://www.metachris.com/blog/</a></li> 
+<li> <a>http://nullprogram.com/</a></li> 
+<li> <a>http://blog.claymcleod.io/</a></li> 
+<li> <a>http://www.cimgf.com/</a></li> 
+<li> <a>https://codewithstyle.info/</a></li> 
+<li> <a>https://tympanus.net/codrops/</a></li> 
+<li> <a>https://medium.com/dailyjs</a></li> 
+<li> <a>http://dailytechvideo.com/</a></li> 
+<li> <a>https://danluu.com/</a></li> 
+<li> <a>http://code.dblock.org/</a></li> 
+<li> <a>https://medium.com/@dschmidt1992</a></li> 
+<li> <a>http://www.datchley.name/</a></li> 
+<li> <a>https://dave.cheney.net/</a></li> 
+<li> <a>https://davidwalsh.name/</a></li> 
+<li> <a>http://deanhume.com/</a></li> 
+<li> <a>http://deborah-digges.github.io/</a></li> 
+<li> <a>https://hookrace.net/</a></li> 
+<li> <a>https://yurichev.com/blog/</a></li> 
+<li> <a>http://www.dereuromark.de/</a></li> 
+<li> <a>https://www.discovermeteor.com/blog</a></li> 
+<li> <a>https://domenicoluciani.com/</a></li> 
+<li> <a>https://dotdev.co/</a></li> 
+<li> <a>http://dragan.rocks/</a></li> 
+<li> <a>http://www.gajotres.net/</a></li> 
+<li> <a>https://drewdevault.com/</a></li> 
+<li> <a>http://www.practicallyefficient.com/</a></li> 
+<li> <a>https://hyegar.com/</a></li> 
+<li> <a>https://eaf4.com/</a></li> 
+<li> <a>http://elegantcode.com/</a></li> 
+<li> <a>http://eli.thegreenplace.net/</a></li> 
+<li> <a>https://medium.com/javascript-scene/</a></li> 
+<li> <a>https://ericlippert.com/</a></li> 
+<li> <a>https://erikrunyon.com/</a></li> 
+<li> <a>http://evanhahn.com/</a></li> 
+<li> <a>http://www.evanjones.ca/chronological.html</a></li> 
+<li> <a>http://www.evanmiller.org/</a></li> 
+<li> <a>https://blog.evantahler.com/</a></li> 
+<li> <a>http://fbrnc.net/</a></li> 
+<li> <a>https://blog.fedecarg.com/</a></li> 
+<li> <a>https://tomassetti.me/</a></li> 
+<li> <a>https://blog.filippo.io/</a></li> 
+<li> <a>https://murze.be/</a></li> 
+<li> <a>https://glebbahmutov.com/blog/</a></li> 
+<li> <a>http://glennengstrand.info/</a></li> 
+<li> <a>https://www.darkcoding.net/</a></li> 
+<li> <a>http://neopythonic.blogspot.com/</a></li> 
+<li> <a>https://firstdoit.com/</a></li> 
+<li> <a>https://haydenjames.io/</a></li> 
+<li> <a>https://conductofcode.io/</a></li> 
+<li> <a>https://henrikwarne.com/</a></li> 
+<li> <a>http://highscalability.com/</a></li> 
+<li> <a>http://huonw.github.io/</a></li> 
+<li> <a>http://blog.hypriot.com/</a></li> 
+<li> <a>https://themodernlife.github.io/</a></li> 
+<li> <a>http://iansommerville.com/systems-software-and-technology/</a></li> 
+<li> <a>https://idontgetoutmuch.wordpress.com/</a></li> 
+<li> <a>http://stdout.in/</a></li> 
+<li> <a>http://ieftimov.com/</a></li> 
+<li> <a>https://www.igvita.com/</a></li> 
+<li> <a>https://codewithoutrules.com/</a></li> 
+<li> <a>https://ivanursul.com/</a></li> 
+<li> <a>https://jack.ofspades.com/</a></li> 
+<li> <a>https://jaketrent.com/</a></li> 
+<li> <a>http://jakewharton.com/blog</a></li> 
+<li> <a>http://jakeyesbeck.com/</a></li> 
+<li> <a>http://prog21.dadgum.com/</a></li> 
+<li> <a>http://jlongster.com/archive</a></li> 
+<li> <a>http://weblog.jamisbuck.org/</a></li> 
+<li> <a>https://idiosyncratic-ruby.com/</a></li> 
+<li> <a>http://blog.jayfields.com/</a></li> 
+<li> <a>https://blog.codinghorror.com/</a></li> 
+<li> <a>http://preshing.com/</a></li> 
+<li> <a>https://jeremykun.com/</a></li> 
+<li> <a>https://jerrygamblin.com/</a></li> 
+<li> <a>https://jes.al/</a></li> 
+<li> <a>https://blog.jessfraz.com/</a></li> 
+<li> <a>http://www.blackbytes.info/</a></li> 
+<li> <a>https://begriffs.com/</a></li> 
+<li> <a>https://www.joelonsoftware.com/</a></li> 
+<li> <a>http://johannesbrodwall.com/</a></li> 
+<li> <a>https://johnresig.com/category/blog/</a></li> 
+<li> <a>http://www.johnwittenauer.net/</a></li> 
+<li> <a>http://www.jonkensy.com/</a></li> 
+<li> <a>https://codeblog.jonskeet.uk/</a></li> 
+<li> <a>https://blog.cugu.eu/</a></li> 
+<li> <a>http://www.born2data.com/</a></li> 
+<li> <a>https://snook.ca/</a></li> 
+<li> <a>http://blog.reverberate.org/</a></li> 
+<li> <a>https://joshtronic.com/</a></li> 
+<li> <a>https://jtreminio.com/</a></li> 
+<li> <a>https://jvns.ca/</a></li> 
+<li> <a>https://blog.jgrossi.com/</a></li> 
+<li> <a>https://www.justinweiss.com/articles/archives/</a></li> 
+<li> <a>https://juristr.com/blog/</a></li> 
+<li> <a>https://useyourloaf.com/</a></li> 
+<li> <a>https://kev.inburke.com/</a></li> 
+<li> <a>https://medium.com/@kirill_shevch</a></li> 
+<li> <a>https://aphyr.com/</a></li> 
+<li> <a>http://lambda-the-ultimate.org/</a></li> 
+<li> <a>https://lg.io/</a></li> 
+<li> <a>https://iridakos.com/</a></li> 
+<li> <a>http://lea.verou.me/</a></li> 
+<li> <a>http://blog.lerner.co.il/</a></li> 
+<li> <a>http://lifepluslinux.blogspot.in/</a></li> 
+<li> <a>https://loige.co/</a></li> 
+<li> <a>http://manu.sporny.org/</a></li> 
+<li> <a>https://enoent.fr/</a></li> 
+<li> <a>https://blog.rinesi.com/</a></li> 
+<li> <a>http://ocramius.github.io/</a></li> 
+<li> <a>https://idea.popcount.org/</a></li> 
+<li> <a>http://lackingrhoticity.blogspot.de/</a></li> 
+<li> <a>https://martinfowler.com/</a></li> 
+<li> <a>https://maryrosecook.com/blog/</a></li> 
+<li> <a>https://matt.aimonetti.net/</a></li> 
+<li> <a>https://www.mattcutts.com/blog/</a></li> 
+<li> <a>http://matt.might.net/articles/</a></li> 
+<li> <a>http://mattwarren.org/</a></li> 
+<li> <a>https://blog.cryptographyengineering.com/</a></li> 
+<li> <a>https://michaelcrump.net/</a></li> 
+<li> <a>http://www.michaelgallego.fr/articles/</a></li> 
+<li> <a>http://mherman.org/</a></li> 
+<li> <a>https://www.miqu.me/</a></li> 
+<li> <a>https://www.mikeash.com/pyblog/</a></li> 
+<li> <a>http://blog.fogus.me/</a></li> 
+<li> <a>https://blog.sleeplessbeastie.eu/</a></li> 
+<li> <a>https://mirocupak.com/</a></li> 
+<li> <a>https://meowni.ca/</a></li> 
+<li> <a>https://blog.monstermuffin.org/</a></li> 
+<li> <a>http://mishadoff.com/</a></li> 
+<li> <a>https://natashatherobot.com/</a></li> 
+<li> <a>https://blog.nelhage.com/</a></li> 
+<li> <a>https://www.thepolyglotdeveloper.com/blog/</a></li> 
+<li> <a>https://nickcraver.com/blog/</a></li> 
+<li> <a>https://nickdesaulniers.github.io/</a></li> 
+<li> <a>http://www.client9.com/</a></li> 
+<li> <a>http://blog.thislongrun.com/</a></li> 
+<li> <a>http://codefx.org/</a></li> 
+<li> <a>http://www.nikola-breznjak.com/blog/</a></li> 
+<li> <a>http://nikolay.rocks/</a></li> 
+<li> <a>http://nshipster.com/</a></li> 
+<li> <a>http://www.nateberkopec.com/</a></li> 
+<li> <a>https://fullstack.info/</a></li> 
+<li> <a>https://oleb.net/blog/</a></li> 
+<li> <a>http://www.windytan.com/</a></li> 
+<li> <a>http://blog.pamelafox.org/</a></li> 
+<li> <a>http://patshaughnessy.net/</a></li> 
+<li> <a>http://www.paulgraham.com/articles.html</a></li> 
+<li> <a>https://www.paulirish.com/</a></li> 
+<li> <a>https://aerotwist.com/blog/</a></li> 
+<li> <a>https://blog.pchudzik.com/</a></li> 
+<li> <a>http://norvig.com/</a></li> 
+<li> <a>http://petersteinberger.com/</a></li> 
+<li> <a>http://www.catonmat.net/blog/</a></li> 
+<li> <a>http://petr-mitrichev.blogspot.com/</a></li> 
+<li> <a>https://philipwalton.com/</a></li> 
+<li> <a>https://os.phil-opp.com/</a></li> 
+<li> <a>https://ponyfoo.com/</a></li> 
+<li> <a>http://piotrpasich.com/</a></li> 
+<li> <a>http://blog.wittchen.biz.pl/</a></li> 
+<li> <a>https://rachelbythebay.com/w/</a></li> 
+<li> <a>http://radek.io/</a></li> 
+<li> <a>https://radimrehurek.com/blog/</a></li> 
+<li> <a>https://nativeguru.wordpress.com/</a></li> 
+<li> <a>https://www.raywenderlich.com/</a></li> 
+<li> <a>https://blogs.msdn.microsoft.com/oldnewthing/</a></li> 
+<li> <a>https://rhettinger.wordpress.com/</a></li> 
+<li> <a>https://reactjsnews.com/</a></li> 
+<li> <a>https://realpython.com/blog/</a></li> 
+<li> <a>http://raganwald.com/#essays</a></li> 
+<li> <a>http://regulargeek.com/</a></li> 
+<li> <a>https://akrabat.com/</a></li> 
+<li> <a>http://blog.cleancoder.com/</a></li> 
+<li> <a>https://eviltrout.com/</a></li> 
+<li> <a>http://blog.rtwilson.com/</a></li> 
+<li> <a>http://www.rudyhuyn.com/blog/</a></li> 
+<li> <a>https://neverfriday.com/blog/</a></li> 
+<li> <a>https://ruslanspivak.com/</a></li> 
+<li> <a>https://www.sakib.ninja/</a></li> 
+<li> <a>https://samsaffron.com/</a></li> 
+<li> <a>http://sergeyzhuk.me/</a></li> 
+<li> <a>https://schakko.de/</a></li> 
+<li> <a>http://www.hanselman.com/blog/</a></li> 
+<li> <a>http://www.fuzzyblog.io/blog/</a></li> 
+<li> <a>https://devdactic.com/devblog/</a></li> 
+<li> <a>https://www.9lessons.info/</a></li> 
+<li> <a>http://www.stackabuse.com/</a></li> 
+<li> <a>https://muffinman.io/</a></li> 
+<li> <a>http://codebeforethehorse.tumblr.com/</a></li> 
+<li> <a>http://blog.joda.org/</a></li> 
+<li> <a>https://www.cs.columbia.edu/~smb/blog/control/</a></li> 
+<li> <a>https://steve-yegge.blogspot.com/</a></li> 
+<li> <a>http://sudhagar.com/</a></li> 
+<li> <a>https://swizec.com/blog/</a></li> 
+<li> <a>https://tania.dev/</a></li> 
+<li> <a>http://teropa.info/</a></li> 
+<li> <a>https://thatthinginswift.com/</a></li> 
+<li> <a>http://www.thecodedself.com/</a></li> 
+<li> <a>http://thedailywtf.com/</a></li> 
+<li> <a>http://upcoder.com/</a></li> 
+<li> <a>http://jelv.is/blog/</a></li> 
+<li> <a>https://toddmotto.com/</a></li> 
+<li> <a>http://adventuresinautomation.blogspot.com/</a></li> 
+<li> <a>https://una.im/</a></li> 
+<li> <a>http://undocumentedmatlab.com/</a></li> 
+<li> <a>http://vanillajava.blogspot.com/</a></li> 
+<li> <a>https://vladmihalcea.com/</a></li> 
+<li> <a>http://www.wilfred.me.uk/</a></li> 
+<li> <a>https://www.goinggo.net/</a></li> 
+<li> <a>http://www.afronski.pl/</a></li> 
+<li> <a>http://www.yegor256.com/</a></li> 
+<li> <a>http://yifan.lu/</a></li> 
+<li> <a>https://zachholman.com/</a></li> 
+<li> <a>https://zolmeister.com/</a></li> 
+<li> <a>https://android-developers.blogspot.com/</a></li> 
+<li> <a>http://blog.atom.io/</a></li> 
+<li> <a>https://blog.getbootstrap.com/</a></li> 
+<li> <a>https://crystal-lang.org/</a></li> 
+<li> <a>https://blog.golang.org/</a></li> 
+<li> <a>https://ipfs.io/blog/</a></li> 
+<li> <a>https://blog.jooq.org/</a></li> 
+<li> <a>http://blog.klipse.tech/</a></li> 
+<li> <a>https://blog.jetbrains.com/kotlin/</a></li> 
+<li> <a>https://laravel-news.com/blog/</a></li> 
+<li> <a>https://blogs.windows.com/msedgedev/</a></li> 
+<li> <a>https://blogs.msdn.microsoft.com/dotnet/</a></li> 
+<li> <a>https://reactjs.org/blog/</a></li> 
+<li> <a>http://facebook.github.io/react-native/blog/</a></li> 
+<li> <a>http://www.red-lang.org/</a></li> 
+<li> <a>http://rocksdb.org/blog</a></li> 
+<li> <a>https://blog.rust-lang.org/</a></li> 
+<li> <a>https://blog.sketchapp.com/</a></li> 
+<li> <a>https://developer.apple.com/swift/blog/</a></li> 
+<li> <a>http://www.vertabelo.com/blog</a></li> 
+</ul>
+<h2>hack</h2>
+<ul>
+<li> <a>http://build-its-inprogress.blogspot.in/2018/03/the-rubiks-contraption.html</a></li> 
+</ul>
+<h2>Interview-prep</h2>
+<ul>
+<li> <a>https://www.rezi.ai/resume-templates?search=developer&resume-sample=programming</a></li> 
+<li> <a>https://www.reddit.com/r/Resume/wiki/jasons_resume_guide</a></li> 
+<li> <a>https://interviewing.io/?utm_source=quastordaily&utm_medium=newsletter&utm_campaign=may252021</a></li> 
+<li> <a>https://hemingwayapp.com/</a></li> 
+<li> <a>https://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html</a></li> 
+<li> <a>https://igotanoffer.com/blogs/tech/system-design-interviews</a></li> 
+</ul>
+<h2>leadership</h2>
+<ul>
+<li> <a>https://fs.blog/mental-models/</a></li> 
+<li> <a>https://fs.blog/great-talks/a-lesson-on-worldly-wisdom/</a></li> 
+<li> <a>https://fs.blog/great-talks/creative-thinking-claude-shannon/</a></li> 
+<li> <a>https://www.lesswrong.com/</a></li> 
+<li> <a>https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/</a></li> 
+</ul>
+<h2>machine-learning</h2>
+<ul>
+<li> <a>http://matpalm.com/blog/cool_machine_learning_books/</a></li> 
+<li> <a>https://www.geeksforgeeks.org/machine-learning/?ref=shm</a></li> 
+<li> <a>https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox</a></li> 
+<li> <a>https://github.com/commonsense/conceptnet-numberbatch</a></li> 
+<li> <a>http://proceedings.mlr.press/v97/tan19a.html</a></li> 
+<li> <a>https://dropbox.tech/machine-learning/using-machine-learning-to-index-text-from-billions-of-images</a></li> 
+<li> <a>https://dropbox.tech/infrastructure/firefly-instant-full-text-search-engine</a></li> 
+<li> <a>http://www.gaussianprocess.org/gpml/</a></li> 
+<li> <a>https://arxiv.org/abs/2108.07258</a></li> 
+</ul>
+<h2>material-science</h2>
+<ul>
+<li> <a>https://www.mindat.org/</a></li> 
+</ul>
+<h2>math</h2>
+<ul>
+<li> <a>https://www.fxsolver.com/</a></li> 
+<li> <a>https://www.geogebra.org/materials</a></li> 
+<li> <a>http://calculusmadeeasy.org/</a></li> 
+<li> <a>http://blog.rogerluo.me/tags/automatic-differentiation/</a></li> 
+<li> <a>https://www.theatlantic.com/science/archive/2018/11/science-full-mavericks-like-my-grandfather-was-his-physics-theory-right/574573/?single_page=true</a></li> 
+<li> <a>https://www.nayuki.io/page/creating-a-qr-code-step-by-step</a></li> 
+<li> <a>http://vmls-book.stanford.edu/</a></li> 
+<li> <a>https://seeing-theory.brown.edu/index.html#4thPage</a></li> 
+<li> <a>https://lectures.quantecon.org/jl/</a></li> 
+<li> <a>https://www.cs.usfca.edu/~galles/visualization/Algorithms.html</a></li> 
+<li> <a>https://algorithms-tour.stitchfix.com/</a></li> 
+<li> <a>https://www.nature.com/articles/s41467-019-08678-0</a></li> 
+<li> <a>https://towardsdatascience.com/brief-introduction-to-markov-chains-2c8cab9c98ab</a></li> 
+<li> <a>https://auth0.com/blog/real-time-charts-using-angular-d3-and-socket-io/</a></li> 
+<li> <a>https://en.wikipedia.org/wiki/G%C3%B6del_machine</a></li> 
+<li> <a>https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8</a></li> 
+<li> <a>https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Logistic%20Regression%20balanced.ipynb</a></li> 
+<li> <a>https://distill.pub/</a></li> 
+<li> <a>https://betterexplained.com/archives/</a></li> 
+<li> <a>https://ourway.keybase.pub/mathematics_cheat_sheet.pdf</a></li> 
+<li> <a>http://mathman.biz/materials/Calculus%20By%20and%20For%20Young%20People%20Worksheets.pdf</a></li> 
+</ul>
+<h2>MATHS</h2>
+<ul>
+<li> <a>https://betanalpha.github.io/assets/case_studies/probability_theory.html</a></li> 
+<li> <a>http://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html?href=</a></li> 
+<li> <a>http://chalkdustmagazine.com/black-mathematician-month/the-mathematics-of-black-panther/</a></li> 
+</ul>
+<h2>notes</h2>
+<ul>
+<li> <a>https://choosealicense.com/</a></li> 
+<li> <a>https://cylonjs.com/</a></li> 
+<li> <a>https://developer.apple.com/swift/resources/</a></li> 
+<li> <a>http://www.instructables.com/id/Making-A-Customized-Circuit-Board-Made-Easy/</a></li> 
+<li> <a>http://cq.cx/pcb-router.pl</a></li> 
+<li> <a>https://www.udemy.com/complete-ios-10-developer-course/</a></li> 
+<li> <a>https://redditblog.com/2017/05/24/view-counting-at-reddit/</a></li> 
+<li> <a>https://exis.io/</a></li> 
+<li> <a>https://www.androidexperiments.com/experiment/autonomous-android-vehicle</a></li> 
+<li> <a>https://redditblog.com/2017/08/04/dynamically-routing-requests-across-different-stacks-with-vcl/</a></li> 
+<li> <a>https://redditblog.com/2017/09/07/the-search-for-better-search-at-reddit/</a></li> 
+<li> <a>https://redditblog.com/2018/02/28/the-evolution-of-data-at-reddit/</a></li> 
+</ul>
+<h2>os</h2>
+<ul>
+<li> <a>http://www.makelinux.net/kernel_map/</a></li> 
+</ul>
+<h2>philosopy</h2>
+<ul>
+<li> <a>https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf</a></li> 
+<li> <a>https://zenmoments.org/</a></li> 
+<li> <a>https://www.ucl.ac.uk/laws/sites/laws/files/philosophy_of_work.pdf</a></li> 
+<li> <a>https://www.depauw.edu/sfs/backissues/5/lem5art.htm</a></li> 
+<li> <a>https://www.depauw.edu/sfs/index.htm</a></li> 
+</ul>
+<h2>physics</h2>
+<ul>
+<li> <a>https://www.feynmanlectures.caltech.edu/flptapes.html</a></li> 
+<li> <a>https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F</a></li> 
+<li> <a>https://www.feynmanlectures.caltech.edu/</a></li> 
+<li> <a>https://www.privatdozent.co/p/the-golden-age-of-quantum-physics-ff7</a></li> 
+<li> <a>http://ramp-book.com/Relativity__A_Modern_Primer.pdf</a></li> 
+<li> <a>https://gravityandlevity.wordpress.com/</a></li> 
+<li> <a>https://physicsbaseddeeplearning.org/intro.html</a></li> 
+</ul>
+<h2>product-design</h2>
+<ul>
+<li> <a>https://digitalpsychology.io/</a></li> 
+<li> <a>https://daisyui.com/</a></li> 
+</ul>
+<h2>programming</h2>
+<ul>
+<li> <a>https://www.mit.edu/~xela/tao.html</a></li> 
+<li> <a>https://nocomplexity.com/documents/arplaybook/index.html</a></li> 
+<li> <a>https://witestlab.poly.edu/</a></li> 
+<li> <a>https://witestlab.poly.edu/site/</a></li> 
+<li> <a>http://graphics.stanford.edu/~seander/bithacks.html</a></li> 
+<li> <a>http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf</a></li> 
+<li> <a>https://www.geeksforgeeks.org/data-structures/?ref=shm</a></li> 
+<li> <a>https://muhammadraza.me/2021/Oneliners/</a></li> 
+<li> <a>https://algorithmist.com/wiki/Main_Page</a></li> 
+<li> <a>https://en.wikipedia.org/wiki/Karp%27s_21_NP-complete_problems</a></li> 
+<li> <a>https://brilliant.org/</a></li> 
+<li> <a>https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf</a></li> 
+<li> <a>https://karpathy.github.io/2021/06/21/blockchain/</a></li> 
+<li> <a>https://softwarefoundations.cis.upenn.edu/</a></li> 
+<li> <a>https://algs4.cs.princeton.edu/30searching/</a></li> 
+<li> <a>https://medium.com/leetcode-patterns</a></li> 
+<li> <a>https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/</a></li> 
+<li> <a>https://jeffe.cs.illinois.edu/teaching/algorithms/book/03-dynprog.pdf</a></li> 
+<li> <a>https://people.cs.clemson.edu/~bcdean/dp_practice/</a></li> 
+<li> <a>https://stackoverflow.com/</a></li> 
+<li> <a>http://bayes.cs.ucla.edu/jp_home.html</a></li> 
+<li> <a>https://github.com/agavrel/42_CheatSheet</a></li> 
+<li> <a>https://teachyourselfcs.com/</a></li> 
+<li> <a>https://cs.stanford.edu/~knuth/taocp.html</a></li> 
+<li> <a>https://idlecoding.com/</a></li> 
+<li> <a>https://gigamonkeys.com/book/</a></li> 
+<li> <a>https://www.dreamsongs.com/Files/LispGoodNewsBadNews.pdf</a></li> 
+<li> <a>http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf</a></li> 
+<li> <a>http://twistedoakstudios.com/blog/</a></li> 
+<li> <a>https://danluu.com/input-lag/</a></li> 
+<li> <a>https://massivealgorithms.blogspot.com/2019/06/archives.html</a></li> 
+<li> <a>http://www.fmwconcepts.com/imagemagick/draganeffect/index.php</a></li> 
+<li> <a>https://en.algorithmica.org/hpc/</a></li> 
+<li> <a>https://journal.stuffwithstuff.com/archive/</a></li> 
+</ul>
+<h2>quantumcomputing</h2>
+<ul>
+<li> <a>https://arxiv.org/abs/1603.08675</a></li> 
+<li> <a>https://arxiv.org/pdf/1807.04271.pdf</a></li> 
+<li> <a>https://arxiv.org/pdf/1603.08675.pdf</a></li> 
+<li> <a>https://www.quantamagazine.org/job-one-for-quantum-computers-boost-artificial-intelligence-20180129/</a></li> 
+<li> <a>https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/</a></li> 
+</ul>
+<h2>readingLIST</h2>
+<ul>
+<li> <a>https://fermatslibrary.com/s/judgment-under-uncertainty-heuristics-and-biases</a></li> 
+<li> <a>https://dcgross.com/decide-what-to-work-on/</a></li> 
+<li> <a>http://www.jsoftware.com/papers/tot.htm</a></li> 
+<li> <a>https://blockgeeks.com/guides/best-bitcoin-script-guide/</a></li> 
+<li> <a>https://tic.computer/play?cat=0</a></li> 
+<li> <a>http://nullprogram.com/blog/2017/11/03/</a></li> 
+<li> <a>https://www.enlightenment.org/docs/c/start</a></li> 
+<li> <a>https://oneraynyday.github.io/</a></li> 
+<li> <a>https://www.requestforsocialnetworks.com/#form</a></li> 
+<li> <a>https://github.com/danistefanovic/build-your-own-x</a></li> 
+<li> <a>http://lodev.org/logicemu/#id=nor_logic</a></li> 
+<li> <a>https://github.com/MinhasKamal/CreepyCodeCollection</a></li> 
+<li> <a>https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d</a></li> 
+<li> <a>https://codeburst.io/async-patterns-in-node-js-only-4-different-ways-to-do-it-70186ee83250</a></li> 
+<li> <a>https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d</a></li> 
+<li> <a>https://mondaynote.com/intels-toxic-culture-1b79905adf45</a></li> 
+<li> <a>https://medium.com/acing-ai/how-i-build-an-ai-to-play-dino-run-e37f37bdf153</a></li> 
+<li> <a>https://medium.com/the-mission/modern-polymath-81f882ce52db</a></li> 
+<li> <a>https://meaningness.com/metablog/artificial-intelligence-progress</a></li> 
+<li> <a>https://blog.ycombinator.com/ycs-2018-summer-reading-list/</a></li> 
+<li> <a>https://blog.nobugware.com/post/2018/my_own_car_system_raspberry_pi_offline_mapping/</a></li> 
+<li> <a>https://zen-of-programming.com/kickass-portfolio/</a></li> 
+<li> <a>https://www.geogebra.org/materials</a></li> 
+<li> <a>https://www.geogebra.org/materials</a></li> 
+<li> <a>https://www.geogebra.org/materials</a></li> 
+<li> <a>https://github.com/trimstray/test-your-sysadmin-skills</a></li> 
+<li> <a>https://frontendian.co/service-workers</a></li> 
+<li> <a>https://www.prospectmagazine.co.uk/magazine/kurt-godel-and-the-romance-of-logic</a></li> 
+<li> <a>https://hn.academy/</a></li> 
+<li> <a>https://hacker-tools.github.io/</a></li> 
+<li> <a>https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices</a></li> 
+<li> <a>https://github.com/albert100121/360SD-Net/commits/master</a></li> 
+<li> <a>https://my.freenom.com/clientarea.php?action=domaindetails&id=1044127938</a></li> 
+<li> <a>https://news.ycombinator.com/item?id=27302195</a></li> 
+<li> <a>https://jvns.ca/</a></li> 
+<li> <a>https://acoup.blog/</a></li> 
+<li> <a>https://danluu.com/programming-books/</a></li> 
+<li> <a>https://danluu.com/</a></li> 
+<li> <a>https://marginalrevolution.com/</a></li> 
+<li> <a>https://unherd.com/</a></li> 
+</ul>
+<h2>researchPaperSites</h2>
+<ul>
+<li> <a>https://jeffhuang.com/best_paper_awards.html</a></li> 
+<li> <a>http://paperscape.org/</a></li> 
+</ul>
+<h2>server</h2>
+<ul>
+<li> <a>https://github.com/oatpp/oatpp</a></li> 
+<li> <a>https://codemirror.net/</a></li> 
+<li> <a>https://blog.angularindepth.com/becoming-an-angular-environmentalist-45a48f7c20d8</a></li> 
+<li> <a>https://github.com/leonardomso/33-js-concepts</a></li> 
+<li> <a>https://github.com/k88hudson/git-flight-rules#i-wrote-the-wrong-thing-in-a-commit-message</a></li> 
+<li> <a>http://www.lighterra.com/papers/modernmicroprocessors/</a></li> 
+<li> <a>https://statusgator.com/services/firebase</a></li> 
+<li> <a>http://aosabook.org/en/index.html</a></li> 
+<li> <a>https://rustwasm.github.io/2018/10/24/multithreading-rust-and-wasm.html</a></li> 
+<li> <a>https://blog.twitter.com/engineering/en_us/topics/insights/2018/twitters-kafka-adoption-story.html</a></li> 
+<li> <a>http://ufldl.stanford.edu/tutorial/</a></li> 
+<li> <a>https://github.com/sahat/megaboilerplate</a></li> 
+<li> <a>https://s3.console.aws.amazon.com/s3/object/gal-gadot-wonder-woman/hello_world.txt?region=ap-south-1&tab=overview</a></li> 
+</ul>
+<h2>sites</h2>
+<ul>
+<li> <a>https://github.com/nasa-jpl/open-source-rover</a></li> 
+<li> <a>https://www.sslforfree.com/</a></li> 
+<li> <a>https://2018.stateofjs.com/</a></li> 
+<li> <a>http://gen.lib.rus.ec/</a></li> 
+<li> <a>https://www.ieee.org/index.html</a></li> 
+<li> <a>http://ieeexplore.ieee.org/Xplore/home.jsp</a></li> 
+<li> <a>https://www.google.co.in/</a></li> 
+<li> <a>http://ai2.appinventor.mit.edu/</a></li> 
+<li> <a>https://classroom.udacity.com/courses/ud730/lessons/6370362152/concepts/63798118170923#</a></li> 
+<li> <a>https://github.com/mit-racecar/hardware</a></li> 
+<li> <a>https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/</a></li> 
+<li> <a>http://spacedemo.chaoscollective.org/?project=SandboxApp</a></li> 
+<li> <a>http://selfdrivingcars.mit.edu/</a></li> 
+<li> <a>https://home-assistant.io/docs/backend/database/</a></li> 
+<li> <a>https://datawhatnow.com/introduction-web-scraping-python/</a></li> 
+<li> <a>https://github.com/Microsoft/AirSim?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more</a></li> 
+<li> <a>https://motherboard.vice.com/en_us/topic/hacking</a></li> 
+<li> <a>https://dir.friendica.social/servers</a></li> 
+<li> <a>https://honestcoffeeguide.com/</a></li> 
+</ul>
+<h2>sites</h2>
+<ul>
+<li> <a>https://pudding.cool/</a></li> 
+<li> <a>https://github.com/anaibol/awesome-serverless#ecommerce</a></li> 
+<li> <a>https://www.pentestpartners.com/security-blog/hacking-an-assault-tank-a-nerf-one/</a></li> 
+<li> <a>http://hedonometer.org/index.html?from=2017-09-06&to=2019-03-06</a></li> 
+<li> <a>https://www.bostonglobe.com/metro/2019/03/04/the-backyard-mechanic-who-taking-tesla/Sv1l8q2sxpQvTFMp13VFwM/story.html</a></li> 
+<li> <a>https://rust-lang-nursery.github.io/rust-cookbook/</a></li> 
+<li> <a>https://github.com/adeshpande3/March-Madness-ML</a></li> 
+<li> <a>https://education.github.com/pack/offers</a></li> 
+<li> <a>https://github.com/marcelstoer/nodemcu-pyflasher</a></li> 
+</ul>
+<h2>social</h2>
+<ul>
+<li> <a>https://m.facebook.com/home.php</a></li> 
+<li> <a>https://www.linkedin.com/home?trk=nav_responsive_tab_home</a></li> 
+<li> <a>https://www.netflix.com/browse</a></li> 
+<li> <a>https://twitter.com/</a></li> 
+<li> <a>https://www.youtube.com/?gl=IN</a></li> 
+<li> <a>https://www.facebook.com/</a></li> 
+<li> <a>https://medium.com/</a></li> 
+</ul>
+<h2>softwareStack</h2>
+<ul>
+<li> <a>https://www.cybrary.it/</a></li> 
+<li> <a>https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel</a></li> 
+<li> <a>https://exupero.org/</a></li> 
+<li> <a>https://news.ycombinator.com/item?id=24901244</a></li> 
+<li> <a>https://us-east-2.console.aws.amazon.com/sagemaker/groundtruth#/labeling-datasets</a></li> 
+<li> <a>https://free-for.dev/#/?id=testing</a></li> 
+</ul>
+<h2>startup</h2>
+<ul>
+<li> <a>https://playbook.samaltman.com/</a></li> 
+<li> <a>http://paulgraham.com/earnest.html</a></li> 
+<li> <a>https://www.avodocs.com/</a></li> 
+<li> <a>https://github.com/255kb/stack-on-a-budget</a></li> 
+<li> <a>https://gist.github.com/harperreed/3201887</a></li> 
+</ul>
+<h2>statistics</h2>
+<ul>
+<li> <a>https://www.itl.nist.gov/div898/handbook/index.htm</a></li> 
+<li> <a>https://www.evanmiller.org/index.html</a></li> 
+</ul>
+<h2>design</h2>
+<ul>
+<li> <a>http://roughjs.com/</a></li> 
+<li> <a>https://github.com/russellgoldenberg/scrollama?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more</a></li> 
+<li> <a>https://github.com/antvis/g2?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more</a></li> 
+<li> <a>https://github.com/ramon82/zuck.js?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more</a></li> 
+<li> <a>http://localhost:4200/admin/products/new</a></li> 
+<li> <a>https://html5up.net/</a></li> 
+<li> <a>https://www.creative-tim.com/product/material-dashboard-angular2</a></li> 
+<li> <a>chrome://newtab/</a></li> 
+<li> <a>https://medium.com/@nsmirnova/creating-pwa-with-angular-5-part-2-progressifying-the-application-449e3a706129</a></li> 
+<li> <a>https://ap.www.namecheap.com/domains/dcp/share/prakashsellathurai.me/rights</a></li> 
+<li> <a>https://plot.ly/ipython-notebooks/bicycle-control-design/#open-loop-bicycle-model</a></li> 
+<li> <a>https://github.com/chenqingspring/ng-lottie#installation</a></li> 
+</ul>
+<li> <a>https://fermatslibrary.com/s/prediction-and-entropy-of-printed-english-2#email-newsletter</a></li> 
+<li> <a>https://goldenaudiobooks.com/robert-cialdini-pre-suasion-audiobook-free-online/</a></li> 
+<li> <a>https://hbr.org/2018/07/how-to-improve-your-business-english?utm_source=linkedin&utm_medium=social&utm_campaign=hbr</a></li> 
+<li> <a>https://trib.al/GqR4oJI</a></li> 
+<li> <a>https://trib.al/96mWhnC</a></li> 
+<li> <a>https://www.forbes.com/sites/jonyoushaei/2017/11/08/how-to-get-an-amazing-job-without-much-experience/?utm_source=LINKEDIN_COMPANY&utm_medium=social&utm_content=3068577546&utm_campaign=sprinklrForbesMainLI#7af26a55141c</a></li> 
+<li> <a>https://www.thebalancecareers.com/what-makes-a-work-environment-hostile-1919363?utm_source=linkedin&utm_medium=social&utm_campaign=shareurlbuttons</a></li> 
+<li> <a>https://www.forbes.com/sites/chuckswoboda/2020/02/03/to-hire-talent-wired-for-innovation-focus-on-mindsetnot-skill-set/amp/</a></li> 
+<li> <a>https://www.influenceatwork.com/principles-of-persuasion/</a></li> 
+<li> <a>https://hbr.org/2018/08/5-things-to-do-when-you-feel-overwhelmed-by-your-workload?utm_campaign=hbr&utm_source=linkedin&utm_medium=social</a></li> 
+<li> <a>https://hbr.org/2017/11/how-to-excel-at-both-strategy-and-execution?utm_medium=social&utm_campaign=hbr&utm_source=linkedin</a></li> 
+<li> <a>https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2019/04/5-myths-about-strategy</a></li> 
+<li> <a>https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/03/productive-conversations-take-real-empathy</a></li> 
+<li> <a>https://yourstory.com/2020/03/doctor-healthtech-startup-agile-healthcare-medi-junction?utm_source=WhatsApp&utm_medium=Messages</a></li> 
+<li> <a>https://techcrunch.com/2020/03/12/the-7-deadly-sins-of-startups/</a></li> 
+<li> <a>http://sde.b-u.ac.in/sss/studinfo.aspx</a></li> 
+<li> <a>https://waifu.lofiu.com/</a></li> 
+<li> <a>https://www.notredameonline.com/resources/leadership-and-management/leadership-certificate-programs/</a></li> 
+<li> <a>http://www.startupmentors.in/</a></li> 
+<li> <a>https://www.technologyreview.com/2020/08/14/1006780/ai-gpt-3-fake-blog-reached-top-of-hacker-news/</a></li> 
+<li> <a>https://www.google.com/amp/s/techvidvan.com/tutorials/mapreduce-job-optimization-techniques/amp/</a></li> 
+<li> <a>https://github.com/aksnzhy/bitcoin-bubble-index</a></li> 
+<li> <a>https://t.co/NazSY8JSzV?amp=1</a></li> 
+<li> <a>https://arxiv.org/abs/2105.04026</a></li> 
+<li> <a>https://tedgioia.substack.com/p/how-i-became-the-honest-broker</a></li> 
+<li> <a>https://huyenchip.com/ml-interviews-book/</a></li> 

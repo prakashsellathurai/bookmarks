@@ -1,19 +1,15 @@
 import sys
+from typing import List
 from bs4 import BeautifulSoup
 
 from parsebookmark import parse_root_chrome,parse_root_firefox
+import tqdm
 
 
-
-def update_README( toc, toc_start="[//]: # (TOCSTART)", toc_end="[//]: # (TOCEND)"):
-    toc_file = open("README.md", "r").read()
-    start, end = toc_file.find(toc_start), toc_file.find(toc_end)
-    render =  (
-        (toc_file[: start + len(toc_start)]) +
-        ("\n\n%s\n\n" % toc) + (toc_file[end:])
-    )
+def update_README( toc: List[str], toc_start="[//]: # (TOCSTART)", toc_end="[//]: # (TOCEND)"):
+  
     with open("README.md", "w") as fout:
-        fout.writelines(render)
+        fout.write('\n'.join(toc))
 
 def recursive_traversal(prefix,bookmarks,result,level=0):
     children = bookmarks['children']
@@ -26,11 +22,11 @@ def recursive_traversal(prefix,bookmarks,result,level=0):
             
             result.append(prefix+"<h2>"+item['title']+"</h2>")
             if item['children'] != None:
-                # result.append("<ul>")
-                recursive_traversal(prefix+str("&nbsp;"*(level+1)),item,result,level=level+1)
-                # result.append("</ul>")
+                result.append("<ul>")
+                recursive_traversal(prefix+str(""*(level+1)),item,result,level=level+1)
+                result.append("</ul>")
         elif item['type'] == "url":
-            result.append(prefix+" - &nbsp; <a>"+item['url']+"</a> <br>")
+            result.append(prefix+"<li> <a>"+item['url']+"</a></li> ")
 
             
 
@@ -51,8 +47,8 @@ def main():
     bookmarks = bookmarks[1]
     assert(bookmarks['title'] == "Other Bookmarks")
     result = []
-    recursive_traversal(prefix=" ",bookmarks=bookmarks,result=result)
-    result = "".join(result)
+    recursive_traversal(prefix="",bookmarks=bookmarks,result=result)
+    # result = "".join(result)
     update_README(result)
 if __name__ == "__main__":
     main()
