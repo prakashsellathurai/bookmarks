@@ -11,6 +11,7 @@ setuptools = "*"
 netscape-bookmarks-file-parser = {git = "https://github.com/FlyingWolFox/Netscape-Bookmarks-File-Parser"}
 lxml = "*"
 html5lib = "*"
+nebooman = "*"
 
 [requires]
 python_version = "3.8"

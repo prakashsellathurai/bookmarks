@@ -26,11 +26,11 @@ def recursive_traversal(prefix,bookmarks,result,level=0):
             
             result.append(prefix+"<h2>"+item['title']+"</h2>")
             if item['children'] != None:
-                result.append("<ul>")
+                # result.append("<ul>")
                 recursive_traversal(prefix+str("&nbsp;"*(level+1)),item,result,level=level+1)
-                result.append("</ul>")
+                # result.append("</ul>")
         elif item['type'] == "url":
-            result.append(prefix+" <li>"+item['url']+"</li>")
+            result.append(prefix+" - &nbsp; <a>"+item['url']+"</a> <br>")
 
             
 

@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e232d4fb1d9cbfae6c50dcc2dc1a716a4ce44d564f82cd1810b56a90de8ebb28"
+            "sha256": "f0a06e7f326a9be02d64d2d7e399f6d30d9574f870d7cf893ad2eb33693f85d3"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -98,6 +98,13 @@
             ],
             "index": "pypi",
             "version": "==4.8.0"
+        },
+        "nebooman": {
+            "hashes": [
+                "sha256:aea91b0c6d723be1e7a9a9eb8bedc8711b53e9fba8153b1291d3e1e4d0fbfc8e"
+            ],
+            "index": "pypi",
+            "version": "==0.1"
         },
         "netscape-bookmarks-file-parser": {
             "git": "https://github.com/FlyingWolFox/Netscape-Bookmarks-File-Parser",
