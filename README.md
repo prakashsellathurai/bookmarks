@@ -49,6 +49,10 @@
 <li> <a href="https://99percentinvisible.org/episode/wait-wait-tell-me/">https://99percentinvisible.org/episode/wait-wait-tell-me/</a></li> 
 <li> <a href="https://slatestarcodex.com/">https://slatestarcodex.com/</a></li> 
 <li> <a href="https://yoshuabengio.org/">https://yoshuabengio.org/</a></li> 
+<li> <a href="https://semianalysis.substack.com/">https://semianalysis.substack.com/</a></li> 
+<li> <a href="https://joemorrison.substack.com/">https://joemorrison.substack.com/</a></li> 
+<li> <a href="https://ofdollarsanddata.com/">https://ofdollarsanddata.com/</a></li> 
+<li> <a href="https://seths.blog/">https://seths.blog/</a></li> 
 </ul>
 <h2>Books</h2>
 <ul>
@@ -60,6 +64,7 @@
 <li> <a href="https://hudsonreview.com/">https://hudsonreview.com/</a></li> 
 <li> <a href="https://www.globalgreyebooks.com/index.html">https://www.globalgreyebooks.com/index.html</a></li> 
 <li> <a href="https://mitpress.mit.edu/sites/default/files/sicp/index.html">https://mitpress.mit.edu/sites/default/files/sicp/index.html</a></li> 
+<li> <a href="https://cs.brown.edu/courses/cs173/2012/book/index.html">https://cs.brown.edu/courses/cs173/2012/book/index.html</a></li> 
 </ul>
 <h2>Business</h2>
 <ul>
@@ -133,6 +138,7 @@
 <h2>Engineering</h2>
 <ul>
 <li> <a href="https://endless-sphere.com/forums/">https://endless-sphere.com/forums/</a></li> 
+<li> <a href="https://blog.fennel.ai/p/real-world-recommendation-system?s=r">https://blog.fennel.ai/p/real-world-recommendation-system?s=r</a></li> 
 </ul>
 <h2>Enginnering blogs</h2>
 <ul>
@@ -806,7 +812,7 @@
 <ul>
 <li> <a href="https://www.mindat.org/">https://www.mindat.org/</a></li> 
 </ul>
-<h2>Math</h2>
+<h2>Mathematics</h2>
 <ul>
 <li> <a href="https://www.fxsolver.com/">https://www.fxsolver.com/</a></li> 
 <li> <a href="https://www.geogebra.org/materials">https://www.geogebra.org/materials</a></li> 
@@ -818,7 +824,10 @@
 <li> <a href="https://seeing-theory.brown.edu/index.html#4thPage">https://seeing-theory.brown.edu/index.html#4thPage</a></li> 
 <li> <a href="https://lectures.quantecon.org/jl/">https://lectures.quantecon.org/jl/</a></li> 
 <li> <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html">https://www.cs.usfca.edu/~galles/visualization/Algorithms.html</a></li> 
+<li> <a href="https://betanalpha.github.io/assets/case_studies/probability_theory.html">https://betanalpha.github.io/assets/case_studies/probability_theory.html</a></li> 
 <li> <a href="https://algorithms-tour.stitchfix.com/">https://algorithms-tour.stitchfix.com/</a></li> 
+<li> <a href="http://chalkdustmagazine.com/black-mathematician-month/the-mathematics-of-black-panther/">http://chalkdustmagazine.com/black-mathematician-month/the-mathematics-of-black-panther/</a></li> 
+<li> <a href="http://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html?href=">http://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html?href=</a></li> 
 <li> <a href="https://www.nature.com/articles/s41467-019-08678-0">https://www.nature.com/articles/s41467-019-08678-0</a></li> 
 <li> <a href="https://towardsdatascience.com/brief-introduction-to-markov-chains-2c8cab9c98ab">https://towardsdatascience.com/brief-introduction-to-markov-chains-2c8cab9c98ab</a></li> 
 <li> <a href="https://auth0.com/blog/real-time-charts-using-angular-d3-and-socket-io/">https://auth0.com/blog/real-time-charts-using-angular-d3-and-socket-io/</a></li> 
@@ -829,12 +838,7 @@
 <li> <a href="https://betterexplained.com/archives/">https://betterexplained.com/archives/</a></li> 
 <li> <a href="https://ourway.keybase.pub/mathematics_cheat_sheet.pdf">https://ourway.keybase.pub/mathematics_cheat_sheet.pdf</a></li> 
 <li> <a href="http://mathman.biz/materials/Calculus%20By%20and%20For%20Young%20People%20Worksheets.pdf">http://mathman.biz/materials/Calculus%20By%20and%20For%20Young%20People%20Worksheets.pdf</a></li> 
-</ul>
-<h2>Maths</h2>
-<ul>
-<li> <a href="https://betanalpha.github.io/assets/case_studies/probability_theory.html">https://betanalpha.github.io/assets/case_studies/probability_theory.html</a></li> 
-<li> <a href="http://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html?href=">http://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html?href=</a></li> 
-<li> <a href="http://chalkdustmagazine.com/black-mathematician-month/the-mathematics-of-black-panther/">http://chalkdustmagazine.com/black-mathematician-month/the-mathematics-of-black-panther/</a></li> 
+<li> <a href="https://proofwiki.org/wiki/Main_Page">https://proofwiki.org/wiki/Main_Page</a></li> 
 </ul>
 <h2>Notes</h2>
 <ul>
@@ -914,6 +918,7 @@
 <li> <a href="http://www.fmwconcepts.com/imagemagick/draganeffect/index.php">http://www.fmwconcepts.com/imagemagick/draganeffect/index.php</a></li> 
 <li> <a href="https://en.algorithmica.org/hpc/">https://en.algorithmica.org/hpc/</a></li> 
 <li> <a href="https://journal.stuffwithstuff.com/archive/">https://journal.stuffwithstuff.com/archive/</a></li> 
+<li> <a href="https://walkccc.me/LeetCode/preface/">https://walkccc.me/LeetCode/preface/</a></li> 
 </ul>
 <h2>Quantumcomputing</h2>
 <ul>
@@ -1021,16 +1026,6 @@
 <li> <a href="https://education.github.com/pack/offers">https://education.github.com/pack/offers</a></li> 
 <li> <a href="https://github.com/marcelstoer/nodemcu-pyflasher">https://github.com/marcelstoer/nodemcu-pyflasher</a></li> 
 </ul>
-<h2>Social</h2>
-<ul>
-<li> <a href="https://m.facebook.com/home.php">https://m.facebook.com/home.php</a></li> 
-<li> <a href="https://www.linkedin.com/home?trk=nav_responsive_tab_home">https://www.linkedin.com/home?trk=nav_responsive_tab_home</a></li> 
-<li> <a href="https://www.netflix.com/browse">https://www.netflix.com/browse</a></li> 
-<li> <a href="https://twitter.com/">https://twitter.com/</a></li> 
-<li> <a href="https://www.youtube.com/?gl=IN">https://www.youtube.com/?gl=IN</a></li> 
-<li> <a href="https://www.facebook.com/">https://www.facebook.com/</a></li> 
-<li> <a href="https://medium.com/">https://medium.com/</a></li> 
-</ul>
 <h2>Softwarestack</h2>
 <ul>
 <li> <a href="https://www.cybrary.it/">https://www.cybrary.it/</a></li> 
@@ -1067,6 +1062,43 @@
 <li> <a href="https://ap.www.namecheap.com/domains/dcp/share/prakashsellathurai.me/rights">https://ap.www.namecheap.com/domains/dcp/share/prakashsellathurai.me/rights</a></li> 
 <li> <a href="https://plot.ly/ipython-notebooks/bicycle-control-design/#open-loop-bicycle-model">https://plot.ly/ipython-notebooks/bicycle-control-design/#open-loop-bicycle-model</a></li> 
 <li> <a href="https://github.com/chenqingspring/ng-lottie#installation">https://github.com/chenqingspring/ng-lottie#installation</a></li> 
+<li> <a href="https://tabler-icons.io/">https://tabler-icons.io/</a></li> 
+</ul>
+<h2>Technical-papers</h2>
+<ul>
+<li> <a href="https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/40404.pdf">https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/40404.pdf</a></li> 
+<li> <a href="https://web.mit.edu/remy/TCPexMachina.pdf">https://web.mit.edu/remy/TCPexMachina.pdf</a></li> 
+<li> <a href="https://murdoch.is/papers/oakland10chipbroken.pdf">https://murdoch.is/papers/oakland10chipbroken.pdf</a></li> 
+<li> <a href="https://web.mit.edu/saltzer/www/publications/endtoend/endtoend.pdf">https://web.mit.edu/saltzer/www/publications/endtoend/endtoend.pdf</a></li> 
+<li> <a href="https://people.eecs.berkeley.edu/~matei/papers/2010/hotcloud_spark.pdf">https://people.eecs.berkeley.edu/~matei/papers/2010/hotcloud_spark.pdf</a></li> 
+<li> <a href="https://research.google/pubs/pub36726/">https://research.google/pubs/pub36726/</a></li> 
+<li> <a href="https://research.google/pubs/pub39966/">https://research.google/pubs/pub39966/</a></li> 
+<li> <a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf</a></li> 
+<li> <a href="https://pdos.csail.mit.edu/archive/scigen/rooter.pdf">https://pdos.csail.mit.edu/archive/scigen/rooter.pdf</a></li> 
+<li> <a href="https://pdos.csail.mit.edu/archive/scigen/">https://pdos.csail.mit.edu/archive/scigen/</a></li> 
+<li> <a href="https://it.wisc.edu/services/box/">https://it.wisc.edu/services/box/</a></li> 
+<li> <a href="http://www.jimmylin.umiacs.io/publications/Lin_Kolcz_SIGMOD2012.pdf">http://www.jimmylin.umiacs.io/publications/Lin_Kolcz_SIGMOD2012.pdf</a></li> 
+<li> <a href="https://www.aaai.org/Papers/AAAI/1998/AAAI98-002.pdf">https://www.aaai.org/Papers/AAAI/1998/AAAI98-002.pdf</a></li> 
+<li> <a href="https://www.eecs.harvard.edu/~michaelm/postscripts/hotsec2010.pdf">https://www.eecs.harvard.edu/~michaelm/postscripts/hotsec2010.pdf</a></li> 
+<li> <a href="https://www.cs.dartmouth.edu/~sergey/langsec/papers/Bratus.pdf">https://www.cs.dartmouth.edu/~sergey/langsec/papers/Bratus.pdf</a></li> 
+<li> <a href="https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf">https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf</a></li> 
+<li> <a href="http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf">http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf</a></li> 
+<li> <a href="https://www.cs.cmu.edu/~dga/papers/cops-sosp2011.pdf">https://www.cs.cmu.edu/~dga/papers/cops-sosp2011.pdf</a></li> 
+<li> <a href="https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf">https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf</a></li> 
+<li> <a href="https://arxiv.org/abs/1203.1895">https://arxiv.org/abs/1203.1895</a></li> 
+<li> <a href="https://pdos.csail.mit.edu/6.828/2011/readings/adams06vmware.pdf">https://pdos.csail.mit.edu/6.828/2011/readings/adams06vmware.pdf</a></li> 
+<li> <a href="https://static.usenix.org/events/vee06/full_papers/p144-gal.pdf">https://static.usenix.org/events/vee06/full_papers/p144-gal.pdf</a></li> 
+<li> <a href="https://www.daemonology.net/papers/htt.pdf">https://www.daemonology.net/papers/htt.pdf</a></li> 
+<li> <a href="https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36632.pdf">https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36632.pdf</a></li> 
+<li> <a href="https://llvm.org/pubs/2008-12-OSDI-KLEE.pdf">https://llvm.org/pubs/2008-12-OSDI-KLEE.pdf</a></li> 
+<li> <a href="https://src.chromium.org/viewvc/native_client/data/docs_tarball/nacl/googleclient/native_client/documentation/nacl_paper.pdf">https://src.chromium.org/viewvc/native_client/data/docs_tarball/nacl/googleclient/native_client/documentation/nacl_paper.pdf</a></li> 
+<li> <a href="https://bitcoin.org/bitcoin.pdf">https://bitcoin.org/bitcoin.pdf</a></li> 
+<li> <a href="https://www.microsoft.com/en-us/research/publication/paxos-made-simple/?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Fpaxos-simple.pdf">https://www.microsoft.com/en-us/research/publication/paxos-made-simple/?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Fpaxos-simple.pdf</a></li> 
+<li> <a href="https://web.archive.org/web/20070211210228/http://www.braithwaite-lee.com/opinions/p75-hoare.pdf">https://web.archive.org/web/20070211210228/http://www.braithwaite-lee.com/opinions/p75-hoare.pdf</a></li> 
+</ul>
+<h2>Talks</h2>
+<ul>
+<li> <a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">https://www.cs.virginia.edu/~robins/YouAndYourResearch.html</a></li> 
 </ul>
 <li> <a href="https://fermatslibrary.com/s/prediction-and-entropy-of-printed-english-2#email-newsletter">https://fermatslibrary.com/s/prediction-and-entropy-of-printed-english-2#email-newsletter</a></li> 
 <li> <a href="https://goldenaudiobooks.com/robert-cialdini-pre-suasion-audiobook-free-online/">https://goldenaudiobooks.com/robert-cialdini-pre-suasion-audiobook-free-online/</a></li> 
