@@ -1100,6 +1100,16 @@
 <ul>
 <li> <a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">https://www.cs.virginia.edu/~robins/YouAndYourResearch.html</a></li> 
 </ul>
+<h2>Electronics</h2>
+<ul>
+<li> <a href="https://paperd.ink/">https://paperd.ink/</a></li> 
+</ul>
+<h2>Contrary-ideas</h2>
+<ul>
+<li> <a href="https://hindenburgresearch.com/">https://hindenburgresearch.com/</a></li> 
+<li> <a href="https://www.cam.ac.uk/research/news/scientists-create-reliable-biological-photovoltaic-cell-using-algae">https://www.cam.ac.uk/research/news/scientists-create-reliable-biological-photovoltaic-cell-using-algae</a></li> 
+<li> <a href="https://pubs.acs.org/doi/10.1021/acsnano.1c11013">https://pubs.acs.org/doi/10.1021/acsnano.1c11013</a></li> 
+</ul>
 <li> <a href="https://fermatslibrary.com/s/prediction-and-entropy-of-printed-english-2#email-newsletter">https://fermatslibrary.com/s/prediction-and-entropy-of-printed-english-2#email-newsletter</a></li> 
 <li> <a href="https://goldenaudiobooks.com/robert-cialdini-pre-suasion-audiobook-free-online/">https://goldenaudiobooks.com/robert-cialdini-pre-suasion-audiobook-free-online/</a></li> 
 <li> <a href="https://hbr.org/2018/07/how-to-improve-your-business-english?utm_source=linkedin&utm_medium=social&utm_campaign=hbr">https://hbr.org/2018/07/how-to-improve-your-business-english?utm_source=linkedin&utm_medium=social&utm_campaign=hbr</a></li> 
